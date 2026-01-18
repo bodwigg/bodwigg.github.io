@@ -4,3 +4,6 @@ description: "Personal website"
 remote_theme: liamg/jekyll-theme-abysm
 plugins:
   - jekyll-remote-theme
+
+# Optional
+show_downloads: false
