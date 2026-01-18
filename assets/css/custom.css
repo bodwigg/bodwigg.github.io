@@ -30,6 +30,14 @@ img {
   box-shadow: 0 8px 30px rgba(0,0,0,0.35);
 }
 
-.photo-figure {
-  margin: 18px 0 26px;
+photo-figure figcaption {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.75);
+  letter-spacing: 0.2px;
+}
+
+.photo-figure figcaption::before {
+  content: "— ";
+  color: rgba(255,255,255,0.40);
 }
