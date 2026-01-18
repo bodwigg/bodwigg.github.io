@@ -13,7 +13,7 @@ I’m in love with dark, high contrast, colourful, clean, sharp images. I often 
 * [My Flickr Data Lifeboat Showcase](https://datalifeboat.flickr.org/showcase) with some images captured around my home [Uppsala at Home – A Neighbourhood Archive](https://datalifeboat.flickr.org/dl-showcase/Ulf_Bodin-Upsala/README.html).
 * A [Flickr blog post](https://blog.flickr.net/en/2025/12/16/building-flickr-archives-with-data-lifeboat/) about the Data Lifeboat.
 
-### Some of my favorite photos
+### Golden hour - favourites
 
 <figure class="photo-figure">
 <a href="https://www.flickr.com/photos/ulfbodin/11239519916/"><img class="photo"
@@ -38,7 +38,6 @@ I’m in love with dark, high contrast, colourful, clean, sharp images. I often 
      loading="lazy"></a>
 <figcaption>Viken, Skåne, July 1, 2017. Canon EOS 5DS R @ ISO 200, 1/5000 s, EF100-400mm f/4.5-5.6L IS II USM @ f/5.6</figcaption>
 </figure>
-
 
 
 
