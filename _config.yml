@@ -1,4 +1,6 @@
 title: "Ulf Bodin"
 description: "Personal website"
-theme: jekyll-theme-hacker
-show_downloads: false
+
+remote_theme: liamg/jekyll-theme-abysm
+plugins:
+  - jekyll-remote-theme
