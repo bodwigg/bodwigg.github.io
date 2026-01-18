@@ -19,6 +19,7 @@ title: Projects
 
 ### Larger Data Projects & Datasets
 
-* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project for National Collections of Music, Theatre and Dance, Stockholm
-* [Musical instruments from Musical instrument museums online (MIMO)](https://kulturnav.org/e0a3622b-74ab-423d-93b7-4be5815902d8) data transformation
-* [NMM Skipsregister (med Fiske-registeret) (Norsk Maritimt Museum)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9170 ships in the Fiske database) for Norwegian Maritime Museum.
+* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project for National Collections of Music, Theatre and Dance, Stockholm.
+* [Musical instruments from Musical instrument museums online (MIMO)](https://kulturnav.org/e0a3622b-74ab-423d-93b7-4be5815902d8) data transformation.
+* [NMM Skipsregister (med Fiske-registeret)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9170 ships in the Fiske database) for Norwegian Maritime Museum.
+* [Sällskapet för folkundervisningens befrämjande](https://dokument.nordiskamuseet.se/sallskapet) data transformation project forNordiskamuseet.
