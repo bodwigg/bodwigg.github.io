@@ -17,7 +17,7 @@ title: Projects
 * Preparedness for crises and war for museums (concept)
 
 
-### Data Projects & Datasets
+### Larger Data Projects & Datasets
 
 * [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project for National Collections of Music, Theatre and Dance, Stockholm
 * [Musical instruments from Musical instrument museums online (MIMO)](https://kulturnav.org/e0a3622b-74ab-423d-93b7-4be5815902d8) data transformation
