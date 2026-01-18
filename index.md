@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home
 ---
 
@@ -11,6 +10,6 @@ Ex archaeologist. Information hugger. Database activist. Riesling fan. Amateur p
 
 ## Contact
 
-- Email: `ulfbodin@outlook.com`
+- Private: `ulfbodin@outlook.com`
 - Work: `ulf.bodin@kulturit.org`
-- Flickr: `https://www.flickr.com/ulfbodin/`
+- Flickr: [ulfbodin](https://www.flickr.com/ulfbodin/)
