@@ -14,3 +14,10 @@ a:focus {
   text-decoration: underline; /* optional: only underline on hover */
   text-underline-offset: 0.15em;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+}
