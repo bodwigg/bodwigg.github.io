@@ -1,0 +1,15 @@
+/* Improve link contrast */
+a {
+  color: #7aa2f7;              /* soft bright blue */
+  text-decoration: underline;  /* makes links clearly distinct */
+  text-underline-offset: 0.15em;
+}
+
+a:visited {
+  color: #bb9af7;              /* purple visited links */
+}
+
+a:hover,
+a:focus {
+  color: #9ece6a;              /* green highlight */
+}
