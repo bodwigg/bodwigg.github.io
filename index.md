@@ -9,7 +9,7 @@ title: Ulf Bodin
 
 Ex archaeologist. Information hugger. Database activist. Riesling fan. Amateur photographer since the late 70's. 
 
-I’m based in Uppsala, Sweden. I work with cultural heritage data and museums as a Product Manager at [KulturIT AS](https://kulturit.org/). I manage [KulturNav.org](https://kulturnav.org/), an open, cloud-based Software-as-a-Service platform where museums can create, manage, and publish name authorities and vocabularies for cultural heritage.
+I’m based in Uppsala, Sweden. I work with cultural heritage data and museums as a Product Manager at [KulturIT AS](https://kulturit.org/). I manage [KulturNav.org](https://kulturnav.org/), an open, cloud-based Software-as-a-Service platform where museums can create, manage, and publish name authorities and vocabularies for linked open cultural heritage.
 
 At the moment, I’m also working on data, structures, models, and architecture for [eKultur](https://kulturit.org/ekultur) — our technical ecosystem for collections management and museum dissemination. This includes, for example, a write API for [DigitaltMuseum](https://digitaltmuseum.org/), as well as a central service for annotations and AI connected to cultural heritage documents (OCR/HTR/APE).
 
