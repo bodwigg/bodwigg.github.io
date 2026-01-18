@@ -1,15 +1,16 @@
-/* Improve link contrast */
+/* Improve link contrast without underline */
 a {
-  color: #7aa2f7;              /* soft bright blue */
-  text-decoration: underline;  /* makes links clearly distinct */
-  text-underline-offset: 0.15em;
+  color: #7aa2f7;
+  text-decoration: none;      /* <- removes underline */
 }
 
 a:visited {
-  color: #bb9af7;              /* purple visited links */
+  color: #bb9af7;
 }
 
 a:hover,
 a:focus {
-  color: #9ece6a;              /* green highlight */
+  color: #9ece6a;
+  text-decoration: underline; /* optional: only underline on hover */
+  text-underline-offset: 0.15em;
 }
