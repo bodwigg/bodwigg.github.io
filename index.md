@@ -1,10 +1,10 @@
 ---
-title: Home
+title: Ulf Bodin
 ---
 
 [Home](index.md) · [Projects](projects.md)
 
-# Hi, I’m **Ulf**
+# Hi, I’m **Ulf Bodin**
 
 Ex archaeologist. Information hugger. Database activist. Riesling fan. Amateur photographer since the late 70's.
 
