@@ -13,7 +13,7 @@ I’m in love with dark, high contrast, colourful, clean, sharp images. I often 
 * [My Flickr Data Lifeboat Showcase](https://datalifeboat.flickr.org/showcase) with some images captured around my home [Uppsala at Home – A Neighbourhood Archive](https://datalifeboat.flickr.org/dl-showcase/Ulf_Bodin-Upsala/README.html).
 * A [Flickr blog post](https://blog.flickr.net/en/2025/12/16/building-flickr-archives-with-data-lifeboat/) about the Data Lifeboat.
 
-### Some photos
+### Some of my favorite photos
 
 <figure class="photo-figure">
 <a href="https://www.flickr.com/photos/ulfbodin/11239519916/"><img class="photo"
@@ -22,4 +22,15 @@ I’m in love with dark, high contrast, colourful, clean, sharp images. I often 
      loading="lazy"></a>
 <figcaption>Djurgården, November 26, 2013. Canon EOS 5D Mark III @ ISO 100, 1/1600 s, EF 50mm f/1.2L USM @ f/2.5</figcaption>
 </figure>
+
+<figure class="photo-figure">
+<a href="https://www.flickr.com/photos/ulfbodin/40883074782/"><img class="photo"
+     src="https://live.staticflickr.com/819/40883074782_6496524d60_b.jpg"
+     alt="Photo: Stockholm, March 20, 2018"
+     loading="lazy"></a>
+<figcaption>Stockholm, March 20, 2018. Canon EOS M3 @ ISO 100, 1/160 s, EF-M55-200mm f/4.5-6.3 IS STM USM @ f/7.1</figcaption>
+</figure>
+
+
+
 
