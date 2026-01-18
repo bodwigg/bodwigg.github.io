@@ -1,3 +1,8 @@
+---
+layout: default
+title: test
+---
+
 # 1
 
 ## 2
