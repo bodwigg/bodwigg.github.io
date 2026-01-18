@@ -3,7 +3,7 @@ layout: page
 title: Ulf Bodin
 ---
 
-[Home](index.md) · [Projects](projects.md)
+[Home](index.md) · [Projects](projects.md) · [Photography](photography.md)
 
 # Hi, I’m **Ulf Bodin**
 
