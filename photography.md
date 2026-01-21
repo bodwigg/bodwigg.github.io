@@ -35,7 +35,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      src="https://live.staticflickr.com/819/40883074782_6496524d60_b.jpg"
      alt="Photo: Stockholm, March 20, 2018"
      loading="lazy"></a>
-<figcaption>Stockholm, March 20, 2018. Canon EOS M3 @ ISO 100, 1/160 s, EF-M55-200mm f/4.5-6.3 IS STM USM @ f/7.1</figcaption>
+<figcaption>Stockholm, March 20, 2018. Canon EOS M3 @ ISO 100, 1/160 s, EF-M 55-200mm f/4.5-6.3 IS STM USM @ f/7.1</figcaption>
 </figure>
 
 <figure class="photo-figure">
@@ -43,7 +43,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      src="https://live.staticflickr.com/4383/35708560543_7411b14b49_b.jpg"
      alt="Photo: Viken, Skåne, July 1, 2017"
      loading="lazy"></a>
-<figcaption>Viken, Skåne, July 1, 2017. Canon EOS 5DS R @ ISO 200, 1/5000 s, EF100-400mm f/4.5-5.6L IS II USM @ f/5.6</figcaption>
+<figcaption>Viken, Skåne, July 1, 2017. Canon EOS 5DS R @ ISO 200, 1/5000 s, EF 100-400mm f/4.5-5.6L IS II USM @ f/5.6</figcaption>
 </figure>
 
 ### The Blue hour - some favourites
@@ -53,7 +53,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      src="https://live.staticflickr.com/7884/33621814458_90e9f5175e_b.jpg"
      alt="Photo: Uppsala, March 7, 2019"
      loading="lazy"></a>
-<figcaption>Uppsala, March 7, 2019. Canon EOS R @ ISO 2500, 1/250 s, EF100-400mm f/4.5-5.6L IS II USM @ f/5.6</figcaption>
+<figcaption>Uppsala, March 7, 2019. Canon EOS R @ ISO 2500, 1/250 s, EF 100-400mm f/4.5-5.6L IS II USM @ f/5.6</figcaption>
 </figure>
 
 <figure class="photo-figure">
@@ -69,7 +69,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      src="https://live.staticflickr.com/2875/10057700646_d6c76066ef_b.jpg"
      alt="Photo: Moon over Skatan 3, July 23, 2013."
      loading="lazy"></a>
-<figcaption>Moon over Skatan 3, July 23, 2013. Canon EOS 5D Mark III @ ISO 400, 1/13 s, Canon EOS 5D Mark III @ f/2.0</figcaption>
+<figcaption>Moon over Skatan 3, July 23, 2013. Canon EOS 5D Mark III @ ISO 400, 1/13 s, EF 70-200mm f/2.8L IS II USM @ f/9</figcaption>
 </figure>
 
 
