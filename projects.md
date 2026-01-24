@@ -12,6 +12,7 @@ title: Projects
 ### Projects
 
 * KulturNav 2 - the new version (as Manager)
+* KulturNav releases: 1.12.10 - 1.12.15 (as Manager)
 * Document AI - OCR/HTR/APE (as Manager) [dokument.nordiskamuseet.se](https://dokument.nordiskamuseet.se/)
 * eKultur Annotations (concept)
 * Preparedness for crises and war for museums (concept)
@@ -25,9 +26,33 @@ title: Projects
 
 ## 2023 - 2024
 
+### Projects
+
+* KulturNav 2 - the new version (concept)
+* KulturNav, 9 releases: - 1.12.1 - 1.12.9 (as Manager)
+* Tvättmaskinen/Datavask - collection data cleaning/matching (as Manager)
+* Koordinert samlingsutvikling – kystkultur (Kulturdirektoratet/Arts Council Norway; as Consult) 
+
+### Larger Data Projects & Datasets
+
+
 ## 2021 - 2022
 
+### Projects
+
+* KulturNav, 9 releases: 1.10.1 - 1.11.4 (as Manager)
+* Tvättmaskinen/Datavask - collection data cleaning/matching (concept)
+* Koordinert samlingsutvikling – kunst (Kulturdirektoratet/Arts Council Norway; as Consult) 
+
+### Larger Data Projects & Datasets
+
+
+
 ## 2019 - 2020
+
+* Fra felt till fil till folk: eKultur DAMS project module (concept)
+
+https://marmuseum.no/arkeologi/kart
 
 ## 2017 - 2018
 
