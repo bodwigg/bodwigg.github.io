@@ -22,7 +22,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
 
 ## Portfolio
 
-### <a href="#golden">Golden</a> · <a href="#blue">Blue</a> · <a href="#street">Street</a> · <a href="#urban">Urban</a> · <a href="#panorama">Panomrama</a> · <a href="#black_white">Black & White</a>
+### <a href="#golden">Golden</a> · <a href="#blue">Blue</a> · <a href="#street">Street</a> · <a href="#urban">Urban</a> · <a href="#panorama">Panorama</a> · <a href="#black_white">Black & White</a> · <a href="#models">Models</a>
 
 ### Golden <a name="golden"></a>
 
@@ -179,7 +179,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
   </div>
 </div>
 
-### Urban <a name="urbaln"></a>
+### Urban <a name="urban"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -338,10 +338,67 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Friseboda, July 10, 2025<br>
-        Canon EOS M · ISO 100 · 1/250 s · RF 15-35mm F2.8 L IS USM · f/9.0
+        Canon EOS R5 · ISO 100 · 1/250 s · RF 15-35mm F2.8 L IS USM · f/9.0
       </figcaption>
     </figure>
   </div>
 </div>
+
+### Models <a name="models"></a>
+
+<div class="photo-group-wrapper">
+  <div class="photo-group">
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/48585906931/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/48585906931_4ea8b4b555_z.jpg"
+             alt="Estelle, July 6, 2019"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Estelle, July 6, 2019<br>
+        Canon EOS R · ISO 100 · 1/400 s · RF 85mm F1.2 L USM · f/1.2
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/36987287693/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/4489/36987287693_bd03f97686_z.jpg"
+             alt="Estelle, September 17, 2017"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Estelle, September 17, 2017<br>
+        Canon EOS 5DS R · ISO 100 · 1/3200 s ·EF 85mm f/1.2L II USM · f/1.2
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/48585905811/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/48585905811_14657b4d0e_z.jpg"
+             alt="Estelle, July 6, 2019"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Estelle, July 6, 2019<br>
+        Canon EOS R · ISO 100 · 1/1000 s · RF 85mm F1.2 L USM · f/1.2
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/54795581298/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/3887/14721489097_2740023325_z.jpg"
+             alt="Assi, June 8, 2014"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Assi, June 8, 2014<br>
+        Canon EOS 5D Mark III · ISO 100 · 1/1600 s · EF 85mm f/1.2L II USM · f/1.2
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+
 
 
