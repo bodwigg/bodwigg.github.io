@@ -53,7 +53,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      src="https://live.staticflickr.com/4383/35708560543_7411b14b49_z.jpg"
      alt="Photo: Viken, Skåne, July 1, 2017"
      loading="lazy"></a>
-<figcaption class="caption">Viken, Skåne, July 1, 2017<br>Canon EOS 5DS R · ISO 200, 1/5000 s · EF 100-400mm f/4.5-5.6L IS II USM · f/5.6</figcaption>
+<figcaption class="caption">Viken, Skåne, July 1, 2017<br>Canon EOS 5DS R · ISO 200 · 1/5000 s · EF 100-400mm f/4.5-5.6L IS II USM · f/5.6</figcaption>
 </figure>
 
 <figure class="photo-card">
@@ -226,6 +226,116 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       <figcaption class="caption">
         Strandvägen, Stockholm, November 9, 2016<br>
         Canon EOS 5DS R · ISO 100 · 1/500 s · EF 35mm f/1.4L II USM · f/1.4
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+### Panorama
+
+<div class="photo-group-wrapper">
+  <div class="photo-group">
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/22229082528/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/584/22229082528_1c7c3f1516_c.jpg"
+             alt="Uppsala, August 22, 2015"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Uppsala, August 22, 2015<br>
+        Canon EOS M3 · ISO 100 · 1/20 s · EF-M 11-22mm f/4-5.6 IS STM · f/8.0
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/48615761886/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/48615761886_6fb0a8626d_c.jpg"
+             alt="Lake Siljan, Plintsberg, July 16, 2019"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Lake Siljan, Plintsberg, July 16, 2019<br>
+        Canon EOS R · ISO 200 · 1/800 s · EF 100-400mm f/4.5-5.6L IS II USM · f/8.0
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/14667467440/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/3873/14667467440_21d95e9208_c.jpg"
+             alt="Tjurpannans nature reserve, June 19, 2014"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Tjurpannans nature reserve, June 19, 2014<br>
+        Canon EOS 5D Mark III · ISO 100 · 1/500 s · EF 70-200mm f/2.8L IS II USM · f/8.0
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/16045369985/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/7528/16045369985_b78a01dcd2_c.jpg"
+             alt="Oslo, December 17, 2014"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Oslo, December 17, 2014<br>
+        Canon EOS M · ISO 100 · 1/250 s · EF-M 55-200mm f/4.5-6.3 IS STM · f/10.0
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+### Black & White
+
+<div class="photo-group-wrapper">
+  <div class="photo-group">
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/22583841975/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/5716/22583841975_fa8190e1da_z.jpg"
+             alt="Uppsala, August 22, 2015"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Uppsala, August 22, 2015<br>
+        Canon EOS M3 · ISO 100 · 1/20 s · EF-M 11-22mm f/4-5.6 IS STM · f/8.0
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/15490937218/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/3945/15490937218_9c6d785057_z.jpg"
+             alt="Uppsala, September 18, 2014"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Uppsala, September 18, 2014<br>
+        Canon EOS M · ISO 400 · 1/2000 s · EF-M 22mm f/2 STM · f/4.0
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/55054142323/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/55054142323_5c9eb73cb8_z.jpg"
+             alt="Uppsala, June 21, 2020"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Uppsala, June 21, 2020<br>
+        Canon EOS R · ISO 100 · 1/8000 s · RF 85mm F1.2 L USM · f/2.2
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/54795581298/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/54795581298_1c8b2295da_z.jpg"
+             alt="Friseboda, July 10, 2025"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Friseboda, July 10, 2025<br>
+        Canon EOS M · ISO 100 · 1/250 s · RF 15-35mm F2.8 L IS USM · f/9.0
       </figcaption>
     </figure>
   </div>
