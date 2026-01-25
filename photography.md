@@ -20,7 +20,8 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
 * 2009 - 2018: Canon EOS 5D II -> Canon EOS 5D III -> **Canon EOS 5Ds R** ->
 * 2018 - : Canon EOS R -> **Canon EOS R5**
 
-## The Golden hour - some favourites
+## Portfolio
+### Golden
 
 <div class="photo-group-wrapper">
 <div class="photo-group">
@@ -61,11 +62,11 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      alt="Stockholm, March 10, 2016"
      loading="lazy"></a>
 <figcaption class="caption">Stockholm, March 10, 2016<br>Canon EOS M3 · ISO 100 , 1/400 s · EF-M 22mm f/2 STM · f/7.1</figcaption>
-</figure>s
+</figure>
 </div>
 </div>
 
-## The Blue hour - some favourites
+### Blue
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -117,9 +118,117 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
         Canon EOS R · ISO 3200 · 1/160 s · EF 100-400mm f/4.5-5.6L IS II USM · f/5.6
       </figcaption>
     </figure>
-
-
-
   </div>
 </div>
+
+### Street
+
+<div class="photo-group-wrapper">
+  <div class="photo-group">
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/8868855162" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/7440/8868855162_07638852d0_z.jpg"
+             alt="Stockholm, May 25, 2013"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Stockholm, May 25, 2013<br>
+        Canon EOS 5D Mark III · ISO 100 · 1/8000 s · EF 50mm f/1.2L USM · f/1.2
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/13742758993/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/7077/13742758993_fb1511e267_z.jpg"
+             alt="Café Söderberg, Stockholm, April 7, 2014"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Café Söderberg, Stockholm, April 7, 2014<br>
+        Canon EOS 5D Mark III · ISO 100 · 1/500 s · EF 85mm f/1.2L II USM · f/1.2
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/40250193834/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/816/40250193834_2dc011eb1b_z.jpg"
+             alt="Stockholm, March 20, 2018"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Stockholm, March 20, 2018<br>
+        Canon EOS M3 · ISO 100 · 1/160 s · EF-M 55-200mm f/4.5-6.3 IS STM · f/7.1
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/52545396685/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/52545396685_3f6f809bfa_z.jpg"
+             alt="Rainy Day in Barcelona, November 28, 2022"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Rainy Day in Barcelona, November 28, 2022<br>
+        Canon EOS R5 · ISO 160 · 1/250 s · RF 50mm F1.2 L USM · f/5.6
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+### Urban
+
+<div class="photo-group-wrapper">
+  <div class="photo-group">
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/8032992185/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/8031/8032992185_f9d6df2579_z.jpg"
+             alt="Gösta, Uppsala, September 4, 2012"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Gösta, Uppsala, September 4, 2012<br>
+        Canon EOS 5D Mark II · ISO 3200 · 1/160 s · EF 40mm f/2.8 STM · f/2.8
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/14098647474/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/7178/14098647474_b74847bbbb_z.jpg"
+             alt="Norrköping, April 19, 2014"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Norrköping, April 19, 2014<br>
+        Canon EOS 5D Mark III · ISO 50 · 1/6400 s · EF 50mm f/1.2L USM · f/1.2
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/53364475681/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/53364475681_aae24a9da2_z.jpg"
+             alt="Trondheim, November 20, 2023"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Trondheim, November 20, 2023<br>
+        Canon EOS R5 · ISO 4000 · 1/4 s · RF 28mm F2.8 STM · f/4.0
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/32568302341/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/659/32568302341_d0e208f64c_z.jpg"
+             alt="Strandvägen, Stockholm, November 9, 2016"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Strandvägen, Stockholm, November 9, 2016<br>
+        Canon EOS 5DS R · ISO 100 · 1/500 s · EF 35mm f/1.4L II USM · f/1.4
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
 
