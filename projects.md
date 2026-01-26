@@ -7,7 +7,11 @@ title: Projects
 
 # Projects and Datasets
 
-## 2025-2026
+In chronological order, newest first:
+
+#### <a href= "#2025">2025</a> · <a href= "#2023">2023</a> · <a href= "#2021">2021</a>
+
+## 2025-2026 <a name="2025"></a>
 
 ### Projects
 
@@ -24,7 +28,7 @@ title: Projects
 * [NMM Skipsregister (med Fiske-registeret)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9 170 ships in the Fiske database) for Norwegian Maritime Museum.
 * [Sällskapet för folkundervisningens befrämjande](https://dokument.nordiskamuseet.se/sallskapet) data transformation for Nordiska museet.
 
-## 2023 - 2024
+## 2023 - 2024 <a name="2023"></a>
 
 ### Projects
 
@@ -36,7 +40,7 @@ title: Projects
 ### Larger Data Projects & Datasets
 
 
-## 2021 - 2022
+## 2021 - 2022 <a name="2021"></a>
 
 ### Projects
 

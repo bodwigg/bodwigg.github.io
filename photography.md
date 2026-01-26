@@ -7,22 +7,32 @@ title: Photography
 
 # Photography
 
-I’m in love with dark, high contrast, colourful, clean, sharp images. I often use image stitching to get wider angles or square images. I post-process my images to re-create the mode and feeling from the photo moment. I never add things to my pictures, but sometimes I merge several captures to one. I'm using Flickr and love the site. 
+I’m in love with dark, high contrast, colourful, clean, sharp images. I often use image stitching to get wider angles or square images. I post-process my images to re-create the mode and feeling from the photo moment. I never add things to my pictures, but sometimes I merge several captures to one. I sometimes use AI-assisted features in Adobe Lightroom Classic to create masks and make selective edits to my images. I use them with caution.
 
-* [My Flickr Page](https://www.flickr.com/photos/ulfbodin/).
-* [My Flickr Data Lifeboat Showcase](https://datalifeboat.flickr.org/showcase) with some images captured around my home [Uppsala at Home – A Neighbourhood Archive](https://datalifeboat.flickr.org/dl-showcase/Ulf_Bodin-Upsala/README.html).
-* A [Flickr blog post](https://blog.flickr.net/en/2025/12/16/building-flickr-archives-with-data-lifeboat/) about the Data Lifeboat.
+## Flickr
+
+I'm using Flickr since 2007 and love the site. 
+
+* [My Flickr Page](https://www.flickr.com/photos/ulfbodin/)
+* [My Flickr Data Lifeboat Showcase](https://datalifeboat.flickr.org/showcase) with some images captured around my home: [Uppsala at Home – A Neighbourhood Archive](https://datalifeboat.flickr.org/dl-showcase/Ulf_Bodin-Upsala/README.html)
+* A [Flickr blog post](https://blog.flickr.net/en/2025/12/16/building-flickr-archives-with-data-lifeboat/) about the Data Lifeboat
+
+If you are interested to use my images in commercial work or hire me for a photo shoot, please contact me by Flickr mail or [email](/)
+
+## Gear
 
 I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping history:
 
-* 1978 - 2000: Olympus OM 1 -> Olympus OM 2n -> **Leica M6** ->
-* 2000 - 2009: Olympus C-2040 Zoom -> Sigma Dp 1 -> **Canon EOS 550D** ->
-* 2009 - 2018: Canon EOS 5D II -> Canon EOS 5D III -> **Canon EOS 5Ds R** ->
+* 1978 - 2000: Olympus OM 1 -> Olympus OM 2n -> Leica M6 ->
+* 2000 - 2009: Olympus C-2040 Zoom -> Sigma Dp 1 -> Canon EOS 550D ->
+* 2009 - 2018: Canon EOS 5D II -> Canon EOS 5D III -> Canon EOS 5Ds R ->
 * 2018 - : Canon EOS R -> **Canon EOS R5**
 
 ## Portfolio
 
-### <a href="#golden">Golden</a> · <a href="#blue">Blue</a> · <a href="#street">Street</a> · <a href="#urban">Urban</a> · <a href="#panorama">Panorama</a> · <a href="#black_white">Black & White</a> · <a href="#models">Models</a>
+A curated selection of my favourite photographs, grouped into eight themes:
+
+#### <a href="#golden">Golden</a> · <a href="#blue">Blue</a> · <a href="#street">Street</a> · <a href="#urban">Urban</a> · <a href="#panorama">Panorama</a> · <a href="#black_white">Black & White</a> · <a href="#model">Model</a> · <a href="#portrait">Portrait</a>
 
 ### Golden <a name="golden"></a>
 
@@ -344,7 +354,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
   </div>
 </div>
 
-### Models <a name="models"></a>
+### Model <a name="model"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -399,6 +409,60 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
   </div>
 </div>
 
+### Portrait <a name="portrait"></a>
+
+<div class="photo-group-wrapper">
+  <div class="photo-group">
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/55062529228/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/55062529228_28ea000804_z.jpg"
+             alt="Martin, March 6, 2011"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Martin, March 6, 2011<br>
+        Canon EOS 5D Mark II · ISO 800 · 1/250s · EF 85mm F1.2 L II USM · f/1.2
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/48094086612/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/48094086612_ed2bd41c5b_z.jpg"
+             alt="Martin, June 16, 2019"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Martin, June 16, 2019<br>
+        Canon EOS R · ISO 100 · 1/2000s · RF 50mm f/1.2L USM · f/1.6
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/51381649122/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/51381649122_51160c4627_z.jpg"
+             alt="Martin, July 9, 2021"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Martin, July 9, 2021<br>
+        Canon EOS R5 · ISO 2500 · 1/80s · RF 15-35mm F2.8 L IS USM · f/2.8
+      </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="https://www.flickr.com/photos/ulfbodin/48672630206/" target="_blank" rel="noopener">
+        <img class="photo"
+             src="https://live.staticflickr.com/65535/48672630206_4e940a4e08_z.jpg"
+             alt="Estelle, July 6, 2019"
+             loading="lazy">
+      </a>
+      <figcaption class="caption">
+        Estelle, July 6, 2019<br>
+        Canon EOS R · ISO 100 · 1/1000s · RF 85mm f/1.2L USM · f/1.2
+      </figcaption>
+    </figure>
+  </div>
+</div>
 
 
 
