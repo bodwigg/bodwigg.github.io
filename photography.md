@@ -38,7 +38,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
 
   <figcaption class="caption">
     Djurgården, November 26, 2013<br>
-    Canon EOS 5D Mark III · ISO 100 · 1/1600 s · EF 50mm f/1.2L USM · f/2.5
+    Canon EOS 5D Mark III · ISO 100 · 1/1600s · EF 50mm f/1.2L USM · f/2.5
   </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      alt="Photo: Stockholm, March 20, 2018"
      loading="lazy">
      </a>
-     <figcaption class="caption">Stockholm, March 20, 2018<br>Canon EOS M3 · ISO 100 · 1/160 s · EF-M 55-200mm f/4.5-6.3 IS STM USM · f/7.1</figcaption>
+     <figcaption class="caption">Stockholm, March 20, 2018<br>Canon EOS M3 · ISO 100 · 1/160s · EF-M 55-200mm f/4.5-6.3 IS STM · f/7.1</figcaption>
 </figure>
 
 <figure class="photo-card">
@@ -56,7 +56,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      src="https://live.staticflickr.com/4383/35708560543_7411b14b49_z.jpg"
      alt="Photo: Viken, Skåne, July 1, 2017"
      loading="lazy"></a>
-<figcaption class="caption">Viken, Skåne, July 1, 2017<br>Canon EOS 5DS R · ISO 200 · 1/5000 s · EF 100-400mm f/4.5-5.6L IS II USM · f/5.6</figcaption>
+<figcaption class="caption">Viken, Skåne, July 1, 2017<br>Canon EOS 5DS R · ISO 200 · 1/5000s · EF 100-400mm f/4.5-5.6L IS II USM · f/5.6</figcaption>
 </figure>
 
 <figure class="photo-card">
@@ -64,7 +64,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
      src="https://live.staticflickr.com/1571/26101191820_5ee967da83_z.jpg"
      alt="Stockholm, March 10, 2016"
      loading="lazy"></a>
-<figcaption class="caption">Stockholm, March 10, 2016<br>Canon EOS M3 · ISO 100 , 1/400 s · EF-M 22mm f/2 STM · f/7.1</figcaption>
+<figcaption class="caption">Stockholm, March 10, 2016<br>Canon EOS M3 · ISO 100 · 1/400s · EF-M 22mm f/2 STM · f/7.1</figcaption>
 </figure>
 </div>
 </div>
@@ -82,7 +82,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Uppsala, March 7, 2019<br>
-        Canon EOS R · ISO 2500 · 1/250 s · EF 100–400mm f/4.5–5.6L IS II USM · f/5.6
+        Canon EOS R · ISO 2500 · 1/250s · EF 100–400mm f/4.5–5.6L IS II USM · f/5.6
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -94,7 +94,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Stockholm at dusk, February 11, 2014<br>
-        Canon EOS 5D Mark III · ISO 3200 · 1/125 s · EF 50mm f/1.2L USM · f/2.0
+        Canon EOS 5D Mark III · ISO 3200 · 1/125s · EF 50mm f/1.2L USM · f/2.0
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -106,7 +106,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Moon over Skatan 3, July 23, 2013<br>
-        Canon EOS 5D Mark III · ISO 400 · 1/13 s · EF 70–200mm f/2.8L IS II USM · f/9
+        Canon EOS 5D Mark III · ISO 400 · 1/13s · EF 70–200mm f/2.8L IS II USM · f/9
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -118,7 +118,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Uppsala, March 7, 2019<br>
-        Canon EOS R · ISO 3200 · 1/160 s · EF 100-400mm f/4.5-5.6L IS II USM · f/5.6
+        Canon EOS R · ISO 3200 · 1/160s · EF 100-400mm f/4.5-5.6L IS II USM · f/5.6
       </figcaption>
     </figure>
   </div>
@@ -137,7 +137,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Stockholm, May 25, 2013<br>
-        Canon EOS 5D Mark III · ISO 100 · 1/8000 s · EF 50mm f/1.2L USM · f/1.2
+        Canon EOS 5D Mark III · ISO 100 · 1/8000s · EF 50mm f/1.2L USM · f/1.2
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -149,7 +149,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Café Söderberg, Stockholm, April 7, 2014<br>
-        Canon EOS 5D Mark III · ISO 100 · 1/500 s · EF 85mm f/1.2L II USM · f/1.2
+        Canon EOS 5D Mark III · ISO 100 · 1/500s · EF 85mm f/1.2L II USM · f/1.2
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -161,7 +161,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Stockholm, March 20, 2018<br>
-        Canon EOS M3 · ISO 100 · 1/160 s · EF-M 55-200mm f/4.5-6.3 IS STM · f/7.1
+        Canon EOS M3 · ISO 100 · 1/160s · EF-M 55-200mm f/4.5-6.3 IS STM · f/7.1
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -173,7 +173,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Rainy Day in Barcelona, November 28, 2022<br>
-        Canon EOS R5 · ISO 160 · 1/250 s · RF 50mm F1.2 L USM · f/5.6
+        Canon EOS R5 · ISO 160 · 1/250s · RF 50mm F1.2 L USM · f/5.6
       </figcaption>
     </figure>
   </div>
@@ -247,7 +247,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Uppsala, August 22, 2015<br>
-        Canon EOS M3 · ISO 100 · 1/20 s · EF-M 11-22mm f/4-5.6 IS STM · f/8.0
+        Canon EOS M3 · ISO 100 · 1/20s · EF-M 11-22mm f/4-5.6 IS STM · f/8.0
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -259,7 +259,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Lake Siljan, Plintsberg, July 16, 2019<br>
-        Canon EOS R · ISO 200 · 1/800 s · EF 100-400mm f/4.5-5.6L IS II USM · f/8.0
+        Canon EOS R · ISO 200 · 1/800s · EF 100-400mm f/4.5-5.6L IS II USM · f/8.0
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -271,7 +271,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Tjurpannans nature reserve, June 19, 2014<br>
-        Canon EOS 5D Mark III · ISO 100 · 1/500 s · EF 70-200mm f/2.8L IS II USM · f/8.0
+        Canon EOS 5D Mark III · ISO 100 · 1/500s · EF 70-200mm f/2.8L IS II USM · f/8.0
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -283,7 +283,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Oslo, December 17, 2014<br>
-        Canon EOS M · ISO 100 · 1/250 s · EF-M 55-200mm f/4.5-6.3 IS STM · f/10.0
+        Canon EOS M · ISO 100 · 1/250s · EF-M 55-200mm f/4.5-6.3 IS STM · f/10.0
       </figcaption>
     </figure>
   </div>
@@ -302,7 +302,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Uppsala, August 22, 2015<br>
-        Canon EOS M3 · ISO 100 · 1/20 s · EF-M 11-22mm f/4-5.6 IS STM · f/8.0
+        Canon EOS M3 · ISO 100 · 1/20s · EF-M 11-22mm f/4-5.6 IS STM · f/8.0
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -314,7 +314,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Uppsala, September 18, 2014<br>
-        Canon EOS M · ISO 400 · 1/2000 s · EF-M 22mm f/2 STM · f/4.0
+        Canon EOS M · ISO 400 · 1/2000s · EF-M 22mm f/2 STM · f/4.0
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -326,7 +326,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Uppsala, June 21, 2020<br>
-        Canon EOS R · ISO 100 · 1/8000 s · RF 85mm F1.2 L USM · f/2.2
+        Canon EOS R · ISO 100 · 1/8000s · RF 85mm F1.2 L USM · f/2.2
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -338,7 +338,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Friseboda, July 10, 2025<br>
-        Canon EOS R5 · ISO 100 · 1/250 s · RF 15-35mm F2.8 L IS USM · f/9.0
+        Canon EOS R5 · ISO 100 · 1/250s · RF 15-35mm F2.8 L IS USM · f/9.0
       </figcaption>
     </figure>
   </div>
@@ -357,19 +357,19 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Estelle, July 6, 2019<br>
-        Canon EOS R · ISO 100 · 1/400 s · RF 85mm F1.2 L USM · f/1.2
+        Canon EOS R · ISO 100 · 1/400s · RF 85mm F1.2 L USM · f/1.2
       </figcaption>
     </figure>
     <figure class="photo-card">
-      <a href="https://www.flickr.com/photos/ulfbodin/36987287693/" target="_blank" rel="noopener">
+      <a href="https://www.flickr.com/photos/ulfbodin/48220646277/" target="_blank" rel="noopener">
         <img class="photo"
-             src="https://live.staticflickr.com/4489/36987287693_bd03f97686_z.jpg"
-             alt="Estelle, September 17, 2017"
+             src="https://live.staticflickr.com/65535/48220646277_14406240a2_z.jpg"
+             alt="Estelle, July 6, 2019"
              loading="lazy">
       </a>
       <figcaption class="caption">
-        Estelle, September 17, 2017<br>
-        Canon EOS 5DS R · ISO 100 · 1/3200 s ·EF 85mm f/1.2L II USM · f/1.2
+        Estelle, July 6, 2019<br>
+        Canon EOS R · ISO 400 · 1/500s · RF 85mm f/1.2L USM · f/1.2
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -381,7 +381,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Estelle, July 6, 2019<br>
-        Canon EOS R · ISO 100 · 1/1000 s · RF 85mm F1.2 L USM · f/1.2
+        Canon EOS R · ISO 100 · 1/1000s · RF 85mm F1.2 L USM · f/1.2
       </figcaption>
     </figure>
     <figure class="photo-card">
@@ -393,7 +393,7 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
       </a>
       <figcaption class="caption">
         Assi, June 8, 2014<br>
-        Canon EOS 5D Mark III · ISO 100 · 1/1600 s · EF 85mm f/1.2L II USM · f/1.2
+        Canon EOS 5D Mark III · ISO 100 · 1/1600s · EF 85mm f/1.2L II USM · f/1.2
       </figcaption>
     </figure>
   </div>
