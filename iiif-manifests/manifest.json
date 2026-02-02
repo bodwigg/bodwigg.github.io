@@ -42,7 +42,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFU",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -81,7 +84,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFT",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -120,7 +126,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKm",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -179,7 +188,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKq",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -238,7 +250,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKr",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -297,7 +312,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQB",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -356,7 +374,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFV",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -415,7 +436,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKt",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -474,7 +498,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKp",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -533,7 +560,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKu",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -592,7 +622,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKs",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -651,7 +684,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQD",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -710,7 +746,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKo",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -769,7 +808,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKn",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -828,7 +870,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFW",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -887,7 +932,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQC",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -946,7 +994,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKv",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
@@ -1005,7 +1056,10 @@
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQE",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "preferredFormats": [
+                      "jpg"
+                    ]
                   }
                 ]
               }
