@@ -45,6 +45,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -87,6 +98,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -129,6 +151,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -191,6 +224,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -253,6 +297,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -315,6 +370,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -377,6 +443,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -439,6 +516,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -501,6 +589,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -563,6 +662,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -625,6 +735,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -687,6 +808,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -749,6 +881,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -811,6 +954,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -873,6 +1027,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -935,6 +1100,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -997,6 +1173,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
@@ -1059,6 +1246,17 @@
                     "profile": "http://iiif.io/api/image/2/level1.json",
                     "preferredFormats": [
                       "jpg"
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
                     ]
                   }
                 ]
