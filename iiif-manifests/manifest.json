@@ -13,6 +13,7 @@
   "viewingDirection": "left-to-right",
   "items": [
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p1",
       "type": "Canvas",
       "label": {
@@ -33,30 +34,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p1",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFU/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFU/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 2998,
-                "height": 3384,
+                "width": 1024,
+                "height": 1155,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFU",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -66,6 +53,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p2",
       "type": "Canvas",
       "label": {
@@ -86,30 +74,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p2",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFT/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFT/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 2924,
-                "height": 3384,
+                "width": 1024,
+                "height": 1185,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFT",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -119,6 +93,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p3",
       "type": "Canvas",
       "label": {
@@ -139,30 +114,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p3",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKm/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKm/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3216,
-                "height": 5082,
+                "width": 1024,
+                "height": 1618,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKm",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -192,6 +153,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p4",
       "type": "Canvas",
       "label": {
@@ -212,30 +174,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p4",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKq/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKq/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3206,
-                "height": 5058,
+                "width": 1024,
+                "height": 1615,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKq",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -265,6 +213,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p5",
       "type": "Canvas",
       "label": {
@@ -285,30 +234,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p5",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKr/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKr/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3224,
-                "height": 5058,
+                "width": 1024,
+                "height": 1606,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKr",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -338,6 +273,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p6",
       "type": "Canvas",
       "label": {
@@ -358,30 +294,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p6",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQB/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQB/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3228,
-                "height": 5090,
+                "width": 1024,
+                "height": 1614,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQB",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -411,6 +333,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p7",
       "type": "Canvas",
       "label": {
@@ -431,30 +354,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p7",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFV/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFV/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3196,
-                "height": 5090,
+                "width": 1024,
+                "height": 1630,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFV",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -484,6 +393,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p8",
       "type": "Canvas",
       "label": {
@@ -504,30 +414,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p8",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKt/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKt/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3208,
-                "height": 5056,
+                "width": 1024,
+                "height": 1613,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKt",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -557,6 +453,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p9",
       "type": "Canvas",
       "label": {
@@ -577,30 +474,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p9",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKp/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKp/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3178,
-                "height": 5056,
+                "width": 1024,
+                "height": 1629,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKp",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -630,6 +513,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p10",
       "type": "Canvas",
       "label": {
@@ -650,30 +534,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p10",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKu/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKu/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3218,
-                "height": 5070,
+                "width": 1024,
+                "height": 1613,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKu",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -703,6 +573,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p11",
       "type": "Canvas",
       "label": {
@@ -723,30 +594,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p11",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKs/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKs/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3186,
-                "height": 5070,
+                "width": 1024,
+                "height": 1629,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKs",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -776,6 +633,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p12",
       "type": "Canvas",
       "label": {
@@ -796,30 +654,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p12",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQD/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQD/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3236,
-                "height": 5062,
+                "width": 1024,
+                "height": 1601,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQD",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -849,6 +693,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p13",
       "type": "Canvas",
       "label": {
@@ -869,30 +714,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p13",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKo/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKo/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3158,
-                "height": 5062,
+                "width": 1024,
+                "height": 1641,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKo",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -922,6 +753,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p14",
       "type": "Canvas",
       "label": {
@@ -942,30 +774,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p14",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKn/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKn/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3236,
-                "height": 5112,
+                "width": 1024,
+                "height": 1617,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKn",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -995,6 +813,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p15",
       "type": "Canvas",
       "label": {
@@ -1015,30 +834,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p15",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFW/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFW/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3154,
-                "height": 5112,
+                "width": 1024,
+                "height": 1659,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFW",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -1068,6 +873,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p16",
       "type": "Canvas",
       "label": {
@@ -1088,30 +894,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p16",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQC/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQC/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3202,
-                "height": 5112,
+                "width": 1024,
+                "height": 1634,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQC",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -1141,6 +933,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p17",
       "type": "Canvas",
       "label": {
@@ -1161,30 +954,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p17",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKv/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKv/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3208,
-                "height": 5112,
+                "width": 1024,
+                "height": 1631,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKv",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -1214,6 +993,7 @@
       ]
     },
     {
+      "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p18",
       "type": "Canvas",
       "label": {
@@ -1234,30 +1014,16 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p18",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQE/full/max/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQE/full/1024,/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3212,
-                "height": 5074,
+                "width": 1024,
+                "height": 1617,
                 "service": [
                   {
                     "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQE",
                     "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1.json",
-                    "preferredFormats": [
-                      "jpg"
-                    ],
-                    "tiles": [
-                      {
-                        "width": 512,
-                        "scaleFactors": [
-                          1,
-                          2,
-                          4,
-                          8
-                        ]
-                      }
-                    ]
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
