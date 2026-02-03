@@ -10,7 +10,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p1",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFU",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-35-09_00001",
           "width": 2998,
@@ -36,7 +36,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p2",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFT",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-35-38_00002",
           "width": 2924,
@@ -62,7 +62,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p3",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKm",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-37-57_00003",
           "width": 3216,
@@ -106,7 +106,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p4",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKq",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-39-18_00004",
           "width": 3206,
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p5",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKr",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-39-20_00005",
           "width": 3224,
@@ -194,7 +194,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p6",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQB",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-39-38_00006",
           "width": 3228,
@@ -238,7 +238,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p7",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFV",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-39-40_00007",
           "width": 3196,
@@ -282,7 +282,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p8",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKt",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-41-28_00008",
           "width": 3208,
@@ -326,7 +326,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p9",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKp",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-41-30_00009",
           "width": 3178,
@@ -370,7 +370,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p10",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKu",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-42-35_00010",
           "width": 3218,
@@ -414,7 +414,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p11",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKs",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-42-37_00011",
           "width": 3186,
@@ -458,7 +458,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p12",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQD",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-43-08_00012",
           "width": 3236,
@@ -502,7 +502,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p13",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKo",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-43-10_00013",
           "width": 3158,
@@ -546,7 +546,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p14",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKn",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-43-43_00014",
           "width": 3236,
@@ -590,7 +590,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p15",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyFW",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-43-45_00015",
           "width": 3154,
@@ -634,7 +634,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p16",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQC",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-44-16_00016",
           "width": 3202,
@@ -678,7 +678,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p17",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyKv",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-44-18_00017",
           "width": 3208,
@@ -722,7 +722,7 @@
           ]
         },
         {
-          "@id": "https://ulfbodin.se/iiif-manifests/96c44227-518f-4c4f-84bb-98e83ce8971b/manifest.json/canvas/p18",
+          "@id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062s9YXnyyQE",
           "@type": "sc:Canvas",
           "label": "2025-11-28_12-44-35_00018",
           "width": 3212,
