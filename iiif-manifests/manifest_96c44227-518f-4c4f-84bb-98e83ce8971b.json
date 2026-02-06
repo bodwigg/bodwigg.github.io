@@ -1,826 +1,826 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json",
-  "type": "Manifest",
-  "label": {
-    "sv": [
-      "Nordiska museets arkiv: MS djävul besatthet NM 0086429 1897 (Akt)"
-    ]
-  },
-  "behavior": [
-    "paged"
-  ],
-  "viewingDirection": "left-to-right",
-  "items": [
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 1: 2025-11-28_12-35-09_00001"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFU/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFU",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "Inte transkriberad sida"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=d51fc54c-5bed-460f-96ae-2fcc551c24f6"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 2: 2025-11-28_12-35-38_00002"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFT/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFT",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "Inte transkriberad sida"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=42fdadaf-3eb4-4ecb-8193-2f3685713cd2"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 3: 2025-11-28_12-37-57_00003"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKm/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKm",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "Lit. A.\nAct. IV.\nÅhr 1762. D 13 Septemb. om morgonen reste H. Biskopen D.\nFilenius til Solwarf, at Torp wid Somenäs Säteri, tilhö-\nrigt Herr Cornetten Carl Durietz uth Tyrsnens Sokn, haf-\nwandes med sig, utom Consistorii Notarien Magister\nOlof Lindblom, som skulle föra til Protocolls hwad der\nsades och uträttades, Comministern i Tijrsnum,\nJonas Tockerstrand, och 2ne andre i Ämbetet be-\npröfwade och lärde Prästmän, neml. Magistrarne\nAnd. Ekstrand, för detta i 7 år Adjunctus wid dom-\nkyrkoförsamlingen i Linköping, och Petr. Sundberg\nnu warande Adjunctus wid bemte Domkyrka,\nsamt KronoBefallningsmannen öfwer Guhe-\noch Linda härader, Johan Abelsson. Ankomsten\n skedde wid middagstiden. Den sjuka Pigans Elisa-\nbeths föräldrar, fadren Isac och modren Ragnil,\nsamt systren pigan Maja Isacs dotter, kommo ock\nstraxt tilstädes; warandes ingen hos den sjuka\nwid Hr Biskopens och de öfrigas ankomst.\nH: Biskopen gick fram til sängen, drog un-\ndan sparlakanet, fann den sjuka ligga trodig\nmed tilslutna ögon och bart hufwud wändt åt\nwäggen och wänstra sidan, samt håret bekswänt,\nlångt, benadt och redigt, änskönt det aldrig skal haf-\nwa blifwit kämmadt. Wid det at sparlakanat\ndrogs\nBesitta Pigan i Tysenrum visten inbedrädd af Prot: Februus 1762"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=32aa4267-8335-4fdf-b098-cd64fd5b3eee"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 4: 2025-11-28_12-39-18_00004"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKq/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKq",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "drogs undan, begynte bröstet at häfwas på henne och\nkroppen wingas såsom en orm i en myrstack, hwil-\nket modren sade komma deraf, at hon ej tol dags-\nljuset. Så snart sparlakanet släpptes igen, fick\nhon åter ro at ligga stilla. H. Biskopens lutade\nsig ned til henne, och önskade henne Guds Frid, wård\nHæras Jesu Christi Lärlek och den h. Andas delagtig-\nhet; begärande at hon wille gifwa tilbänka, om\nhon hörde hans tal. Men det kunde ej märkas at\nhon det gjorde. Modren sade, at hon likwäl plägar ryc-\nka på sig, när någon råkar at bullra uti stufwan\nDerpå sängs Psalm. No 196, och sedan Hl Biskopen åter\ndragit undan sparlakanen och gjordt ordentel. bön Herrans\nhög röst fram för sängen, söngs B: No 180 och lästes Herrans\nwälsignelse.\nHennes puls förmärktes nu som altid gå ganska mått\noch långsamt, och berättades och modren, det dottren un-\nder all sin sjukdom ej förtärdt mera dageligen, än 3\ngånger om dagen 1 à 2 skedblad mjölk, med deruti lagde\n2 à 3 betar bröd, men nu wid pass 1 år allenast 1 skedblad\nmjölk kl: 6 om aftonen, då hon altid gifwer tekn, at ti-\nden är inne, at hon det kan åtnjuta; men om hon\ndå ej straxt får denna mjölken, smakar hon intet\nförr än på samma tima den näst derpå följande\ndagen; såsom ock modren berättade, at denna dess\nsjuka dotter aldrig i sin lifstid haft några menstma-\nFr: När hon först blef sjuk? Modren swarade, wid\nHelgemässan för 12 år sedan, eller 1750, då hon war\n17 år gammal. Hon plägades sedan ganska illa alt\ntil och öfwer den följande Julhelgen, med all liknel-\nse af en hetsig feber, hwaraf håret föll aldeles af\nhennes"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=5b368b84-4293-4742-9bc6-3aef240a75e7"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 5: 2025-11-28_12-39-20_00005"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKr/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKr",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "hennes hufwud och starkt nytt hår tilwäxte emot wåren.\nFr: Huru hade sig sjukdomen sedermera? Sw: war häf-\ntig ungefär 3/4 år, då ock under tiden hördes långt ut på\ngården et brakande och rispande i hennes mage, lika-\nsom man slitit sönder gamla kläder, eller afbrutit en\naftorkad qwast.\nFr: Om hon då såg? Sw: ja; men hon wille aldrig se\ndet som war färgadt eller blänkande, ej heller ring\npå fingren, hwilket hon kallade en styggelse, såsom\nhon ock då som nu ej tolde at se dagsljuset.\nFr: hörde hon då? Sw: ja.\nFr: Valte hon något? Sw: ja, någon tid, då hennes\ntal under en otydelig, hwäsende och hos samt\nsållsam röst gick ut på förmaningar til bättring.\nH: Biskopen frågade: hwad sade hon, då hon tal\nte? Sw: En Student, benämd Krönberg, Östgötse, nu död,\nsom wistades på Somenäs, nära der in til, kom som\noftast tilstädes, äfwen då Hr Probsten Magister Björn\nen gång war dit kallad, och i Probstens närwaro skref-\nup det hon sade. Hfl: Biskopen begärte få se den skriften\noch fick henne, den han ock upläste, och tog til sig at\nöfwerlemna V. Consistorio. Modren berättade ytterli-\ngare, at hennes dotter härpå aldeles teg någon tid,\nmen sedan jällrade och talte, samt bar sig åt som\net barn et helt år. Här på hörde Fadren och Modren\ni sin säng, som står midt emot dottrens, til deras\nstora förskräckelse, en späd röst om natten ta-\nlande uti dottrens säng: hwarwid Modren ändte-\nligen fick mod at fråga denna rösten: om de\nsom bodde i detta huset, wore så stora syndare fram-\nför"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=1b7da518-85f5-4782-8ab3-7d7985769fc4"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 6: 2025-11-28_12-39-38_00006"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQB/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQB",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "för alla andra, at de här med ådragit sig ett så swårt\nstraff och lidande? Och fick af rösten detta til swar: Kä-\nre barn, gifwen en til fridd, hwarken har hon eller I\nFöräldrar syndat, utan Gud wil så hafwit.\nHh. Biskopen frågade Comminister Sockenstrand, huru\nwida hon war grundad i sin Christendomens kunskap\nförrän hon sjuknade? Sw: at han af Probstens berättelse\noch hus förhörs längderne funnitz det hon kunnat u-\ntan til hela Lutheri lilla Cateches, samt Svebilii för-\nklaring der öfwer til midt på Trones Articlar.\nFr: Har denna rösten alt sedan fortfarit at lå-\nta höra sig? Sw: ja.\nFr: läser rösten några böner? Modren swarade: Ja-\nganska wackra böner och förböner lästes i 2 år,\nför Öfwerheten och alla människor, hwaraf hon\nännu kunde en bön utan til, så snart hon fick på-\nminna sig huru den börjades. Sedan söng rösten al-\nlehanda Psalmer på et ganska ljusligt och rörande\nsätt, och under besynnerligen ljufliga melodier, såsom\nNo 51, 78, 104, 196 etc: Modren berättade ytterligare, at\nnär bönen en tid hade uphördt, det hon en gång skall\nhafwa frågadt: hwarföre bön nu mera icke hålles\nsom tilförene? Hwarpå hon af rösten skall hafwa\nfått det swaret: Säta barn, jag gör bön hwar dag, fast\nI icke hören det.\nHr Biskopen frågade: om Psalmerne blifwit sungne\naldeles såsom orden lyda i Psalmboken? Sw: nej; utan\nmed den ändringen, at orden: jag, mig, min, mitt, wår,\nwårt, din, blifwit förbytte uti I, eder, Eder, Edart,\nsin, til el: Psalm. N:o 57. Och herren Er ej tukta,\nsom I må billigt frukta, uti sin wredes nit, Näpser-\nej alt förlänge i sine grymhet stränga. Men wara\ner mild och blid etc.\nLikaledes"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=15c59b17-c6ce-4aec-9b7c-06330f1a5174"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 7: 2025-11-28_12-39-40_00007"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFV/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFV",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "Libaledes läses Herrans bön på detta sättet: Fader\neder, som är i himlom; helgadt warde hans namn; tilkom-\nme hans rike; ske deras wilje, som äro i himmelen; edant\ndageliga bröd gifwe han eder etc.\nHr Biskopen frågade: hafwa några predikningar af\ndenna rösten blifwit hållna? Sw: I förstone predikades\nmäst hwar Söndag, och allramäst emot högtiderna, såsom\nPalmSöndag och Advents Söndagarne.\nFr: har hwilken som welat, fått höra dem? Sw: nej.\nFr: Hwilken har då hördt dem? Sw: Gårdsfolket, herr\nskapet på Somenäs, så ofta de komma, Frun på Tyn-\nrum och hennes Systrar, samt Adjuncten Enholm i Lisa,\nsom en gång oförwarandes fick höra denna rösten\npredika, då han kom på sjön der bredewid, och i anled-\nning deraf gick upp i förstufwan i tanka at der få\nhöra Skriftermål för någon sjuk. Dessutan hafwa\nmånge andre i grannskapet hördt denna rösten och dess\npredikningar.\nFr. Om ej Präster få höra denna röstens, eller så kallade\nhwita ängelens predikan? Sw: at då Comminister loci Doc-\nkerstrand flere gånger begärdt den få höra, skall änge-\nlen hafwa swaradt: J ären gjorde utaf ler och snart\nbräckte.\nFr: tyckes rösten komma ifrån den sjukas mun?\nSw: jag men hon är dock icke lik hennes röst.\nFr. Höres hon wäl? Sw: höres långt ut ifrån huset och\nned på sjön.\nFr: Än sången lik den sjukas? Sw: nej, den sjuka har\nej kunnat sjunga så öfwermåttan wäl\nFr: Hwarom handla predikningarne? Sw: de förma-\nna til bättring med sällsamma och owanliga talesätt,\nsamt at man skall wara såsom utan ögon, öron, hän-\nder och fåtter, när man retas til synd.\nFr:"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=45a8fa49-610f-43ab-a42b-a753ed64fe51"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 8: 2025-11-28_12-41-28_00008"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKt/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKt",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "Fr. Talas deruti något om Christo? Sw: ganska mycket\nom hans förtjänst, och huru han har lidit för oss.\nFr: Hwad Ups plägar tagas til dessa predikningar?\nSw: merendels versar af Psalmboken, såsom til exem-\npel ganska ofta N:o 251, v: 6. Misskundelig Gud, lät Nåde-\nnes sol upprinna, – huggrade art hjerta — lät er i dag\nsin heliga wänskap finna.\nFr Huru länge pläga predikningarne räcka? Sw: wid\npass en tima.\nFr. När predikades det sidst? Sw. för 3 weckor sedan.\nFr. Talar rösten någonsin om något annat, som icke\njust är andeligt? Sw: ibland, til ex: hon sade en gång\ntil folket: waror icke häpne, I hafwen intet at rä-\ndas före, jag gör eder intet ondt, sätten eder.\nFr: Läser hon ock wälsignelsen? och huru? Sw. ja;\nherren wälsigne eder etc.\nFr. Har hon ständigt sungit? Sw: Nu på 4 elr 5 år\nhafwer hon ej sungit. Slutet af sidsta sången war-\ndetta: detta hafwer nu en ända, Gud er fader lät alt\nlända sig til etc.\nFr. Om någon ting synes til? Sw. at den andra\nSystran pigan Maja Isacs dotter, 24 år gammal, som\nhaft swårt wid at fatta och är derföre något swag,\ni sin Christendoms kunskap, en gång för några år se-\ndan, om ljusa dagen, då hon inkommit utifrån gården,\nsedt en lång bild i hwita kläder, stödjandes sig med ena\narmen wid bordet, som stod at stycke ifrån den sjukas\nsäng: hwilken bild hon wäl i början tog för sin syster,\nsom kunde hafwa stigit är sängen; men då hon noga\nre fick skåda bildans skönhet, och det ej war dess sy-\nster, blef hon så förskräckt, at hon drog foten tilbaka,\nsom hon hade innom tröskelen och tilslut dören.\nDessutan berättade Modren, at, då någre Timmerkar-\nlar för några år sedan, kommit en afton, at dagen\nderpå timra et Fähus, har en karl, som legat i kom-\nmaren\nmaren"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=e5cabeb8-30ab-4724-a43b-f1491f83c37c"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 9: 2025-11-28_12-41-30_00009"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKp/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKp",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "maren midt emot den sjukas, sedt en lång bild med hwita\nkläder komma in, utan at säga något, men då den\ngick ut, har karlen spottadt efter den samma; och då\nbilden kommit ut på gården, skall en annan karl,\nsom låg på botänken, sett samma bild och hördt den suc-\nka. Likaledes berättades, at då denna rösten predikar,\nskola sparlakanen för den sjukas säng under tiden hafwa\nrördt sig och fläcktadt, såsom och att sakta wäder.\nI öfrigt war det allmännt kunnigt i landsorten, at\ndenna siuka pigans föräldrar, som äro et stilla och gud-\nfruktigt folk, och gå flitigt i kyrkan och bruka den h.\nNattwarden, aldrig haft någon fördel af dem, som besökt\nderas bedröfwade hus; utan twärt om fägnat alla\nwäl efter deras swaga omständigheter.\nHh: Biskopen yttrade sig ändteligen: det tilkom-\nmer nu ej mig, utan werldslig arm, at under söka,\nom, och huruwida något människligit bedrägeri\nkan eller kunnat i så mång år här inunder\ndölja sig, hwilket dock snart nog torde ske, och en\nså grof missgerning, derest den blefwe bewislig; med\nhårdaste straff blifwa ansedd; Guds ord äro ock då\nsit aldeles tillämpelige, antingen sådant blifwer\nupptäckt eller icke: den eder för willar, han skall\ndraga sin dom, eho han är Gal. 5: ja. Men om det i\nsanning skulle befinnas, at intet människligt\n swek här under warit eller wore förurgadt-\ndå är det ock icke någon god ande, som i så mång\når taladt och predikat innom sängz gardinen i\nmörkrat uti detta fromma och enfaldiga folkets\nhus och deras eländiga och anfäktade dotters\nsäng, hwilke icke hafwa förstått satans djuphet.\nOppenB: B: 2: 24., som altid sökt och än söker så wäl\ngenom list som arghet, at draga människan ifrån\ndet"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=96175f69-2aee-4f3e-b53d-67569e896217"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 10: 2025-11-28_12-42-35_00010"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKu/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKu",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "det uppenbarade, skrifwa och besiglade Guds ord, til synne\noch uppenbarelser utom ordet, om hwilka wi uti ordet\nej hafwom några löften och tilsägelser, men wäl de\naldra kraftigaste warningar af Guds anda, at icke swar-\nliga låta beweka oss, icke heller förskräcka, hwarken ge-\nnom anda, eller ord, aller genom bref 2 Thes. 2.v. 2; utan\när det twärt om an ond anda, som qwäljer denna\nfattiga människan, och satan sjelf, som här förskapar\nsig i en ljusens ängel 2 Cor. 11: v: 14. Så utwisa ock de 2ne\nuti Probstens närwaro skrifne och bewisligen genom\ndenna usla pigans mun hållne tal och predikningar,\nat de ej äro enlige med Guds ord, såsom ock ej heller\net enda Skiftenes språk uti dem finnes rent anfördt;\nutan äro aldeles stympade meningar och oförmeliga\ntalesätt, och ej efter de hälso samma Guds ords efter-\nsyn, efter hwilka Gud befalt, at wi oss hålla skolom,\n2 Sim. 1: 13. Detta är ock at annorlunda förkunnadt\nEvangelium, än det Guds Onde i Skriften oss förkunnadt,\nemedan här ej at enda ord anföres om Rättfärdiggörel-\nens nåd och trona på wår herra Jesum Christum; hwar-\nigenom oss endast kraft meddelas till en sannskyldig bät-\ntring och det derpå följande tronas lif uti Christo: ehuru,\nock på et mörkt och stympadt sätt något i dessa til\nnämnes om Christi lidande och död för oss, men ej det\naldraringaste, huru wi med trones förträstan skole\noss samma nåd i Christo tilägna. Guds Andas ord\näro härwid tydelige: Någre äro, säger Apostelen, de\neder förwilla och wilja förwända Christi Evangelium;\nmen om wi eller än ängel af himmelen annorlun-\nda predikade Evangelium för eder, än wi eder\npredikat hafwa, han ware förbannad, Gal: 1: v. 7. 8.\nSå är ock det märkeligt, at satan i de sederme-\nra i 11 års tid hållne predikningar och de anförde,\naf honom med så ljuflig röst sungne Psalmer, men\nbesynnerl wid läsningen af bönen Fader wår, ej\ndristat kalla Gud sin fader, utan fader edar m. m.\nemedan"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=c46b7134-1088-418e-aaed-b2524eaaf871"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 11: 2025-11-28_12-42-37_00011"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKs/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKs",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "emedan han wäl wetste, trodde och derwid bäfwade, at\nChristus ingenstäds tagit på sig änglarne, utan\nAbrahams säd, den fallna människan allena, Ebr: 2: 16,\njämförd med v. 14, intil Capitlets slut. Wi ärom af-\nGudi, säger ock Apostelen: den som känner Gud, han hö-\nrer gl: den som icke är och Gudi, han hörer oss icke.\nDäraf känne wi sanningenes ande och willnes ande-\n1 Joh. 4. 6.\nWid detta H: Biskopens tal blefwo fadren, Modren,\noch Systern ganska bestörte och stadnade uti en häftig\ngråt- förklarandes, at de trodt sig hafwa en god ande\noch Christi klara ängel i sitt hus, men fingo nu först\nweta, at det wore en ond mörksens ande, beklagan-\ndes sig modren, at hon och dess hus skola wara så fo-\nre syndare i Guds ögon, at Herren Gud nödgats så\nhårdt hemsöka dem. HH. Biskopen upmuntrade dem\naf Guds ord och förmante dem alla at ej widare\nsätta tro til satans löger--ord, och ej taga del uti\nnågot männskeligt bedrägeri, om ock något sådant skul-\nle här under befinnas, ej heller tillåta någon at me-\nra så höra, sådana tal och predikningar, utan bort-\nwisa folket, samt straxt gifwa Prästerskapet wid han-\nden, om och hwilka, utan at der til wara kallade och\npå sina laga Ämbets wägar, af förrett, otro aller\ndårskap, wågade kasta sig sjelfwe uti hjefwulens för-\nsök och frestelser. Föräldrarne begärde ock, at\nBl. Biskopen wille hos höga öfwerheten om hålla, at\nde för sin okunnoghet uti en så wigtighet, som den-\nra för, ej måtte komma något at lida, det hans gifu-\nskopen och lofwade, såframt de åtlydde hans gifne\nförmaningar, och på intet sätt widare wille tillå-\nta satan at hos otrones barn och de enfaldiga utwid-\nga sitt rike, samt redeligen uptäcka alt, hwad\ndem\ndem"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=c91d115e-8ea4-4f65-9608-a38fb8f86474"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 12: 2025-11-28_12-43-08_00012"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQD/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQD",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "dem om denna saken kan än widare wara eller blifwa kunnigt.\nSedan styrkte Hh: Biskopen dem med Guds ord af Jbn\nCananaiska qwinnans och Frälsarens Lisa egit exempel, som\nafwiste satan med Gudsrådet, det de ock borde göra, och som\nla sig kraft och styrka af Jesu lidna frestelser af satan;\nta sig deraf at han wardt pint och frestad, kan han hjelpa\ndem som freskas. Ebr. 2: 18. Capit: 15, upmuntrandes dem til\nGuds ords flitiga läsande och en andaktig bön af 2 Rt: 1: April.\nMatt. 6. 13. Cap. 26. 41. Mari. 14: 38, och till 22:v. 40. 46. för säkran-\ndes dem tillika om Guds allmagt, at kunna frälsa de\nGudaktiga af frestelsen 2 Pet. 2. i, samt i kraft af Jesu\nförbön och Guds inargfaldiga nådåläften, at äfwen ock\nhos ske skall. Luc. 22. 31. Joh. 17:15. 1 Cor: 10. Ja. 1: 12 och Uppenb. B. J: B:\nÄndtel. sängs til slut 9 d. N:o 46, samt lästes Fader\nwår och wälsignelsen. Derefter gick Hh. Biskopen til\npigans säng, öpnade gardinen och hölt til henne et trö-\nsteligt tal i anledning af 1 Joh: 3: 8: Fördenskull uppenba-\nrades Guds Son, at han skulle nederslå djäfwelens gre-\nningar, och slät denna förrättning med Herrans wäl-\nsignelse, under händars påläggning på hennes hufwud.\nWid återkomsten til Probstegården i Norra Wi sent\nom aftonen, förestälte Hr Biskopen Prästerskapet, hu-\nru beklagligt det war, at Consistorium i så mång\når ej fått om dessa besynnerliga händelser någon\nunderrättelse, såsom ock HH. Biskopen aldrig förr\nhördt dessa satans illgrep omtalas än wid sin vi-\nsitation uti den näst här intil gräntsande Malexan-\nders Församling d. 5 nästl. Sept., samt förmanade\ni synnerhet Comministern Tockerstrand och Ad-\njunctum Propositi, Magister Tillberg, at under Probstens\nhöga ålder och swaghet, flitigt besöka detta anfäkte-\nde Folket, hälst satan hädan efter torde wisa sig på\nsin grymma sida och rätta, då han får se sig ej län-\nge få behålla sitt rof, utan måste mista det, igenom\nGuds förbarmande nåd i Christo, förenad med an-\ndans kraft uti ordet: såsom det ock i öfrigt åligger Prä-\nsterskapet at efter hand ingifwa til Consistorium weder-\nbörliga\nbörliga"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=e0d4b4ed-b8ac-4159-aa59-93462d5c2f45"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 13: 2025-11-28_12-43-10_00013"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKo/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKo",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "börliga skyndesamma berättelser om hwad än widare\nhärwid kan sig tildraga. Til slut skref ock HH: Biskopen\ntil Adjunctum Minist. Sacri uti Malepander, Pet. Wigius, om\nGudfruktig och bepröfwad Prästman, det han uti detta öma\nmålet gör Prästerskapet uti Norra Wi och Syrsrum at fli-\ntigt och troget biträde.\nActum ut supra.\nO. Lindblom.\nLit B.\nDen 4 September 1751 hafwer, uti åtskilliga Personers\nnärwaro, den sjuka Pigan, Lisbetta Isacsdotter i Solwarf,\ntalat följande, nemln:\nDen hwite säger, at här är så många odygdiga in-\nne, de få lof at gå ut somliga, annars få de höra sina be-\ndrifter. Om I wiljen blifwa Guds barn, så omwänden\neder innan I gå här ut. Omwänden eder innan J. gå\nhärifrån. Jag hwarken hörer eller seer, men som li-\nga säija, at jag gör bägge delar. De som hafwa lagt\nmig många lyte på, de ska weta, at den samme gu-\nden, som har lagt mig detta på, han kan lägga dem\npå det samma. Om I wiljen blifwa Guds barn, skolen I\nintet wara högfärdige och odygdige. Den hwite säijer\nmig, at om hwiljen blifwa Guds barn, så skolen I intet\ndömma hwarken mig eller mina anhöriga. Det är en\nsta odygd at baktala alla människjor, så länge kan I\nicke komma i Guds rike. Den gwite går bort och nu hål-\nler jag upp en stund. I skall weta, at Gud wet, hwilka at\nsom föra att ogudaktigt lefwerne. I ska intet före ett\nogudaktigt lefwerne, så få skomma i Gudsäcke, I skall\ntro där är frögd och glädje. Dem som äro ogudatakte som\ndels deröijeliget at de få skåda Jesu Christi ansigte. De som\nwilla\nalla"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=7d7a8a9f-b219-4190-8fbe-442f28ea6d7f"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 14: 2025-11-28_12-43-43_00014"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKn/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKn",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "willa blifwa Christi barn de skola intet lägga några lyte\nhwarken på mig eller andra, det tål intet Christus sjelf-\nwer. De tycka wäl de hafwa frögd och glädje af, at\nde döma mig, men de wet intet hwem de hafwa dömt?\nMina ögon och öron äro i godt förwar, men jag wän-\ntar med Jesu hjelp, at jag får igen dem snart; Den hä-\nte säger, at Jens har sjelf lofwat, at här blifwer jag\nintet länge. Den hwite säger: at Jesus sjelfwar siukar öf-\nwer, at människjorna stå i stor fara, för de föra ett och\ngudaktigt lefwerne. I skall bedja Gud både föra sitter och\neder höga öfwerhet hwarstund, at de måge föra sitt lef-\nwarne efter Jesu Christi sinne. I skall weta, at de äro\ni högre wärde än hi wete, derföre skolen Jaltid bedja\nför dem. I skall wetan om I fören ett gudfruktigt lef-\nwerne här i werlden, så få I komma till frögd och\nglädja i Guds icka, och hwem som talar genom min eder\ndet få I wäl weta: det är en som�r min styrkare och eder\nhjelpare, som Christus hafwer fäldt hit neder. I skall\nreta, om I gå på de rätta wägar, så få I saa Christi all sig,\nte, och då få I see Christi klara änglar. Jag hwarken\nhörer eller seer; men när det blifwer an liten tid, får\njag ser Guds ansigte. I skall weta, här blifwer jag in-\ntet länge, Christes lofwar mig, at jag får snart förlass-\nning, Gud gifwe det wore bestält. Jag har så ondt i mitt\nbröst och hjerta, at det må brista sönder.\nBedjan Gud, at I få åtnjuta den glädje, som är\nGuds rike, fast jag har lidet ondt, har jag den fått.\nJag har så ondt i mitt hjerta, at jag intet kan\nstå länge emot. Mitt hjerta själfwe så hårdt för-\nmänniskjors skull. Nu är det Christi klara ängel\nsom talar genom min mun, och förgät intet det,\noch missinna intet eder Själ den glädje i himmelen\när. Nu slutar jag mitt taal.\nDen 5 September talat följande, neml: Nu gick\nden hwite bort och nu får jag hwila litet, när han kom-\nmerigen talar han genom min mun, willen I dåta\nga akt derpå, så gören det, sedan talar han aldrig\ngenom\ngenom"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=ab2a6b9b-2e6d-4c10-afaf-b3c504e079b8"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 15: 2025-11-28_12-43-45_00015"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFW/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFW",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "genom min min mera, och hwad han hafwer at säija, det\nfå I då höra. Den hwite han är nedkommen igen, hon\när så wacker, beden Gud I blifwer så wackre som han är.\nDen hwite är Christi klara ängel, om I gå på de\nrätta wägar, så få I komma til honom: De som wilja\nblifwa Christi barn, de få intet hafwa några odygder,\ndå komma de intet i Guds rike, intet swärja och haf\nwa elaka odygder, om de skola blifwa Christi barn.\nTil Guds rike är en smal och wacker wäg, och gåf-\npå de rätta wägar, så så i skåda Christi ansigte:\nDen hwite är Christi klara ängel, och uti Guds rike\näro många änglar, hos Christum sjelfwer och han\nsänder dem. Jag har så ondt i mitt bräst och hjer\nta, at det må brista sönder. Christ gifwa det wore\nnågra Klåcketimmar förflutne i himmelen; så fin-\nge jag bättre. Den hwite han talar det genom min\nmun än en gång, och tagen I intet då märke derpå,\nså blifwer det derwid. Den hwita han säger at I sko-\nlen taga märke derpå, ty det är i mera wärde än\nI tro; ty jag hwarken hörer eller ser.\nMen de timmar, som äro i himmelen, förstå I in-\ntet; men jag wet dem. I skolen weta at många\naf edra anhöriga äro i himmelen, och de få we-\nta de timmar. I skolen weta at de äro wackra\noch hwita inför Guds ansigte de Själarna. Z: Eder\nhöga Öfwerhet skolen I bedja Christus Guds Son tro-\nget före. Det är en öfwerhet, som styrer hela werl-\nden och alt det människjor har. I skall weta at Jesus\nGuds Son eder Frälsare, han styrer hela werlden o-\nsynliget, men werldsliget bryr han sig intet om, och\nintet bryr jag mig om det heller. Christus förläna\nalla människjor den frögd som jag har fått i Guds rike-\nJag hafwer lidit ondt, och Chisus hafwa lagt sin hand\npå\npå"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=d40676be-4381-4c97-9c97-666ac214a902"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 16: 2025-11-28_12-44-16_00016"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQC/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQC",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "på mig, men han gifwer mig wäll lindring igen, så får jag\nbättre. Baden nu Gud rätt troget för eder och för alla mänsis\nskjor, at de må föra sitt lefwerne efter Jesu Christ sinne. Christus\nlåter se hwad han kun förmår, at alla männi skje må besinna\nhwad de äro här i werlden, at det är intet mycket med dem.\nDe tycka at de hafwa en stor hwögd, at de fört mig öfwer hela\nwerlden, men de wet intet hwad det blifwer af dem. De hafwa\nfrögd af mig på många ställen, men jag hafwer frögd i him-\nmelen, och det är den bästa. Gud ware lof at himmelens klåc-\nketimmar lida snart, jag får wäl ro jag wäntar med Jesu\nhjelp de blifwa intet så länge, antingen til lifwet eller döden:\nmen den hwita will intet säija, hwilket det blifwer, han är så\nstor och wacker och I seen honom wäl, han lyfter mig. I skall\nweta han talar om den frögd som är i himmelen, och låter mig\nden see. Christi klara ängel han talar aldrig genom min mun\nmer här i wärlden, men hos mig är han. Gud förläne alla\nmänniskja den frögd, som jag har fått i Guds rike, fast iag har\nlidet ondt, men det bästa har jag fått.\nNu i Jesu namn bed wäl för alla människjor, för höga\noch låga, fattiga och rika, ty de hafwa alla en Gud; men här\nhafwa de intet at berömma sig af, de hafwa alla sett sin\nfödelse tid, men wet intet huru de komma hädan, de weta\nintet hwad det blifwer af dem. Fast de hafwa mig för rop,\nmen Gud är min Frälsare och alla människjors, och han\när den bäste. Gud gifwer frid och rolighet här, frögd och rotig-\nhet i Guds rike, om I wandren på de rätta wägar.\nDen hwite slutar rätt nu han talar intet mycket här efter-\nBedjan nu Christus troget at hans klara, ängel må fö-\nra edra själar, Christus han sörjer at de så alla anwän-\nde hans namn, och de blifwa förtappade. De må tro han\nhar sorg, när hans egna beläta föra att ogudaktigt lefwer-\nne, han sänder sina änglar neder til dem, at beweka dem\nat de må komma til honom; men de wilja störta med hans\nänglar om det wore möijeligit. Christus sörjer öfwer at\nde intet willa låta honom råda med sig, hwem skall de då\näkta\näkta\näkta"
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=39ad6f11-c0b1-480e-b43c-f54c6acb4269"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 17: 2025-11-28_12-44-18_00017"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKv/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKv",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "alta? Ackt synd du tunga börda? De hora Christi egna ord, och de lå-\ntat gå in genom det ena örat och at igenom det andra, och när\nde det hört, swärja de, men Gud lofwa de intet. Hören nu goda\nwänner, I skolen föra eders lefwerne efter Christi sinne, och då\nskolen I wara som menlösa lamb. Nu i Jesu namn, tacka Gud\naf hjerta och mun. Nu i Jesu namn, innan Jesus wänder sitt\nsken, så får jag förlossning, Nå tacka nu Gud, at jag hår för-\nlossning, och det gör jag sjelf i mitt elände: Fören nu edert lef-\nwerne här efter, at Christus må få frögd och icke sorg. Om I be-\nden Gud troligen, när han lägger åder korset på, så hjelper han\neder, så har han gjort unge Öfwergif intet at bedja Gud för eder\ntrogna Öfwerhet, och det förmanar Christi ängel i det yttersta.\nÄr det möijeligit, så får eder höga Öfwerhet lofs borttaga\nall högfärd, för det suckar Christus öfwer. Men öfwergif in-\ntet i Jesu namn at bedja Gud för eder höga Öfwerhet, at de\nmå föra sitt lefwerne efter Christi sinne, det förmanar intet\nängelen af sitt eget råd, utan Christes har sändt honom.\nOm I hållen edar intil Christi wisigte, insenar hans änglar\ngodt för eder allstund. Den hinte yngelen har Christus sjelfwer\nsärdt med til eder, at önska både eder och eder höga Öfwerhet,\noch alla människjor, alt godt, om I förn adert lefwerne af-\nter Jesu Christi sinne: Nå bedjen nu i Jesu namn, at I och\nalla människjor må komma inför Christi ansigte, så får in-\ntet Christus sorg. Christus bjuder til så mycket som möijeligit\när, at de intet skola blifwa förtappade: Ack. synd du tunga bör-\nda. Nu i Jesu namn, Christi änget talar aldrig mer än den-\nna gången, Gud förläma eder nu frid och frögd inför Christi ansigte.\nOmwänder eder alla människior, och lät Gud råda med\neder, som hafwer lidit död och pina för eder. Nu i Fijn namn, förma-\nett lefwerne, som är Gudi behageligit och eder nyttigt, det önskar Christes\nsilfwer. Så waren nu i Jesu namn förnögda, om det wore på denna\nstund, at den hwita får föra edra själar i den ewiga uplädjen. Christus\nhar sändt sin ängel neder, och säckar öfwer människja, at de döm-\nma, men Chrisks sjelf dömmer dem för sådana giorningar, som de be-\ndrifwa."
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=51ad95d8-5647-4715-8f97-60711d2e5051"
-        }
-      ]
-    },
-    {
-      "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18",
-      "type": "Canvas",
-      "label": {
-        "sv": [
-          "Sida 18: 2025-11-28_12-44-35_00018"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18/annotation/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18",
-              "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQE/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "service": [
-                  {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQE",
-                    "type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "metadata": [
-        {
-          "label": "Transkription",
-          "value": "drifwa. Förgät intet i Jesu namn, at bedja Gud för eder höga öfwerhet,\ndet förmanas i det yttersta. Är det möijeligit at eder höga öfwerhet\nkan borttaga all höghärd, sker det. Gud wara lof, innan några klåc-\nketimmar blifwa förflutna i himmelen, så får jag bättre; innan Christis\nwändar sitt sken: här blifwer jag intet länge. Nu i Jesu namn blifwa\ndet intet långt til den hwite han slutar det här, öfwergifwen aldrig,\nat bedja Gud troligen antingen det är för litet eller nog, så tacka\nGud derföre. Nu i Jesanramn, bedjan Gud, at han är hos eder, det�r\nden bästa föreslagaren, och den har jag. Nu i Jesu namn, förgät in\ntet hwad som sagdt är, den hwite han talar aldrig genom min mun\nmera. För gåt intet i Jesu namn, at bedja Gud för eder höga Öfwer-\nhet, och för höga och låga, fattiga och rika. I skall weta, at de som äro\nfattige här i werlden, de få frögd inför Christi ansigte, och då haf-\nwa de rikedommar noga Nu i Jesu namn, om eder höga, öfwer-\nhet kan borttaga all höghärd, sker detz Nu i Jesu namn tagen\nI detta för det, det är, ju större frögd får Christus spifwer, och I haf-\ngen ingen sog deraf heller: Nu i Jesu namn blifwer jag här in-\ntet länge, innan Christes wänder sitt sten, så hafwer jag fått\n lindring, bedjen nu Gud troget. Nu i Jesu namn, önskar\nChrifus och den hwita, öfwer hela werlden alt godt. Nu är\ndet Christi Klara vägnar sistl. hka talat gången inne rum,\nwore\nförgät aldrig det, och råssinnen intet eder själ, den frögd\nNo 112.\ni himmelen är, och lät intet den leda få förtjänst, utan Je-\nses få frögd och glädje. Christus gifwe frid, fröjd och lycka\npå alla ställe, och Christus ware med eder. Nu i Jesu\nnamn, rätt nu går den hwite bort. Nu i Fisc namn,\nfören ett stadigt och gudfruktigt lefwerne, bedjan Gud\ntroligen för eder höga Öfwerhet. Nu i Jesu namn,\nGud gifwe eder det, som är Gudi behageligit och eder myt-\ntigt. Nu i Fisce namn, Gud gifwe frid och ro på alla\nställe, och nu går den hwita bort och det är Christi kla-\nra ängel.\nCollat."
-        },
-        {
-          "label": "Källa (URL)",
-          "value": "https://dokument.nordiskamuseet.se/resource/96c44227-518f-4c4f-84bb-98e83ce8971b?entryPoint=6d0a603a-2670-4ae7-82f0-eba715aa4744"
-        }
-      ]
-    }
-  ]
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json",
+	"type": "Manifest",
+	"label": {
+		"sv": [
+			"Nordiska museets arkiv: MS djävul besatthet NM 0086429 1897 (Akt)"
+		]
+	},
+	"behavior": [
+		"paged"
+	],
+	"viewingDirection": "left-to-right",
+	"items": [
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 1: 2025-11-28_12-35-09_00001"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFU/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFU",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "Inte transkriberad sida"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/d51fc54c-5bed-460f-96ae-2fcc551c24f6?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/d51fc54c-5bed-460f-96ae-2fcc551c24f6?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 2: 2025-11-28_12-35-38_00002"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFT/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFT",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "Inte transkriberad sida"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/42fdadaf-3eb4-4ecb-8193-2f3685713cd2?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/42fdadaf-3eb4-4ecb-8193-2f3685713cd2?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 3: 2025-11-28_12-37-57_00003"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKm/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKm",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "Lit. A.\nAct. IV.\nÅhr 1762. D 13 Septemb. om morgonen reste H. Biskopen D.\nFilenius til Solwarf, at Torp wid Somenäs Säteri, tilhö-\nrigt Herr Cornetten Carl Durietz uth Tyrsnens Sokn, haf-\nwandes med sig, utom Consistorii Notarien Magister\nOlof Lindblom, som skulle föra til Protocolls hwad der\nsades och uträttades, Comministern i Tijrsnum,\nJonas Tockerstrand, och 2ne andre i Ämbetet be-\npröfwade och lärde Prästmän, neml. Magistrarne\nAnd. Ekstrand, för detta i 7 år Adjunctus wid dom-\nkyrkoförsamlingen i Linköping, och Petr. Sundberg\nnu warande Adjunctus wid bemte Domkyrka,\nsamt KronoBefallningsmannen öfwer Guhe-\noch Linda härader, Johan Abelsson. Ankomsten\n skedde wid middagstiden. Den sjuka Pigans Elisa-\nbeths föräldrar, fadren Isac och modren Ragnil,\nsamt systren pigan Maja Isacs dotter, kommo ock\nstraxt tilstädes; warandes ingen hos den sjuka\nwid Hr Biskopens och de öfrigas ankomst.\nH: Biskopen gick fram til sängen, drog un-\ndan sparlakanet, fann den sjuka ligga trodig\nmed tilslutna ögon och bart hufwud wändt åt\nwäggen och wänstra sidan, samt håret bekswänt,\nlångt, benadt och redigt, änskönt det aldrig skal haf-\nwa blifwit kämmadt. Wid det at sparlakanat\ndrogs\nBesitta Pigan i Tysenrum visten inbedrädd af Prot: Februus 1762"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/32aa4267-8335-4fdf-b098-cd64fd5b3eee?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/32aa4267-8335-4fdf-b098-cd64fd5b3eee?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 4: 2025-11-28_12-39-18_00004"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKq/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKq",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "drogs undan, begynte bröstet at häfwas på henne och\nkroppen wingas såsom en orm i en myrstack, hwil-\nket modren sade komma deraf, at hon ej tol dags-\nljuset. Så snart sparlakanet släpptes igen, fick\nhon åter ro at ligga stilla. H. Biskopens lutade\nsig ned til henne, och önskade henne Guds Frid, wård\nHæras Jesu Christi Lärlek och den h. Andas delagtig-\nhet; begärande at hon wille gifwa tilbänka, om\nhon hörde hans tal. Men det kunde ej märkas at\nhon det gjorde. Modren sade, at hon likwäl plägar ryc-\nka på sig, när någon råkar at bullra uti stufwan\nDerpå sängs Psalm. No 196, och sedan Hl Biskopen åter\ndragit undan sparlakanen och gjordt ordentel. bön Herrans\nhög röst fram för sängen, söngs B: No 180 och lästes Herrans\nwälsignelse.\nHennes puls förmärktes nu som altid gå ganska mått\noch långsamt, och berättades och modren, det dottren un-\nder all sin sjukdom ej förtärdt mera dageligen, än 3\ngånger om dagen 1 à 2 skedblad mjölk, med deruti lagde\n2 à 3 betar bröd, men nu wid pass 1 år allenast 1 skedblad\nmjölk kl: 6 om aftonen, då hon altid gifwer tekn, at ti-\nden är inne, at hon det kan åtnjuta; men om hon\ndå ej straxt får denna mjölken, smakar hon intet\nförr än på samma tima den näst derpå följande\ndagen; såsom ock modren berättade, at denna dess\nsjuka dotter aldrig i sin lifstid haft några menstma-\nFr: När hon först blef sjuk? Modren swarade, wid\nHelgemässan för 12 år sedan, eller 1750, då hon war\n17 år gammal. Hon plägades sedan ganska illa alt\ntil och öfwer den följande Julhelgen, med all liknel-\nse af en hetsig feber, hwaraf håret föll aldeles af\nhennes"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/5b368b84-4293-4742-9bc6-3aef240a75e7?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/5b368b84-4293-4742-9bc6-3aef240a75e7?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 5: 2025-11-28_12-39-20_00005"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKr/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKr",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "hennes hufwud och starkt nytt hår tilwäxte emot wåren.\nFr: Huru hade sig sjukdomen sedermera? Sw: war häf-\ntig ungefär 3/4 år, då ock under tiden hördes långt ut på\ngården et brakande och rispande i hennes mage, lika-\nsom man slitit sönder gamla kläder, eller afbrutit en\naftorkad qwast.\nFr: Om hon då såg? Sw: ja; men hon wille aldrig se\ndet som war färgadt eller blänkande, ej heller ring\npå fingren, hwilket hon kallade en styggelse, såsom\nhon ock då som nu ej tolde at se dagsljuset.\nFr: hörde hon då? Sw: ja.\nFr: Valte hon något? Sw: ja, någon tid, då hennes\ntal under en otydelig, hwäsende och hos samt\nsållsam röst gick ut på förmaningar til bättring.\nH: Biskopen frågade: hwad sade hon, då hon tal\nte? Sw: En Student, benämd Krönberg, Östgötse, nu död,\nsom wistades på Somenäs, nära der in til, kom som\noftast tilstädes, äfwen då Hr Probsten Magister Björn\nen gång war dit kallad, och i Probstens närwaro skref-\nup det hon sade. Hfl: Biskopen begärte få se den skriften\noch fick henne, den han ock upläste, och tog til sig at\nöfwerlemna V. Consistorio. Modren berättade ytterli-\ngare, at hennes dotter härpå aldeles teg någon tid,\nmen sedan jällrade och talte, samt bar sig åt som\net barn et helt år. Här på hörde Fadren och Modren\ni sin säng, som står midt emot dottrens, til deras\nstora förskräckelse, en späd röst om natten ta-\nlande uti dottrens säng: hwarwid Modren ändte-\nligen fick mod at fråga denna rösten: om de\nsom bodde i detta huset, wore så stora syndare fram-\nför"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/1b7da518-85f5-4782-8ab3-7d7985769fc4?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/1b7da518-85f5-4782-8ab3-7d7985769fc4?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 6: 2025-11-28_12-39-38_00006"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQB/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQB",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "för alla andra, at de här med ådragit sig ett så swårt\nstraff och lidande? Och fick af rösten detta til swar: Kä-\nre barn, gifwen en til fridd, hwarken har hon eller I\nFöräldrar syndat, utan Gud wil så hafwit.\nHh. Biskopen frågade Comminister Sockenstrand, huru\nwida hon war grundad i sin Christendomens kunskap\nförrän hon sjuknade? Sw: at han af Probstens berättelse\noch hus förhörs längderne funnitz det hon kunnat u-\ntan til hela Lutheri lilla Cateches, samt Svebilii för-\nklaring der öfwer til midt på Trones Articlar.\nFr: Har denna rösten alt sedan fortfarit at lå-\nta höra sig? Sw: ja.\nFr: läser rösten några böner? Modren swarade: Ja-\nganska wackra böner och förböner lästes i 2 år,\nför Öfwerheten och alla människor, hwaraf hon\nännu kunde en bön utan til, så snart hon fick på-\nminna sig huru den börjades. Sedan söng rösten al-\nlehanda Psalmer på et ganska ljusligt och rörande\nsätt, och under besynnerligen ljufliga melodier, såsom\nNo 51, 78, 104, 196 etc: Modren berättade ytterligare, at\nnär bönen en tid hade uphördt, det hon en gång skall\nhafwa frågadt: hwarföre bön nu mera icke hålles\nsom tilförene? Hwarpå hon af rösten skall hafwa\nfått det swaret: Säta barn, jag gör bön hwar dag, fast\nI icke hören det.\nHr Biskopen frågade: om Psalmerne blifwit sungne\naldeles såsom orden lyda i Psalmboken? Sw: nej; utan\nmed den ändringen, at orden: jag, mig, min, mitt, wår,\nwårt, din, blifwit förbytte uti I, eder, Eder, Edart,\nsin, til el: Psalm. N:o 57. Och herren Er ej tukta,\nsom I må billigt frukta, uti sin wredes nit, Näpser-\nej alt förlänge i sine grymhet stränga. Men wara\ner mild och blid etc.\nLikaledes"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/15c59b17-c6ce-4aec-9b7c-06330f1a5174?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/15c59b17-c6ce-4aec-9b7c-06330f1a5174?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 7: 2025-11-28_12-39-40_00007"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFV/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFV",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "Libaledes läses Herrans bön på detta sättet: Fader\neder, som är i himlom; helgadt warde hans namn; tilkom-\nme hans rike; ske deras wilje, som äro i himmelen; edant\ndageliga bröd gifwe han eder etc.\nHr Biskopen frågade: hafwa några predikningar af\ndenna rösten blifwit hållna? Sw: I förstone predikades\nmäst hwar Söndag, och allramäst emot högtiderna, såsom\nPalmSöndag och Advents Söndagarne.\nFr: har hwilken som welat, fått höra dem? Sw: nej.\nFr: Hwilken har då hördt dem? Sw: Gårdsfolket, herr\nskapet på Somenäs, så ofta de komma, Frun på Tyn-\nrum och hennes Systrar, samt Adjuncten Enholm i Lisa,\nsom en gång oförwarandes fick höra denna rösten\npredika, då han kom på sjön der bredewid, och i anled-\nning deraf gick upp i förstufwan i tanka at der få\nhöra Skriftermål för någon sjuk. Dessutan hafwa\nmånge andre i grannskapet hördt denna rösten och dess\npredikningar.\nFr. Om ej Präster få höra denna röstens, eller så kallade\nhwita ängelens predikan? Sw: at då Comminister loci Doc-\nkerstrand flere gånger begärdt den få höra, skall änge-\nlen hafwa swaradt: J ären gjorde utaf ler och snart\nbräckte.\nFr: tyckes rösten komma ifrån den sjukas mun?\nSw: jag men hon är dock icke lik hennes röst.\nFr. Höres hon wäl? Sw: höres långt ut ifrån huset och\nned på sjön.\nFr: Än sången lik den sjukas? Sw: nej, den sjuka har\nej kunnat sjunga så öfwermåttan wäl\nFr: Hwarom handla predikningarne? Sw: de förma-\nna til bättring med sällsamma och owanliga talesätt,\nsamt at man skall wara såsom utan ögon, öron, hän-\nder och fåtter, när man retas til synd.\nFr:"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/45a8fa49-610f-43ab-a42b-a753ed64fe51?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/45a8fa49-610f-43ab-a42b-a753ed64fe51?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 8: 2025-11-28_12-41-28_00008"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKt/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKt",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "Fr. Talas deruti något om Christo? Sw: ganska mycket\nom hans förtjänst, och huru han har lidit för oss.\nFr: Hwad Ups plägar tagas til dessa predikningar?\nSw: merendels versar af Psalmboken, såsom til exem-\npel ganska ofta N:o 251, v: 6. Misskundelig Gud, lät Nåde-\nnes sol upprinna, – huggrade art hjerta — lät er i dag\nsin heliga wänskap finna.\nFr Huru länge pläga predikningarne räcka? Sw: wid\npass en tima.\nFr. När predikades det sidst? Sw. för 3 weckor sedan.\nFr. Talar rösten någonsin om något annat, som icke\njust är andeligt? Sw: ibland, til ex: hon sade en gång\ntil folket: waror icke häpne, I hafwen intet at rä-\ndas före, jag gör eder intet ondt, sätten eder.\nFr: Läser hon ock wälsignelsen? och huru? Sw. ja;\nherren wälsigne eder etc.\nFr. Har hon ständigt sungit? Sw: Nu på 4 elr 5 år\nhafwer hon ej sungit. Slutet af sidsta sången war-\ndetta: detta hafwer nu en ända, Gud er fader lät alt\nlända sig til etc.\nFr. Om någon ting synes til? Sw. at den andra\nSystran pigan Maja Isacs dotter, 24 år gammal, som\nhaft swårt wid at fatta och är derföre något swag,\ni sin Christendoms kunskap, en gång för några år se-\ndan, om ljusa dagen, då hon inkommit utifrån gården,\nsedt en lång bild i hwita kläder, stödjandes sig med ena\narmen wid bordet, som stod at stycke ifrån den sjukas\nsäng: hwilken bild hon wäl i början tog för sin syster,\nsom kunde hafwa stigit är sängen; men då hon noga\nre fick skåda bildans skönhet, och det ej war dess sy-\nster, blef hon så förskräckt, at hon drog foten tilbaka,\nsom hon hade innom tröskelen och tilslut dören.\nDessutan berättade Modren, at, då någre Timmerkar-\nlar för några år sedan, kommit en afton, at dagen\nderpå timra et Fähus, har en karl, som legat i kom-\nmaren\nmaren"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/e5cabeb8-30ab-4724-a43b-f1491f83c37c?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/e5cabeb8-30ab-4724-a43b-f1491f83c37c?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 9: 2025-11-28_12-41-30_00009"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKp/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKp",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "maren midt emot den sjukas, sedt en lång bild med hwita\nkläder komma in, utan at säga något, men då den\ngick ut, har karlen spottadt efter den samma; och då\nbilden kommit ut på gården, skall en annan karl,\nsom låg på botänken, sett samma bild och hördt den suc-\nka. Likaledes berättades, at då denna rösten predikar,\nskola sparlakanen för den sjukas säng under tiden hafwa\nrördt sig och fläcktadt, såsom och att sakta wäder.\nI öfrigt war det allmännt kunnigt i landsorten, at\ndenna siuka pigans föräldrar, som äro et stilla och gud-\nfruktigt folk, och gå flitigt i kyrkan och bruka den h.\nNattwarden, aldrig haft någon fördel af dem, som besökt\nderas bedröfwade hus; utan twärt om fägnat alla\nwäl efter deras swaga omständigheter.\nHh: Biskopen yttrade sig ändteligen: det tilkom-\nmer nu ej mig, utan werldslig arm, at under söka,\nom, och huruwida något människligit bedrägeri\nkan eller kunnat i så mång år här inunder\ndölja sig, hwilket dock snart nog torde ske, och en\nså grof missgerning, derest den blefwe bewislig; med\nhårdaste straff blifwa ansedd; Guds ord äro ock då\nsit aldeles tillämpelige, antingen sådant blifwer\nupptäckt eller icke: den eder för willar, han skall\ndraga sin dom, eho han är Gal. 5: ja. Men om det i\nsanning skulle befinnas, at intet människligt\n swek här under warit eller wore förurgadt-\ndå är det ock icke någon god ande, som i så mång\når taladt och predikat innom sängz gardinen i\nmörkrat uti detta fromma och enfaldiga folkets\nhus och deras eländiga och anfäktade dotters\nsäng, hwilke icke hafwa förstått satans djuphet.\nOppenB: B: 2: 24., som altid sökt och än söker så wäl\ngenom list som arghet, at draga människan ifrån\ndet"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/96175f69-2aee-4f3e-b53d-67569e896217?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/96175f69-2aee-4f3e-b53d-67569e896217?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 10: 2025-11-28_12-42-35_00010"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKu/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKu",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "det uppenbarade, skrifwa och besiglade Guds ord, til synne\noch uppenbarelser utom ordet, om hwilka wi uti ordet\nej hafwom några löften och tilsägelser, men wäl de\naldra kraftigaste warningar af Guds anda, at icke swar-\nliga låta beweka oss, icke heller förskräcka, hwarken ge-\nnom anda, eller ord, aller genom bref 2 Thes. 2.v. 2; utan\när det twärt om an ond anda, som qwäljer denna\nfattiga människan, och satan sjelf, som här förskapar\nsig i en ljusens ängel 2 Cor. 11: v: 14. Så utwisa ock de 2ne\nuti Probstens närwaro skrifne och bewisligen genom\ndenna usla pigans mun hållne tal och predikningar,\nat de ej äro enlige med Guds ord, såsom ock ej heller\net enda Skiftenes språk uti dem finnes rent anfördt;\nutan äro aldeles stympade meningar och oförmeliga\ntalesätt, och ej efter de hälso samma Guds ords efter-\nsyn, efter hwilka Gud befalt, at wi oss hålla skolom,\n2 Sim. 1: 13. Detta är ock at annorlunda förkunnadt\nEvangelium, än det Guds Onde i Skriften oss förkunnadt,\nemedan här ej at enda ord anföres om Rättfärdiggörel-\nens nåd och trona på wår herra Jesum Christum; hwar-\nigenom oss endast kraft meddelas till en sannskyldig bät-\ntring och det derpå följande tronas lif uti Christo: ehuru,\nock på et mörkt och stympadt sätt något i dessa til\nnämnes om Christi lidande och död för oss, men ej det\naldraringaste, huru wi med trones förträstan skole\noss samma nåd i Christo tilägna. Guds Andas ord\näro härwid tydelige: Någre äro, säger Apostelen, de\neder förwilla och wilja förwända Christi Evangelium;\nmen om wi eller än ängel af himmelen annorlun-\nda predikade Evangelium för eder, än wi eder\npredikat hafwa, han ware förbannad, Gal: 1: v. 7. 8.\nSå är ock det märkeligt, at satan i de sederme-\nra i 11 års tid hållne predikningar och de anförde,\naf honom med så ljuflig röst sungne Psalmer, men\nbesynnerl wid läsningen af bönen Fader wår, ej\ndristat kalla Gud sin fader, utan fader edar m. m.\nemedan"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/c46b7134-1088-418e-aaed-b2524eaaf871?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/c46b7134-1088-418e-aaed-b2524eaaf871?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 11: 2025-11-28_12-42-37_00011"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKs/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKs",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "emedan han wäl wetste, trodde och derwid bäfwade, at\nChristus ingenstäds tagit på sig änglarne, utan\nAbrahams säd, den fallna människan allena, Ebr: 2: 16,\njämförd med v. 14, intil Capitlets slut. Wi ärom af-\nGudi, säger ock Apostelen: den som känner Gud, han hö-\nrer gl: den som icke är och Gudi, han hörer oss icke.\nDäraf känne wi sanningenes ande och willnes ande-\n1 Joh. 4. 6.\nWid detta H: Biskopens tal blefwo fadren, Modren,\noch Systern ganska bestörte och stadnade uti en häftig\ngråt- förklarandes, at de trodt sig hafwa en god ande\noch Christi klara ängel i sitt hus, men fingo nu först\nweta, at det wore en ond mörksens ande, beklagan-\ndes sig modren, at hon och dess hus skola wara så fo-\nre syndare i Guds ögon, at Herren Gud nödgats så\nhårdt hemsöka dem. HH. Biskopen upmuntrade dem\naf Guds ord och förmante dem alla at ej widare\nsätta tro til satans löger--ord, och ej taga del uti\nnågot männskeligt bedrägeri, om ock något sådant skul-\nle här under befinnas, ej heller tillåta någon at me-\nra så höra, sådana tal och predikningar, utan bort-\nwisa folket, samt straxt gifwa Prästerskapet wid han-\nden, om och hwilka, utan at der til wara kallade och\npå sina laga Ämbets wägar, af förrett, otro aller\ndårskap, wågade kasta sig sjelfwe uti hjefwulens för-\nsök och frestelser. Föräldrarne begärde ock, at\nBl. Biskopen wille hos höga öfwerheten om hålla, at\nde för sin okunnoghet uti en så wigtighet, som den-\nra för, ej måtte komma något at lida, det hans gifu-\nskopen och lofwade, såframt de åtlydde hans gifne\nförmaningar, och på intet sätt widare wille tillå-\nta satan at hos otrones barn och de enfaldiga utwid-\nga sitt rike, samt redeligen uptäcka alt, hwad\ndem\ndem"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/c91d115e-8ea4-4f65-9608-a38fb8f86474?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/c91d115e-8ea4-4f65-9608-a38fb8f86474?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 12: 2025-11-28_12-43-08_00012"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQD/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQD",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "dem om denna saken kan än widare wara eller blifwa kunnigt.\nSedan styrkte Hh: Biskopen dem med Guds ord af Jbn\nCananaiska qwinnans och Frälsarens Lisa egit exempel, som\nafwiste satan med Gudsrådet, det de ock borde göra, och som\nla sig kraft och styrka af Jesu lidna frestelser af satan;\nta sig deraf at han wardt pint och frestad, kan han hjelpa\ndem som freskas. Ebr. 2: 18. Capit: 15, upmuntrandes dem til\nGuds ords flitiga läsande och en andaktig bön af 2 Rt: 1: April.\nMatt. 6. 13. Cap. 26. 41. Mari. 14: 38, och till 22:v. 40. 46. för säkran-\ndes dem tillika om Guds allmagt, at kunna frälsa de\nGudaktiga af frestelsen 2 Pet. 2. i, samt i kraft af Jesu\nförbön och Guds inargfaldiga nådåläften, at äfwen ock\nhos ske skall. Luc. 22. 31. Joh. 17:15. 1 Cor: 10. Ja. 1: 12 och Uppenb. B. J: B:\nÄndtel. sängs til slut 9 d. N:o 46, samt lästes Fader\nwår och wälsignelsen. Derefter gick Hh. Biskopen til\npigans säng, öpnade gardinen och hölt til henne et trö-\nsteligt tal i anledning af 1 Joh: 3: 8: Fördenskull uppenba-\nrades Guds Son, at han skulle nederslå djäfwelens gre-\nningar, och slät denna förrättning med Herrans wäl-\nsignelse, under händars påläggning på hennes hufwud.\nWid återkomsten til Probstegården i Norra Wi sent\nom aftonen, förestälte Hr Biskopen Prästerskapet, hu-\nru beklagligt det war, at Consistorium i så mång\når ej fått om dessa besynnerliga händelser någon\nunderrättelse, såsom ock HH. Biskopen aldrig förr\nhördt dessa satans illgrep omtalas än wid sin vi-\nsitation uti den näst här intil gräntsande Malexan-\nders Församling d. 5 nästl. Sept., samt förmanade\ni synnerhet Comministern Tockerstrand och Ad-\njunctum Propositi, Magister Tillberg, at under Probstens\nhöga ålder och swaghet, flitigt besöka detta anfäkte-\nde Folket, hälst satan hädan efter torde wisa sig på\nsin grymma sida och rätta, då han får se sig ej län-\nge få behålla sitt rof, utan måste mista det, igenom\nGuds förbarmande nåd i Christo, förenad med an-\ndans kraft uti ordet: såsom det ock i öfrigt åligger Prä-\nsterskapet at efter hand ingifwa til Consistorium weder-\nbörliga\nbörliga"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/e0d4b4ed-b8ac-4159-aa59-93462d5c2f45?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/e0d4b4ed-b8ac-4159-aa59-93462d5c2f45?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 13: 2025-11-28_12-43-10_00013"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKo/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKo",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "börliga skyndesamma berättelser om hwad än widare\nhärwid kan sig tildraga. Til slut skref ock HH: Biskopen\ntil Adjunctum Minist. Sacri uti Malepander, Pet. Wigius, om\nGudfruktig och bepröfwad Prästman, det han uti detta öma\nmålet gör Prästerskapet uti Norra Wi och Syrsrum at fli-\ntigt och troget biträde.\nActum ut supra.\nO. Lindblom.\nLit B.\nDen 4 September 1751 hafwer, uti åtskilliga Personers\nnärwaro, den sjuka Pigan, Lisbetta Isacsdotter i Solwarf,\ntalat följande, nemln:\nDen hwite säger, at här är så många odygdiga in-\nne, de få lof at gå ut somliga, annars få de höra sina be-\ndrifter. Om I wiljen blifwa Guds barn, så omwänden\neder innan I gå här ut. Omwänden eder innan J. gå\nhärifrån. Jag hwarken hörer eller seer, men som li-\nga säija, at jag gör bägge delar. De som hafwa lagt\nmig många lyte på, de ska weta, at den samme gu-\nden, som har lagt mig detta på, han kan lägga dem\npå det samma. Om I wiljen blifwa Guds barn, skolen I\nintet wara högfärdige och odygdige. Den hwite säijer\nmig, at om hwiljen blifwa Guds barn, så skolen I intet\ndömma hwarken mig eller mina anhöriga. Det är en\nsta odygd at baktala alla människjor, så länge kan I\nicke komma i Guds rike. Den gwite går bort och nu hål-\nler jag upp en stund. I skall weta, at Gud wet, hwilka at\nsom föra att ogudaktigt lefwerne. I ska intet före ett\nogudaktigt lefwerne, så få skomma i Gudsäcke, I skall\ntro där är frögd och glädje. Dem som äro ogudatakte som\ndels deröijeliget at de få skåda Jesu Christi ansigte. De som\nwilla\nalla"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/7d7a8a9f-b219-4190-8fbe-442f28ea6d7f?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/7d7a8a9f-b219-4190-8fbe-442f28ea6d7f?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 14: 2025-11-28_12-43-43_00014"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKn/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKn",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "willa blifwa Christi barn de skola intet lägga några lyte\nhwarken på mig eller andra, det tål intet Christus sjelf-\nwer. De tycka wäl de hafwa frögd och glädje af, at\nde döma mig, men de wet intet hwem de hafwa dömt?\nMina ögon och öron äro i godt förwar, men jag wän-\ntar med Jesu hjelp, at jag får igen dem snart; Den hä-\nte säger, at Jens har sjelf lofwat, at här blifwer jag\nintet länge. Den hwite säger: at Jesus sjelfwar siukar öf-\nwer, at människjorna stå i stor fara, för de föra ett och\ngudaktigt lefwerne. I skall bedja Gud både föra sitter och\neder höga öfwerhet hwarstund, at de måge föra sitt lef-\nwarne efter Jesu Christi sinne. I skall weta, at de äro\ni högre wärde än hi wete, derföre skolen Jaltid bedja\nför dem. I skall wetan om I fören ett gudfruktigt lef-\nwerne här i werlden, så få I komma till frögd och\nglädja i Guds icka, och hwem som talar genom min eder\ndet få I wäl weta: det är en som�r min styrkare och eder\nhjelpare, som Christus hafwer fäldt hit neder. I skall\nreta, om I gå på de rätta wägar, så få I saa Christi all sig,\nte, och då få I see Christi klara änglar. Jag hwarken\nhörer eller seer; men när det blifwer an liten tid, får\njag ser Guds ansigte. I skall weta, här blifwer jag in-\ntet länge, Christes lofwar mig, at jag får snart förlass-\nning, Gud gifwe det wore bestält. Jag har så ondt i mitt\nbröst och hjerta, at det må brista sönder.\nBedjan Gud, at I få åtnjuta den glädje, som är\nGuds rike, fast jag har lidet ondt, har jag den fått.\nJag har så ondt i mitt hjerta, at jag intet kan\nstå länge emot. Mitt hjerta själfwe så hårdt för-\nmänniskjors skull. Nu är det Christi klara ängel\nsom talar genom min mun, och förgät intet det,\noch missinna intet eder Själ den glädje i himmelen\när. Nu slutar jag mitt taal.\nDen 5 September talat följande, neml: Nu gick\nden hwite bort och nu får jag hwila litet, när han kom-\nmerigen talar han genom min mun, willen I dåta\nga akt derpå, så gören det, sedan talar han aldrig\ngenom\ngenom"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/ab2a6b9b-2e6d-4c10-afaf-b3c504e079b8?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/ab2a6b9b-2e6d-4c10-afaf-b3c504e079b8?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 15: 2025-11-28_12-43-45_00015"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFW/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFW",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "genom min min mera, och hwad han hafwer at säija, det\nfå I då höra. Den hwite han är nedkommen igen, hon\när så wacker, beden Gud I blifwer så wackre som han är.\nDen hwite är Christi klara ängel, om I gå på de\nrätta wägar, så få I komma til honom: De som wilja\nblifwa Christi barn, de få intet hafwa några odygder,\ndå komma de intet i Guds rike, intet swärja och haf\nwa elaka odygder, om de skola blifwa Christi barn.\nTil Guds rike är en smal och wacker wäg, och gåf-\npå de rätta wägar, så så i skåda Christi ansigte:\nDen hwite är Christi klara ängel, och uti Guds rike\näro många änglar, hos Christum sjelfwer och han\nsänder dem. Jag har så ondt i mitt bräst och hjer\nta, at det må brista sönder. Christ gifwa det wore\nnågra Klåcketimmar förflutne i himmelen; så fin-\nge jag bättre. Den hwite han talar det genom min\nmun än en gång, och tagen I intet då märke derpå,\nså blifwer det derwid. Den hwita han säger at I sko-\nlen taga märke derpå, ty det är i mera wärde än\nI tro; ty jag hwarken hörer eller ser.\nMen de timmar, som äro i himmelen, förstå I in-\ntet; men jag wet dem. I skolen weta at många\naf edra anhöriga äro i himmelen, och de få we-\nta de timmar. I skolen weta at de äro wackra\noch hwita inför Guds ansigte de Själarna. Z: Eder\nhöga Öfwerhet skolen I bedja Christus Guds Son tro-\nget före. Det är en öfwerhet, som styrer hela werl-\nden och alt det människjor har. I skall weta at Jesus\nGuds Son eder Frälsare, han styrer hela werlden o-\nsynliget, men werldsliget bryr han sig intet om, och\nintet bryr jag mig om det heller. Christus förläna\nalla människjor den frögd som jag har fått i Guds rike-\nJag hafwer lidit ondt, och Chisus hafwa lagt sin hand\npå\npå"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/d40676be-4381-4c97-9c97-666ac214a902?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/d40676be-4381-4c97-9c97-666ac214a902?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 16: 2025-11-28_12-44-16_00016"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQC/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQC",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "på mig, men han gifwer mig wäll lindring igen, så får jag\nbättre. Baden nu Gud rätt troget för eder och för alla mänsis\nskjor, at de må föra sitt lefwerne efter Jesu Christ sinne. Christus\nlåter se hwad han kun förmår, at alla männi skje må besinna\nhwad de äro här i werlden, at det är intet mycket med dem.\nDe tycka at de hafwa en stor hwögd, at de fört mig öfwer hela\nwerlden, men de wet intet hwad det blifwer af dem. De hafwa\nfrögd af mig på många ställen, men jag hafwer frögd i him-\nmelen, och det är den bästa. Gud ware lof at himmelens klåc-\nketimmar lida snart, jag får wäl ro jag wäntar med Jesu\nhjelp de blifwa intet så länge, antingen til lifwet eller döden:\nmen den hwita will intet säija, hwilket det blifwer, han är så\nstor och wacker och I seen honom wäl, han lyfter mig. I skall\nweta han talar om den frögd som är i himmelen, och låter mig\nden see. Christi klara ängel han talar aldrig genom min mun\nmer här i wärlden, men hos mig är han. Gud förläne alla\nmänniskja den frögd, som jag har fått i Guds rike, fast iag har\nlidet ondt, men det bästa har jag fått.\nNu i Jesu namn bed wäl för alla människjor, för höga\noch låga, fattiga och rika, ty de hafwa alla en Gud; men här\nhafwa de intet at berömma sig af, de hafwa alla sett sin\nfödelse tid, men wet intet huru de komma hädan, de weta\nintet hwad det blifwer af dem. Fast de hafwa mig för rop,\nmen Gud är min Frälsare och alla människjors, och han\när den bäste. Gud gifwer frid och rolighet här, frögd och rotig-\nhet i Guds rike, om I wandren på de rätta wägar.\nDen hwite slutar rätt nu han talar intet mycket här efter-\nBedjan nu Christus troget at hans klara, ängel må fö-\nra edra själar, Christus han sörjer at de så alla anwän-\nde hans namn, och de blifwa förtappade. De må tro han\nhar sorg, när hans egna beläta föra att ogudaktigt lefwer-\nne, han sänder sina änglar neder til dem, at beweka dem\nat de må komma til honom; men de wilja störta med hans\nänglar om det wore möijeligit. Christus sörjer öfwer at\nde intet willa låta honom råda med sig, hwem skall de då\näkta\näkta\näkta"
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/39ad6f11-c0b1-480e-b43c-f54c6acb4269?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/39ad6f11-c0b1-480e-b43c-f54c6acb4269?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 17: 2025-11-28_12-44-18_00017"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKv/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKv",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "alta? Ackt synd du tunga börda? De hora Christi egna ord, och de lå-\ntat gå in genom det ena örat och at igenom det andra, och när\nde det hört, swärja de, men Gud lofwa de intet. Hören nu goda\nwänner, I skolen föra eders lefwerne efter Christi sinne, och då\nskolen I wara som menlösa lamb. Nu i Jesu namn, tacka Gud\naf hjerta och mun. Nu i Jesu namn, innan Jesus wänder sitt\nsken, så får jag förlossning, Nå tacka nu Gud, at jag hår för-\nlossning, och det gör jag sjelf i mitt elände: Fören nu edert lef-\nwerne här efter, at Christus må få frögd och icke sorg. Om I be-\nden Gud troligen, när han lägger åder korset på, så hjelper han\neder, så har han gjort unge Öfwergif intet at bedja Gud för eder\ntrogna Öfwerhet, och det förmanar Christi ängel i det yttersta.\nÄr det möijeligit, så får eder höga Öfwerhet lofs borttaga\nall högfärd, för det suckar Christus öfwer. Men öfwergif in-\ntet i Jesu namn at bedja Gud för eder höga Öfwerhet, at de\nmå föra sitt lefwerne efter Christi sinne, det förmanar intet\nängelen af sitt eget råd, utan Christes har sändt honom.\nOm I hållen edar intil Christi wisigte, insenar hans änglar\ngodt för eder allstund. Den hinte yngelen har Christus sjelfwer\nsärdt med til eder, at önska både eder och eder höga Öfwerhet,\noch alla människjor, alt godt, om I förn adert lefwerne af-\nter Jesu Christi sinne: Nå bedjen nu i Jesu namn, at I och\nalla människjor må komma inför Christi ansigte, så får in-\ntet Christus sorg. Christus bjuder til så mycket som möijeligit\när, at de intet skola blifwa förtappade: Ack. synd du tunga bör-\nda. Nu i Jesu namn, Christi änget talar aldrig mer än den-\nna gången, Gud förläma eder nu frid och frögd inför Christi ansigte.\nOmwänder eder alla människior, och lät Gud råda med\neder, som hafwer lidit död och pina för eder. Nu i Fijn namn, förma-\nett lefwerne, som är Gudi behageligit och eder nyttigt, det önskar Christes\nsilfwer. Så waren nu i Jesu namn förnögda, om det wore på denna\nstund, at den hwita får föra edra själar i den ewiga uplädjen. Christus\nhar sändt sin ängel neder, och säckar öfwer människja, at de döm-\nma, men Chrisks sjelf dömmer dem för sådana giorningar, som de be-\ndrifwa."
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/51ad95d8-5647-4715-8f97-60711d2e5051?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/51ad95d8-5647-4715-8f97-60711d2e5051?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		},
+		{
+			"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18",
+			"type": "Canvas",
+			"label": {
+				"sv": [
+					"Sida 18: 2025-11-28_12-44-35_00018"
+				]
+			},
+			"items": [
+				{
+					"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18/page/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18",
+							"body": {
+								"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQE/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQE",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							}
+						}
+					]
+				}
+			],
+			"metadata": [
+				{
+					"label": "Transkription",
+					"value": "drifwa. Förgät intet i Jesu namn, at bedja Gud för eder höga öfwerhet,\ndet förmanas i det yttersta. Är det möijeligit at eder höga öfwerhet\nkan borttaga all höghärd, sker det. Gud wara lof, innan några klåc-\nketimmar blifwa förflutna i himmelen, så får jag bättre; innan Christis\nwändar sitt sken: här blifwer jag intet länge. Nu i Jesu namn blifwa\ndet intet långt til den hwite han slutar det här, öfwergifwen aldrig,\nat bedja Gud troligen antingen det är för litet eller nog, så tacka\nGud derföre. Nu i Jesanramn, bedjan Gud, at han är hos eder, det�r\nden bästa föreslagaren, och den har jag. Nu i Jesu namn, förgät in\ntet hwad som sagdt är, den hwite han talar aldrig genom min mun\nmera. För gåt intet i Jesu namn, at bedja Gud för eder höga Öfwer-\nhet, och för höga och låga, fattiga och rika. I skall weta, at de som äro\nfattige här i werlden, de få frögd inför Christi ansigte, och då haf-\nwa de rikedommar noga Nu i Jesu namn, om eder höga, öfwer-\nhet kan borttaga all höghärd, sker detz Nu i Jesu namn tagen\nI detta för det, det är, ju större frögd får Christus spifwer, och I haf-\ngen ingen sog deraf heller: Nu i Jesu namn blifwer jag här in-\ntet länge, innan Christes wänder sitt sten, så hafwer jag fått\n lindring, bedjen nu Gud troget. Nu i Jesu namn, önskar\nChrifus och den hwita, öfwer hela werlden alt godt. Nu är\ndet Christi Klara vägnar sistl. hka talat gången inne rum,\nwore\nförgät aldrig det, och råssinnen intet eder själ, den frögd\nNo 112.\ni himmelen är, och lät intet den leda få förtjänst, utan Je-\nses få frögd och glädje. Christus gifwe frid, fröjd och lycka\npå alla ställe, och Christus ware med eder. Nu i Jesu\nnamn, rätt nu går den hwite bort. Nu i Fisc namn,\nfören ett stadigt och gudfruktigt lefwerne, bedjan Gud\ntroligen för eder höga Öfwerhet. Nu i Jesu namn,\nGud gifwe eder det, som är Gudi behageligit och eder myt-\ntigt. Nu i Fisce namn, Gud gifwe frid och ro på alla\nställe, och nu går den hwita bort och det är Christi kla-\nra ängel.\nCollat."
+				},
+				{
+					"label": "Källa (URL)",
+					"value": "<a href://\"https://dokument.nordiskamuseet.se/resource/6d0a603a-2670-4ae7-82f0-eba715aa4744?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">\">https://dokument.nordiskamuseet.se/resource/6d0a603a-2670-4ae7-82f0-eba715aa4744?entryPoint=96c44227-518f-4c4f-84bb-98e83ce8971b</a>"
+				}
+			]
+		}
+	]
 }
