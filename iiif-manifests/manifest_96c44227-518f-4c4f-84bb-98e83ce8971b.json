@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "sv": [
-      "Nordiska museets arkiv: MS djävul besatthet NM 0086429 1897 (Akt)"
+      "Nordiska museets arkiv<br>MS djävul besatthet NM 0086429 1897 (Akt)"
     ]
   },
   "metadata": [
@@ -830,3 +830,4 @@
     }
   ]
 }
+
