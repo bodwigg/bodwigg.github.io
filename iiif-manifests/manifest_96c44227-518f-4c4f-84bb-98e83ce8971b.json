@@ -4,10 +4,14 @@
   "type": "Manifest",
   "label": {
     "sv": [
-      "Nordiska museets arkiv<br>MS djävul besatthet NM 0086429 1897 (Akt)"
+      "MS djävul besatthet NM 0086429 1897 (Akt)"
     ]
   },
   "metadata": [
+    {
+      "label": "Förvaltare",
+      "value": "Nordiska museets arkiv"
+    },
     {
       "label": "Källa",
       "value": "<a href=\"https://dokument.nordiskamuseet.se/collection/96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">Visa boken i Nordiska museets digitala arkiv</a>"
@@ -830,4 +834,3 @@
     }
   ]
 }
-
