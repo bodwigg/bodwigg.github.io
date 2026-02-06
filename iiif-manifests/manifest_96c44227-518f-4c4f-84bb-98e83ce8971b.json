@@ -7,6 +7,12 @@
       "Nordiska museets arkiv: MS djävul besatthet NM 0086429 1897 (Akt)"
     ]
   },
+  "metadata": [
+    {
+      "label": "Källa",
+      "value": "<a href=\"https://dokument.nordiskamuseet.se/collection/96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">Visa boken i Nordiska museets digitala arkiv</a>"
+    }
+  ],
   "behavior": [
     "paged"
   ],
