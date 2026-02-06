@@ -4,17 +4,13 @@
   "type": "Manifest",
   "label": {
     "sv": [
-      "MS djävul besatthet NM 0086429 1897 (Akt)"
+      "MS djävul besatthet NM 0086429 1897 (Akt) i: SVARTKONSTBÖCKER > 1 Böcker och fragment > Böcker och fragment 04"
     ]
   },
   "metadata": [
     {
-      "label": "Förvaltare",
-      "value": "Nordiska museets arkiv"
-    },
-    {
       "label": "Källa",
-      "value": "<a href=\"https://dokument.nordiskamuseet.se/collection/96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">Visa boken i Nordiska museets digitala arkiv</a>"
+      "value": "<a href=\"https://dokument.nordiskamuseet.se/collection/96c44227-518f-4c4f-84bb-98e83ce8971b\" target=\"_blank\">Nordiska museets arkiv</a>"
     }
   ],
   "behavior": [
