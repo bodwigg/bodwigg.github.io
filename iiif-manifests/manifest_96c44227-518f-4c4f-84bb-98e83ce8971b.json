@@ -31,12 +31,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p1",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyFU/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFU/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyFU",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFU",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -76,12 +76,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p2",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyFT/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFT/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyFT",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFT",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -121,12 +121,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p3",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKm/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKm/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKm",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKm",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -166,12 +166,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p4",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKq/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKq/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKq",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKq",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -211,12 +211,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p5",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKr/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKr/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKr",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKr",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -256,12 +256,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p6",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyQB/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQB/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyQB",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQB",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -301,12 +301,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p7",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyFV/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFV/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyFV",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFV",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -346,12 +346,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p8",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKt/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKt/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKt",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKt",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -391,12 +391,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p9",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKp/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKp/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKp",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKp",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -436,12 +436,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p10",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKu/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKu/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKu",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKu",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -481,12 +481,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p11",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKs/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKs/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKs",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKs",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -526,12 +526,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p12",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyQD/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQD/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyQD",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQD",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -571,12 +571,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p13",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKo/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKo/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKo",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKo",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -616,12 +616,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p14",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKn/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKn/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKn",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKn",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -661,12 +661,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p15",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyFW/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFW/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyFW",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyFW",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -706,12 +706,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p16",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyQC/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQC/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyQC",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQC",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -751,12 +751,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p17",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKv/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKv/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyKv",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyKv",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -796,12 +796,12 @@
               "motivation": "painting",
               "target": "https://ulfbodin.se/iiif_manifests/96c44227-518f-4c4f-84bb-98e83ce8971b.json/canvas/p18",
               "body": {
-                "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyQE/full/full/0/default.jpg",
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQE/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://ems.s-nm-arkiv.dimu.org/image/062s9YXnyyQE",
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/062s9YXnyyQE",
                     "type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
