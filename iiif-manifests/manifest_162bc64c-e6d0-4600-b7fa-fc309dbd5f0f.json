@@ -1,0 +1,2092 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json",
+  "type": "Manifest",
+  "label": {
+    "sv": [
+      "Dagbok 1772-1789 (Dagbok) i: MÄRTA HELENA REENSTIERNAS ARKIV > B 1 DAGBÖCKER > DAGBÖCKER 01"
+    ]
+  },
+  "metadata": [
+    {
+      "label": "Källa",
+      "value": "<a href=\"https://dokument.nordiskamuseet.se/collection/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">Nordiska museets arkiv</a>"
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 1: 2025-11-25_07-40-06_00001"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p1/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p1",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevcD/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevcD",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/c48c20cd-feeb-4fd0-9ede-ef67b42b8aa4?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/c48c20cd-feeb-4fd0-9ede-ef67b42b8aa4?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 2: 2025-11-25_07-44-09_00002"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p2/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p2/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p2",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevcE/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevcE",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/e68ab0ff-c225-4427-94ec-1b5b5e965dce?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/e68ab0ff-c225-4427-94ec-1b5b5e965dce?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 3: 2025-11-25_07-44-10_00003"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p3/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p3/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p3",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevcF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevcF",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/7f8c3854-be13-437f-8bee-35b5657cb062?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/7f8c3854-be13-437f-8bee-35b5657cb062?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 4: 2025-11-25_07-45-25_00004"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p4/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p4/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p4",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevgY/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevgY",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/5d508329-dfce-4de6-a56b-cd70cd5091a9?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/5d508329-dfce-4de6-a56b-cd70cd5091a9?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 5: 2025-11-25_07-45-26_00005"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p5/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p5/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p5",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevcG/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevcG",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1772\nden 6 September Som var\nen Söndag reste min kiera\ndotter Märta Helena til\nStockholm d. 16 der på\nså kom hon til Salig fru\nmomma vilken dog\nkortt der på d 23 november\nanno 1774 blef min\nKiera Närta förlofrad\nd. 26 deßember som när\nannandag gul och en\nmåndag mäd sin man\nwälborne her Ryttmästaren\nvon Schnell på Årstad\nAnno 1775 d 6 Juni\nsom q:gar en Åisdag och\ntredie dag pingst Så stod\nhon brud på Liljeholmen\nhelt nära Stockholm"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/3b66b699-82cc-41fe-979d-415654e8e1c2?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/3b66b699-82cc-41fe-979d-415654e8e1c2?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 6: 2025-11-25_07-46-22_00006"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p6/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p6/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p6",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevgX/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjDevgX",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1776 d. 13 marti\nSom war en onsdag blif\nmin Kiera Mänta förlöst\nmäd en dotter Som i dopet\nDik namnet Friderica\nMaria wilken eij lefde\nfulla 2 år, utan Skildes\nfrån wärden och från\nsina Kierg föräldrar.\noch från dess kiera an\nnöriga til en stor sorg\ndo Samte marti 1778.\nd 27 augusti 1777 så\nblef min kiera mäster\nåter förlöst mäd in\ndotter som i dopet fik\nnamnet Christiana\nHolena Falken eij\nhon blef och född en ondas"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/ff1ead73-8122-4a5b-97f3-23880c6be7f2?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/ff1ead73-8122-4a5b-97f3-23880c6be7f2?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 7: 2025-11-25_07-46-23_00007"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p7/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p7/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p7",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiih/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiih",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "heller fik lefva längre\ntil sina Kiera föräldras\nströst och glädie utan i\nlös\nherranom afsomnade\nnet\nde 10 december då hon\nendast lefwat her i\nwärden 15 weckor\nAnno 1778 d. 16 September\nsom och war en onsdag\nså blef min Kiera Mänta\nförlöst mäd en son som\ni dopet fick namnet\nHans Abrecham\nmen curen til sina\nkiena Föräldrars största\nuti\nsorg och Smärta skildes\nfrån värden och dem\nde 11 September 1779 då han\nej kullest lefwat ett år\ngud största och hugginaler\ngälla brösta och månades hierton"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/85274f1c-9ef2-4178-8e56-bc88daafcf56?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/85274f1c-9ef2-4178-8e56-bc88daafcf56?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 8: 2025-11-25_07-47-17_00008"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p8/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p8/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p8",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmio3/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmio3",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1780 d 9 Januarii\nsom war en Söndag\nSå blef min wälsignade\ndotter Märta Melena\nlyckeligen förlöst om\naftonen klåckan 10\nmäden rälskapad Son\nsom bristnades otorsdage\nder på de 13de och i det\nheliga dopet blef nämd\noch kallad Hans Abraham\ngud mälsigna barnet och\nlåte det til sina kiera\nföräldnars träst och\nglädie få lefva och\nupcrecessa i guds fruktan-\noch til deras fägnad\n1111\nromoormannens"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/b43f0344-77db-49a8-9f23-f5d5e0d82c0e?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/b43f0344-77db-49a8-9f23-f5d5e0d82c0e?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p9",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 9: 2025-11-25_07-47-18_00009"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p9/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p9/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p9",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiik/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiik",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1781 d. 20 April om\nnatten millan torsdag och\nfrådagen blef Min Kieraste\ndotter Märta Helena lyckeligen\nförlöst med en rälskapad Son\nsom undfik det heliga dopet\nSöndagen der på d 22 Aprill\noch till namnet Adolph Fredric\nLudwig guds välsignelser\nöfwer Skiegga det kiera barnet\noch låte honom få lefwa til\nsina kiera föräldrars ströst\noch gludie\ncenna 1782 d 18 november\nsom var en måndag Klåtan-\n10 om afton blef min hiera\ndotter Märita Helena förlöst\nmäd en Son som Kristrädet\nde 21 der på och blef, kallad\nHans Hinric gudbevara\noch välsigna barnet til\nkropp- och Siel"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/657cd99d-26d5-4e9d-8f96-3e614980b64e?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/657cd99d-26d5-4e9d-8f96-3e614980b64e?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p10",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 10: 2025-11-25_07-47-43_00010"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p10/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p10/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p10",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiii/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiii",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1783 d 16 Maij dag till\nHans Hidric til sina Kie-a\nföräldnars song och oro\nhan var gömt ett halft:\når gammal då han skilda\nfrån detta gordiska Eländet\nlik täxten som hölts\nöfwer det lilla Saliga\nbarnet war som eij följa\ntill hafwer förwandlat\nmig min klagan uthi\nFrögd - til hafuer afklät\nmig min Sack och om\nglösat mig mäd\nglädie på dhet min\nähra skall lofsiunga\nstig och icke tyst warda\nherre min gud iag will\ntig tacka i Ewighet"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/41f264a2-f302-4279-86f3-493ec2ab6dde?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/41f264a2-f302-4279-86f3-493ec2ab6dde?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p11",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 11: 2025-11-25_07-47-44_00011"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p11/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p11/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p11",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmio1/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmio1",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "de 10 may 1782 resti-\ntill\niag och min Abraham\ntil Stockholm och den\n17 dito kom wi til\narestad der en rar\nAil 5 Junii då wi\nreste från mina\nkiera barn och kom\nhem til Siönyd den 12\ngun i\n1783 d 2 juli korni\nmin Jonsin Svedenhielm\ntit från Stockholm och\ndo 23 der på reste han\nåter her ifrån\når 1784 d 13 augusti kom.\nmin Cousin S: edenhielm hit\ntil Siöryd och reste hädan\n den 26 Augusti"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/266cfe0c-541d-439b-8690-d08598b38580?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/266cfe0c-541d-439b-8690-d08598b38580?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p12",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 12: 2025-11-25_07-48-47_00012"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p12/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p12/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p12",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmio2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmio2",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1734 den 12 ogister\nsom går en Aors Lag\nså blef min wälsignade\ndotter Märtha Helena\nlyckeligen förlöst\nmäd en kier dotter\nKlåckan 2 öster midare\noch Cristricidet Söndagen\nder på och unfik i ut\nheliga dopet namnet\nFriderica Cristjana\ngud wälsigna det kiära\nbarnet och låte det\ndå lefwa til Sina\nkiära föräldrars\nhägnad och glädie"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/bd2d6847-f0a8-4004-852c-9dac9ab366d8?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/bd2d6847-f0a8-4004-852c-9dac9ab366d8?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p13",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 13: 2025-11-25_07-48-48_00013"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p13/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p13/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p13",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiig/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiig",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1787\nden andra october som\nwar en Aisdag så\nblef min wälsignade\nsatter Mänta Helena\nReenstierna lyckeligen\nförlöst mäd en wäl\nSkapad och Kiär Dotter\nKlåchan 5. om efter-\nmiddagen. Som Söndagen\nder på den 7de undfolk\ndet heliga dopet och\nblef kallad Sophia\nulbertina Helena\nguds heliga änglar\nbewara det kiära\nbarnet och låta det\nupwäxta til sina\nhulda föräldrars\nStörsta hugnad och glädie"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/edd6ee3d-bd9c-4b67-965a-08668fe4618c?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/edd6ee3d-bd9c-4b67-965a-08668fe4618c?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p14",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 14: 2025-11-25_07-54-30_00014"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p14/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p14/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p14",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmio4/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmio4",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1788 den 23. Februar\nså blef det älskiliga the\nbarn rätt Swårt Siuket\noch härdade emot det hårda\nlicentsprång i 14 dagars\ntid då den alsmäcktiga\nbehagade sluta Dess jem-\nmersamma plågor den\n8.de marti då Saliga\nSophia Albertina Helena\nendaste uppnådde en ålder\naf 5. månader en åhr\n5 dagar - härren Jesus\nstyrke och hugsveder\nDess bedröfwade ömma\nFöräldrars sorgbunden\noch blödande hiertan\nkwid denna sorgeliga\nhändelsen - och låte åth\nalla omsidor efter detta\njordiska eländet så åter\nråkas i härlighetens rik"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/fe74fc80-05d8-4e43-92b1-73162f5f1888?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/fe74fc80-05d8-4e43-92b1-73162f5f1888?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p15",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 15: 2025-11-25_07-54-31_00015"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p15/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p15/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p15",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiij/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXmiij",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1789. den 26.te\nJuli blef min i evig-\nhet älskade kiäraste\ndotterson Adolph\nFredrich Ludwig död\ndå han upnått en\nålder af 8. år och H\nmånader dess wett\noch Färstånd samt\nfägring var obeskrif\nder\nlig /wäl honom i all\nWighet i all Sin Sillhet\nmen dess sörgande\nFöräldrars Liertz Prä\nstande sorg är der-\nemot obeskrifwelig\ngud den högsta egare\nderas tröst och ut-\ngiute, Tii andas\nsta\nhögsmålelse i deras\nSorgefritande hierstan\nter\ncke"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/745b8cc9-65cc-4cde-b210-a4cfbc70f8c6?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/745b8cc9-65cc-4cde-b210-a4cfbc70f8c6?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p16",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 16: 2025-11-25_07-55-40_00016"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p16/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p16/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p16",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2a",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1789. den 12.\nӕgusti så blef min\nalskeliga och i ewig\nhet välsignade kiära\ndotter dotter död man\nhon upnått en ålder\naf 5. år. och dog\npå sin födelse dag\nwäl det sälla Guds\nbarn i wighet för\nden lijcksplighet hon\nda bland guds utwal-\nda helgon giuter-\ningen guder emot önskar\nhag guds milder i Kaste\nhlingswalelse öfwer\ndi Torg och hiertblödan\nde Föräldrar Sanct och\nmig synderska som nu\nskolat smerta den 11\nbittra Torgenäcken"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/936e355d-aa43-4cc4-8423-0f5b8a46c3b2?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/936e355d-aa43-4cc4-8423-0f5b8a46c3b2?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p17",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 17: 2025-11-25_07-55-41_00017"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p17/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p17/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p17",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2V/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2V",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "efter nu. 7. Stycken\nså qvälsignade kiära\n11\noch Zachra barn som\nwar efter annan\nuti sin Specida Sanit\nva\nblomstrande ungdom\naf dödsens Scara\n.\n lija är blefna\nbortt tagna från\ndeth hulda föräldra\ntil en Sorg som eij\nmin Sciga hand\nal\nförmår att beskrifwa\ngud giet at mitt\nhierta blöder och\nsorg och åtanka\nom desse älskansvar\natt\nde\nda barnenes bortgång\n u\nfast di är nu Sälla\ni evighet"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/ed4b0f9d-46d4-4201-bb4b-48202423a97b?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/ed4b0f9d-46d4-4201-bb4b-48202423a97b?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p18",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 18: 2025-11-25_07-56-54_00018"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p18/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p18/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p18",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2b/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2b",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1791. den 8 Junii\nSå Lördes min Kiäresti\nDotter Märtha Svenas\nsänghläder di då som\nhon Sick och sina\nFöräldrar här i\ndrén Siöaryd til\nårstad - Siemt 16.\nÅr efter sådan\nhon blef gifter"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/cb016fdf-3f9a-4e24-88e1-33de6fe5ab3c?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/cb016fdf-3f9a-4e24-88e1-33de6fe5ab3c?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p19",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 19: 2025-11-25_07-56-55_00019"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p19/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p19/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p19",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2Z/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2Z",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "sta"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/f74a19e4-c3d0-4e5b-8851-d20e470f9cbd?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/f74a19e4-c3d0-4e5b-8851-d20e470f9cbd?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p20",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 20: 2025-11-25_07-57-35_00020"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p20/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p20/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p20",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2U/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2U",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/9b38cf52-5bde-49b9-b87b-fa4e1c77f163?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/9b38cf52-5bde-49b9-b87b-fa4e1c77f163?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p21",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 21: 2025-11-25_07-57-36_00021"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p21/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p21/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p21",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2c",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "de 10 augusti år 1784, som vare-\nen tisdag och dersmäsdag\nså blef min kiäna dotter\nӕsna Catharina lyckelig\nförlöst med en dotter\nsom Cristnades den 12 etc\nder på och undfick i det\nheliga dopet namnet\nJustafva Maria\ngud rälsigna barnet och\nlåte det upwäxa sina\nkiära Föräldrar til trösl.n\noch glädie\nanno 1785 den 19 Augusti\nen frädag så blef min\nkiära dotter Eva Jön\nlöst klåckan 4, om\nmårgon mäd en\ndotter som Kristnades\nsöndagen der på och hiti"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/b1c2c7ee-5183-4e72-991f-f17ffd6c3655?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/b1c2c7ee-5183-4e72-991f-f17ffd6c3655?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p22",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 22: 2025-11-25_07-57-48_00022"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p22/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p22/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p22",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2W/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2W",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "i dopet det mancnet\nCarolina Johanna\nbovisa gud begiära\nbarnet och låte det\nupwäxa i alla Cristi-\nliga dygder til alles\nnär glädie\nanno 1787 den 24\nFebruari som war\nen lördag blef\nmin kiäna dotter\nEva Catharina\nlyckeligen förlöst\nmäd en wälskapar\nson som undfik det\nneliga dopet den 26\nder på"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/a0beb16e-56c8-4c70-9280-f33fb2decc25?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/a0beb16e-56c8-4c70-9280-f33fb2decc25?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p23",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 23: 2025-11-25_07-57-49_00023"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p23/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p23/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p23",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2X/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2X",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "och sitt namnet Abraham\nwillkålen gud bewara detta\nkiärna barnet Swin och fara\noch låta det få lefva\ntil sina kiära Föräldrars\n℔\nstörsta hugnad och glädie\n1o\nAnno 1788 den 31. Juli\noch\nförllet mine kiära dotter Eva\nCatharina lyckelig förlöst\nmäd en gäldskapad Petter\n4\nsom undfick det heliga\nsamt söndagen der på och\nwr\nblef upnämd til Charlai\nta ulderica gud välsigna\ndet kiära barnet och låta\ndet upwära til ett guds\n;\nbarn och sina kiära\nd\nFöräldrars tröst och\nhugnad\n26"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/a5ad7468-4bae-457d-b8c5-461ae5c34e50?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/a5ad7468-4bae-457d-b8c5-461ae5c34e50?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p24",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 24: 2025-11-25_07-59-52_00024"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p24/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p24/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p24",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2Y/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjF8a2Y",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1732. den 20\nnovember en frädag\nså blef min kiäna dotter\nEva Catharina\nlyckeligt förlöst mäd\nen son som Söndagen\nder på blef Cristräder\noch dik i det heliga\ndopet namnet Carl\nJohan &ter Sin Kiure\noch älskilliga Fin\ngud rälsigna det Kiän\nbarn och låta honom\nupgränsa i guds fruk\nctorn och sina kiära\nföräldrar til hög\nnad och glädie"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/12a4448f-b777-4db8-a173-6921b1690591?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/12a4448f-b777-4db8-a173-6921b1690591?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p25",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 25: 2025-11-25_07-59-53_00025"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p25/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p25/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p25",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dz/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dz",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1791. den 6.te domb\nsom war en tisdag så\nter\nblef min kiäna Dotter\nEva Catharina Lyckelig\nförläst, med en wäl\nSkeipad Dotter Som\nCristnades dagen der på\noch undfick i det heliga\nDopet namnet\n-\nwillhelmina Helena\ngud wälsigna det kiära\n2\nbarnet och låte det\nupsväcka i alla Criste-\n-\nliga dygder och till sina\nkiära Föräldrars hug-\nnad och glädie\nwida willkulmissas lifstid\nnar ej lång hon af\nsomnade i herran om\nden 2½ Aprill då hon\neij war stort mer än 1/4\nmånader sammall"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/1f44cff6-cc70-479e-95ec-cda55be2eee2?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/1f44cff6-cc70-479e-95ec-cda55be2eee2?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p26",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 26: 2025-11-25_08-01-09_00026"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p26/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p26/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p26",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dv/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dv",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anna 1796 den 24 Juli så\nblef min Kära Sonclustru\nlycktelig förlöst klåker\n5. om mårgon in Söndag\nmäd en välskapad\ndotter som fasta dag och\nblef bristnad och i dopa\noch namnet Christina\nCharlotta Sadrarna von\nFletrod Eva Schyen\nCapiten mörk och fröllen\nrucken\nden 25 Augusti 1797 blef\nmin Kära Sonhustru\ndörlöst med en död.\nSödd Son"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/79ef009e-b84e-4216-9d18-0bc4a6abb510?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/79ef009e-b84e-4216-9d18-0bc4a6abb510?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p27",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 27: 2025-11-25_08-01-10_00027"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p27/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p27/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p27",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dw/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dw",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1795. den 23. Maij\ntill\noch pingste ackton så\nll\nblef min Kära Dotter\n9\nEva Catharina\nde\nlyrkeligen gudi ärad\nI\nförlöst måd en stor\nra\n71\noch välskeipad som\nom lördags middagen\nken\nKlockan Kald til ett\njag dess gamla moder\naf\nkom då litet der efter\ntill hänne då insin-\nKära Dotter war nöjd\nat låta döpelse acten\nsamma efter middag dör\nsig gå och det lilla\nkära barnet blef"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/7140cdfc-aeea-468f-b555-f368f488b17e?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/7140cdfc-aeea-468f-b555-f368f488b17e?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p28",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 28: 2025-11-25_08-01-50_00028"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p28/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p28/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p28",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2Zc/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2Zc",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "upnämder i dopet.\nefter sin Farfader\nGustaf Eric 1. Sandt\nCristian efter\nmin Kära Svärson\nRyttmästaren von Schnell\nsom och i Kiörkobotier\nblef upförd till Fadder\ntillka med dess\nKåra son välborne\nher Scherstanten von\nSchrick\noch Fruntimbers Fodral\nvore iag en min\ncilsta kära dotter\nMärtha Helen an-"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/d4b69266-5746-44fe-affd-48c596b5c8e5?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/d4b69266-5746-44fe-affd-48c596b5c8e5?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p29",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 29: 2025-11-25_08-01-52_00029"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p29/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p29/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p29",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2Zd/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2Zd",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1800 Den 9:\nFebruari om Sön\ndagh morgon så\nblef min hära Dotter\nEva lyckeligt för\nlöst med en\nwäl Skapad Son\nsom Cristnades\nsamma dag och\ndik i derpåt namn\nnet Gustaf Eric\ngud bevara det\nkära barnet til\nbåde krops och Siäl"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/d104e9e6-c06d-4e7d-afca-8d2d25d15707?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/d104e9e6-c06d-4e7d-afca-8d2d25d15707?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p30",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 30: 2025-11-25_08-02-19_00030"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p30/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p30/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p30",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dy/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dy",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "nota på min giär\nning sedan den ej\naprill 180\nnigstatt 12 marken\nlingarn\nswept väfvarna och\nväfvitt 2 alnar på\nlärftett, fullatt u\narmban, sytt det\nblå täckett färdigt\noch stickat det\nbakatt 103 ting bröd\nvaritt i trädgården\noch låtit i rätta pota\nterna, dito med och\nlåtitt, så, för råsten\nhushåls göromål-\nden 20 maij"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/ecd56abe-b9c1-405f-b62f-ef1a220b4843?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/ecd56abe-b9c1-405f-b62f-ef1a220b4843?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p31",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 31: 2025-11-25_08-02-20_00031"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p31/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p31/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p31",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2Ze/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2Ze",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "?\n.\na"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/7e919ae2-ffe2-48ae-9461-af8adcd21435?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/7e919ae2-ffe2-48ae-9461-af8adcd21435?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p32",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 32: 2025-11-25_08-03-11_00032"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p32/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p32/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p32",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2du/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2du",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/01254e60-436f-4c85-919d-415456b8618c?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/01254e60-436f-4c85-919d-415456b8618c?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p33",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 33: 2025-11-25_08-03-12_00033"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p33/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p33/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p33",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dx/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qXj2dx",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "af min Kära Svärson\nfick iag den 8. Aprill\n1796. inträsse pängar\nför ett halfft Års ifrån\nden första october 1795.\ndå iag lämnade min\nKäreste Svärson det\nlilla Capital och två\nhundra Richsdaten som\niag ägde i behåld war\naf inträbhet iag fick\nvar 6. ricksdaler\nten fierde november\nFili iag och min\nKste Svärson inträde\nde af din pängar have\nhar för mig dör det\nsenare halfwa året\n6 rick daler"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/72f8a64e-679b-4204-8376-c92b83375041?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/72f8a64e-679b-4204-8376-c92b83375041?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p34",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 34: 2025-11-25_08-04-31_00034"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p34/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p34/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p34",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y4w/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y4w",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Silfwerhielms Skuld\nSedel som han är\nnii detta år 1794.\när skyldig är nu\nälfwa hundra daler\nstor var på min\nkära man låfwade\nnu Silfwerhielm\natt slippa betala\nmera i inträhs\nårligen än endast\nsom Procent för\nhundrade daler som\nSkrefs den 18 juni 1794."
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/96647bca-06df-4480-ab04-45668c598948?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/96647bca-06df-4480-ab04-45668c598948?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p35",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 35: 2025-11-25_08-04-32_00035"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p35/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p35/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p35",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Xzg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Xzg",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "en\nom\n94"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/0eb5f1f9-ba3d-48a8-9e3f-d7909cb167fd?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/0eb5f1f9-ba3d-48a8-9e3f-d7909cb167fd?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p36",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 36: 2025-11-25_08-05-21_00036"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p36/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p36/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p36",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y4y/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y4y",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Elin liktient wil iag i re\ngården\njag elende matts och\nmång farliga stigar\nfädernes land och aftor\niag finner här ingen\niag hasta will och ski\nthit iag för glädie\nett\nMitt blifwande hem\niag här på jorden\nty världen och Åker\nsom blomstret snarlig\nmitt lif är såsom\nbortlöper rätt haft.\nsom contract i gör-"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/42808093-46ee-471f-86b2-b962d12755ef?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/42808093-46ee-471f-86b2-b962d12755ef?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p37",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 37: 2025-11-25_08-05-22_00037"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p37/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p37/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p37",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y51/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y51",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Jesu namn utse af Sälgarn\ngundrings man igenom\nar, iag Söker mitt rätta\nHonstunden förbidar\nen Socker ort\nskynda mig sort\ndie och hwila\nm och födernes bygd\nen ey finner\nres flygliger drögd\nlig förscierner\nlig en skugga och dröm\nstigt såsom en Ström\norden jurinner"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/c83cb2a3-c4db-41f4-b970-665f7c425de4?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/c83cb2a3-c4db-41f4-b970-665f7c425de4?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p38",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 38: 2025-11-25_08-06-22_00038"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p38/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p38/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p38",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y4x/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y4x",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/599f61f9-b6cf-4af6-a6ad-0c9c51005c7d?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/599f61f9-b6cf-4af6-a6ad-0c9c51005c7d?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p39",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 39: 2025-11-25_08-06-23_00039"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p39/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p39/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p39",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y4z/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Y4z",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/0e88d14f-d554-496d-816b-cb9ebd26cdf4?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/0e88d14f-d554-496d-816b-cb9ebd26cdf4?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p40",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 40: 2025-11-25_08-07-30_00040"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p40/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p40/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p40",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Xzf/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Xzf",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/e92974c1-5f53-470a-82fb-25bd4668b7f4?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/e92974c1-5f53-470a-82fb-25bd4668b7f4?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p41",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 41: 2025-11-25_08-07-31_00041"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p41/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p41/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p41",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Xze/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Xze",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1795. den 13. April\nafsomnade min Kära\noch nu i härranom.\nsaliga man klockan\nhalft fyra efter middagen\nsådan han i en månads\ntid hafvit en ganska\nswår bröstplåga som\nslutelig ändade dess\ndagar i stor Smärta\ndock i ett Cristeligit\nHålamod anbidade\nsin förlässning utur\ndenna bedräkneliga wärd\nhan upnådde en ålder\naf 82 år. 5. månader\noch 20. dagar - gud\nhielpe oss at åter Få\nveckas i den sätta Evignaten"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/d26c2695-6b94-4780-9aef-42add0669d1a?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/d26c2695-6b94-4780-9aef-42add0669d1a?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p42",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 42: 2025-11-25_08-09-36_00042"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p42/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p42/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p42",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Xzd/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sAXjJ5Xzd",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "wårt förenings band\nblef nu efter den\nnådiga gudens Skieclielse\nuplöst Sådan eii har\nsammanlefnat i gårt\näctenskap uti 47.\når — och 15. weckor,\nvi stod brudFålk den\n26 December eller an-\nnan dag gul år 1747\noch har vårt stadigt\nvangande hemqvist\nnu varit här wid giärder\nuti 26. och ett halft\nån - och under hela\nden stid har ej något\nlik föreburits ut\nfrån Siöryds gård\nden 22 April der på blef han begge\nqven i Tödterydh Kiörkogård"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/5d720a21-8ee9-47f2-b15b-966c56735b81?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/5d720a21-8ee9-47f2-b15b-966c56735b81?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p43",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 43: 2025-11-25_08-09-37_00043"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p43/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p43/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p43",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qZFNDN/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qZFNDN",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Anno 1792. den\n2. Martii dag\nwär Konung\nGustaf den Aredie\ntill hela rikets\nStora saknad och\nförlust\ndoch klåckan älgna\nFörmiddagen\nde\n2"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/9a02fdb2-0c27-4af4-9182-29d10ea020a3?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/9a02fdb2-0c27-4af4-9182-29d10ea020a3?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p44",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 44: 2025-11-25_08-10-43_00044"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p44/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p44/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p44",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qZFNDP/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qZFNDP",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "anno 1789 den 17. de\nJanuari reste min\nKäraste son Jean\nAbraham och jag\ntil Stockholm och\nkom till Årsta\nden 21. der på följande\noch blef jag där hos\nmina välsignade\nkära barn, tills\nden 16 Februari då\nvi å ömsta sidor tog\nett ömt avsked af\nvarandra och skär\nnu i hjärtans nemlig-\nom vi här i tiden\nhär träffas mera\nden 19. derpå kom\nvi hem til Sörijid"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/7f090e2e-97fc-4841-8b18-143afcb84ecc?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/7f090e2e-97fc-4841-8b18-143afcb84ecc?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p45",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 45: 2025-11-25_08-10-44_00045"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p45/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p45/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p45",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qZFNDQ/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qZFNDQ",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/ced3a375-6c10-4492-bd4a-a6397f8f4463?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/ced3a375-6c10-4492-bd4a-a6397f8f4463?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    },
+    {
+      "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p46",
+      "type": "Canvas",
+      "label": {
+        "sv": [
+          "Sida 46: 2025-11-25_08-11-21_00046"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p46/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p46/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ulfbodin.se/iiif_manifests/162bc64c-e6d0-4600-b7fa-fc309dbd5f0f.json/canvas/p46",
+              "body": {
+                "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qZFNDR/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://ems.s-nm-arkiv.dimu.org/iiif/2/062sB2qZFNDR",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": "Transkription",
+          "value": "Inte transkriberad sida"
+        },
+        {
+          "label": "Källa (URL)",
+          "value": "<a href=\"https://dokument.nordiskamuseet.se/resource/9f577ee1-1d1a-4f16-8c29-76794be20597?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f\" target=\"_blank\">dokument.nordiskamuseet.se/resource/9f577ee1-1d1a-4f16-8c29-76794be20597?entryPoint=162bc64c-e6d0-4600-b7fa-fc309dbd5f0f</a>"
+        }
+      ]
+    }
+  ]
+}
