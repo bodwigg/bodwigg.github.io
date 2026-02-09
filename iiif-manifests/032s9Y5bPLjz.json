@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz.json",
+  "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz.json",
   "@type": "sc:Manifest",
 
   "label": "Skördetider (Danmarksby, 1953)",
@@ -23,12 +23,12 @@
   "sequences": [
     {
       "@type": "sc:Sequence",
-      "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/sequence/normal",
+      "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/sequence/normal",
       "label": "Normalbild",
 
       "canvases": [
         {
-          "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/canvas/1",
+          "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1",
           "@type": "sc:Canvas",
           "label": "Huvudbild",
           "width": 1127,
@@ -36,10 +36,10 @@
 
           "images": [
             {
-              "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/annotation/painting",
+              "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/annotation/painting",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/canvas/1",
+              "on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1",
               "resource": {
                 "@id": "https://ems.dimu.org/iiif/2/032s9Y5bPLjz/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
@@ -57,7 +57,7 @@
 
           "otherContent": [
             {
-              "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz-personer.json",
+              "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz-personer.json",
               "@type": "sc:AnnotationList",
               "label": "Personer"
             }
