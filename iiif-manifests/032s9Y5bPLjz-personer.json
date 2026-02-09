@@ -1,11 +1,11 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz-personer.json",
+  "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz-personer.json",
   "@type": "sc:AnnotationList",
   "label": "Personer i bilden",
   "resources": [
     {
-      "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/anno/person-putte",
+      "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/anno/person-putte",
       "@type": "oa:Annotation",
       "motivation": "oa:commenting",
       "resource": {
@@ -13,10 +13,10 @@
         "format": "text/plain",
         "chars": "Jan Ingmar “Putte” Nilsson (6 år) – extra skördehjälp"
       },
-      "on": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/canvas/1#xywh=118,520,240,360"
+      "on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1#xywh=118,520,240,360"
     },
     {
-      "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/anno/person-arne-kumlin",
+      "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/anno/person-arne-kumlin",
       "@type": "oa:Annotation",
       "motivation": "oa:commenting",
       "resource": {
@@ -24,10 +24,10 @@
         "format": "text/plain",
         "chars": "Arne Kumlin – lantbrukare (Danmarksby)"
       },
-      "on": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/canvas/1#xywh=470,280,250,390"
+      "on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1#xywh=470,280,250,390"
     },
     {
-      "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/anno/person-klas-junebjork",
+      "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/anno/person-klas-junebjork",
       "@type": "oa:Annotation",
       "motivation": "oa:commenting",
       "resource": {
@@ -35,7 +35,7 @@
         "format": "text/plain",
         "chars": "Klas Junebjörk – tegelbruksarbetare (häver upp timotej på lasset)"
       },
-      "on": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/canvas/1#xywh=320,620,520,560"
+      "on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1#xywh=320,620,520,560"
     }
   ]
 }
