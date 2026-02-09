@@ -36,9 +36,9 @@
 
           "images": [
             {
-              "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/annotation/painting",
+              "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/annotation/describing",
               "@type": "oa:Annotation",
-              "motivation": "sc:painting",
+              "motivation": "sc:describing",
               "on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1",
               "resource": {
                 "@id": "https://ems.dimu.org/iiif/2/032s9Y5bPLjz/full/full/0/default.jpg",
