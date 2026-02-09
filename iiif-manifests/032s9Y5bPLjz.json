@@ -1,0 +1,69 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz.json",
+  "@type": "sc:Manifest",
+
+  "label": "Skördetider (Danmarksby, 1953)",
+  "attribution": "Bild publicerad i Upsala Nya Tidning 13 aug 1953. Källa: DigitaltMuseum",
+  "logo": "https://creativecommons.org/images/deed/cc_by_nc_nd4.png",
+
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.sv",
+
+  "metadata": [
+    {
+      "label": "DigitaltMuseum-objekt",
+      "value": "<a href=\"https://digitaltmuseum.org/011014033754/sadesbargningen-i-full-gang-danmarksby-danmarks-socken-uppland-1953\">https://digitaltmuseum.org/011014033754/sadesbargningen-i-full-gang-danmarksby-danmarks-socken-uppland-1953</a>"
+    },
+    {
+      "label": "Bildtext (UNT 1953)",
+      "value": "“Skördetider. På vänstra bilden häver tegelbruksarbetare Klas Junebjörk upp timotej på lasset åt lantbrukare Arne Kumlin, Danmarksby …”"
+    }
+  ],
+
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/sequence/normal",
+      "label": "Normalbild",
+
+      "canvases": [
+        {
+          "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "Huvudbild",
+          "width": 1127,
+          "height": 1200,
+
+          "images": [
+            {
+              "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/annotation/painting",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz/canvas/1",
+              "resource": {
+                "@id": "https://ems.dimu.org/iiif/2/032s9Y5bPLjz/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1127,
+                "height": 1200,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ems.dimu.org/iiif/2/032s9Y5bPLjz",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ],
+
+          "otherContent": [
+            {
+              "@id": "https://ulfbodin.se/IIIF-manifests/032s9Y5bPLjz-personer.json",
+              "@type": "sc:AnnotationList",
+              "label": "Personer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
