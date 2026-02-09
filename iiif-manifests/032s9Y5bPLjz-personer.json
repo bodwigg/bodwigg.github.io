@@ -4,17 +4,17 @@
   "@type": "sc:AnnotationList",
   "label": "Personer i bilden",
   "resources": [
-    {
-      "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/anno/person-putte",
-      "@type": "oa:Annotation",
-      "motivation": "oa:commenting",
-      "resource": {
-        "@type": "dctypes:Text",
-        "format": "text/plain",
-        "chars": "Jan Ingmar “Putte” Nilsson (6 år) – extra skördehjälp"
-      },
-      "on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1#xywh=118,520,240,360"
-    },
+	{
+	  "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/anno/person-putte",
+	  "@type": "oa:Annotation",
+	  "motivation": "oa:commenting",
+	  "resource": {
+		"@type": "dctypes:Text",
+		"format": "text/plain",
+		"chars": "Jan Ingmar “Putte” Nilsson (6 år) – extra skördehjälp"
+	  },
+	  "on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1#xywh=90,360,360,640"
+	},
     {
       "@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/anno/person-arne-kumlin",
       "@type": "oa:Annotation",
