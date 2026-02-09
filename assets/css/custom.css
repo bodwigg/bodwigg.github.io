@@ -10,7 +10,7 @@ a:visited {
 
 a:hover,
 a:focus {
-  color: #9ece6a;
+  color: #a0c776;
   text-decoration: underline; /* optional: only underline on hover */
   text-underline-offset: 0.15em;
 }
