@@ -1,0 +1,57 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa.json",
+  "@type": "sc:Manifest",
+  "label": "Svenska konungahuset (porträttsamling)",
+  "attribution": "Nordiska museet (via DigitaltMuseum/EMS)",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.sv",
+  "metadata": [
+    {
+      "label": "EMS-objekt",
+      "value": "<a href=\"https://ems.dimu.org/image/012s83tDpCWa?dimension=max\">https://ems.dimu.org/image/012s83tDpCWa?dimension=max</a>"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/sequence/normal",
+      "label": "Normal",
+      "canvases": [
+        {
+          "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "Bild",
+          "width": 1608,
+          "height": 2048,
+          "images": [
+            {
+              "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/annotation/painting",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1",
+              "resource": {
+                "@id": "https://ems.dimu.org/iiif/2/012s83tDpCWa/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 1608,
+                "height": 2048,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ems.dimu.org/iiif/2/012s83tDpCWa",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa-personer.json",
+              "@type": "sc:AnnotationList",
+              "label": "Personer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
