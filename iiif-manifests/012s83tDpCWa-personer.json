@@ -2,44 +2,9 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa-personer.json",
   "@type": "sc:AnnotationList",
-  "label": "Personer i bilden (Kulturnav)",
+  "label": "Personer i bilden (ansikten)",
+
   "resources": [
-
-    {
-      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/oscar-i",
-      "@type": "oa:Annotation",
-      "motivation": "oa:commenting",
-      "resource": {
-        "@type": "dctypes:Text",
-        "format": "text/html",
-        "chars": "<a href=\"https://kulturnav.org/49644eaa-849c-42cd-ad4f-b006cad427fe/\">Oskar I, kung av Sverige och Norge</a>"
-      },
-      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=733,1026,908,894"
-    },
-
-    {
-      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/josefina",
-      "@type": "oa:Annotation",
-      "motivation": "oa:commenting",
-      "resource": {
-        "@type": "dctypes:Text",
-        "format": "text/html",
-        "chars": "<a href=\"https://kulturnav.org/23c038a9-5d0b-4a94-b5f3-aaf375642461/\">Josefina, drottning av Sverige och Norge</a>"
-      },
-      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=410,1084,557,718"
-    },
-
-    {
-      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/desideria",
-      "@type": "oa:Annotation",
-      "motivation": "oa:commenting",
-      "resource": {
-        "@type": "dctypes:Text",
-        "format": "text/html",
-        "chars": "<a href=\"https://kulturnav.org/41dbe316-eeff-414b-a5fb-e4ee69e87e23/\">Desideria, drottning av Sverige och Norge</a>"
-      },
-      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=1334,1113,645,718"
-    },
 
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/karl-xv",
@@ -50,19 +15,7 @@
         "format": "text/html",
         "chars": "<a href=\"https://kulturnav.org/e4d4ab30-8bea-4b32-ac39-edff283cf8fa/\">Karl XV, kung av Sverige och Norge</a>"
       },
-      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=395,352,747,908"
-    },
-
-    {
-      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/oscar-ii",
-      "@type": "oa:Annotation",
-      "motivation": "oa:commenting",
-      "resource": {
-        "@type": "dctypes:Text",
-        "format": "text/html",
-        "chars": "<a href=\"https://kulturnav.org/c381054b-c91e-4c08-be4c-8a0bbae05a50/\">Oscar II, kung av Sverige och Norge</a>"
-      },
-      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=1334,1641,586,645"
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=350,280,320,360"
     },
 
     {
@@ -74,19 +27,7 @@
         "format": "text/html",
         "chars": "<a href=\"https://kulturnav.org/ea67f3e8-70f6-4a80-be71-e95cebe48124/\">Lovisa, drottning av Sverige och Norge</a>"
       },
-      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=1245,410,747,703"
-    },
-
-    {
-      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/august",
-      "@type": "oa:Annotation",
-      "motivation": "oa:commenting",
-      "resource": {
-        "@type": "dctypes:Text",
-        "format": "text/html",
-        "chars": "<a href=\"https://kulturnav.org/4570f0c4-554d-4445-9dd3-1b05e7d138c2/\">August, prins av Sverige och Norge</a>"
-      },
-      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=395,1641,498,703"
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=1200,300,320,360"
     },
 
     {
@@ -98,7 +39,79 @@
         "format": "text/html",
         "chars": "<a href=\"https://kulturnav.org/b10a6416-dbc6-4004-9058-e469df8f3c49/\">Eugénie, prinsessa av Sverige och Norge</a>"
       },
-      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=894,395,615,718"
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=780,260,300,340"
+    },
+
+    {
+      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/josephina-child",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prinsessan Josephina (barn)"
+      },
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=880,140,260,260"
+    },
+
+    {
+      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/josefina",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/html",
+        "chars": "<a href=\"https://kulturnav.org/23c038a9-5d0b-4a94-b5f3-aaf375642461/\">Josefina, drottning av Sverige och Norge</a>"
+      },
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=360,760,300,340"
+    },
+
+    {
+      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/oscar-i",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/html",
+        "chars": "<a href=\"https://kulturnav.org/49644eaa-849c-42cd-ad4f-b006cad427fe/\">Oskar I, kung av Sverige och Norge</a>"
+      },
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=820,760,320,360"
+    },
+
+    {
+      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/desideria",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/html",
+        "chars": "<a href=\"https://kulturnav.org/41dbe316-eeff-414b-a5fb-e4ee69e87e23/\">Desideria, drottning av Sverige och Norge</a>"
+      },
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=1220,760,300,340"
+    },
+
+    {
+      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/august",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/html",
+        "chars": "<a href=\"https://kulturnav.org/4570f0c4-554d-4445-9dd3-1b05e7d138c2/\">August, prins av Sverige och Norge</a>"
+      },
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=360,1230,300,340"
+    },
+
+    {
+      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/oscar-ii",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/html",
+        "chars": "<a href=\"https://kulturnav.org/c381054b-c91e-4c08-be4c-8a0bbae05a50/\">Oscar II, kung av Sverige och Norge</a>"
+      },
+      "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1#xywh=1220,1230,300,340"
     }
 
   ]
