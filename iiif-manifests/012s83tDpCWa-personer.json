@@ -2,15 +2,20 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa-personer.json",
   "@type": "sc:AnnotationList",
-  "label": "Personer i bilden (ansikten, semantiska agents)",
+  "label": "Personer i bilden (ansikten, agents)",
 
   "resources": [
 
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/karl-xv",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Karl XV, kung av Sverige och Norge"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "Karl XV, kung av Sverige och Norge",
         "authority": "https://kulturnav.org/e4d4ab30-8bea-4b32-ac39-edff283cf8fa/"
@@ -21,8 +26,13 @@
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/lovisa",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lovisa, drottning av Sverige och Norge"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "Lovisa, drottning av Sverige och Norge",
         "authority": "https://kulturnav.org/ea67f3e8-70f6-4a80-be71-e95cebe48124/"
@@ -33,8 +43,13 @@
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/josephina-child",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prinsessan Josephina (barn)"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "Prinsessan Josephina (barn)"
       },
@@ -44,8 +59,13 @@
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/josefina",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Josefina, drottning av Sverige och Norge"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "Josefina, drottning av Sverige och Norge",
         "authority": "https://kulturnav.org/23c038a9-5d0b-4a94-b5f3-aaf375642461/"
@@ -56,8 +76,13 @@
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/oscar-i",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Oskar I, kung av Sverige och Norge"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "Oskar I, kung av Sverige och Norge",
         "authority": "https://kulturnav.org/49644eaa-849c-42cd-ad4f-b006cad427fe/"
@@ -68,8 +93,13 @@
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/desideria",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Desideria, drottning av Sverige och Norge"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "Desideria, drottning av Sverige och Norge",
         "authority": "https://kulturnav.org/41dbe316-eeff-414b-a5fb-e4ee69e87e23/"
@@ -80,8 +110,13 @@
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/august",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "August, prins av Sverige och Norge"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "August, prins av Sverige och Norge",
         "authority": "https://kulturnav.org/4570f0c4-554d-4445-9dd3-1b05e7d138c2/"
@@ -92,8 +127,13 @@
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/eugenie",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Eugénie, prinsessa av Sverige och Norge"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "Eugénie, prinsessa av Sverige och Norge",
         "authority": "https://kulturnav.org/b10a6416-dbc6-4004-9058-e469df8f3c49/"
@@ -104,8 +144,13 @@
     {
       "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/anno/oscar-ii",
       "@type": "oa:Annotation",
-      "motivation": "oa:identifying",
+      "motivation": "oa:commenting",
       "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Oscar II, kung av Sverige och Norge"
+      },
+      "agent": {
         "@type": "Agent",
         "name": "Oscar II, kung av Sverige och Norge",
         "authority": "https://kulturnav.org/c381054b-c91e-4c08-be4c-8a0bbae05a50/"
