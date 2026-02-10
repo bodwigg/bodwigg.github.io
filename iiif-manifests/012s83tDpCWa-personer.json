@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa-personer.json",
   "@type": "sc:AnnotationList",
-  "label": "Personer i bilden (ansikten, agents)",
+  "label": "Personer i bilden",
 
   "resources": [
 
@@ -13,7 +13,7 @@
       "resource": {
         "@type": "dctypes:Text",
         "format": "text/plain",
-        "chars": "Karl XV, kung av Sverige och Norge"
+        "chars": "Karl XV, kung av Sverige och Norge (https://kulturnav.org/e4d4ab30-8bea-4b32-ac39-edff283cf8fa)"
       },
       "agent": {
         "@type": "Agent",
