@@ -13,7 +13,7 @@
       "resource": {
         "@type": "dctypes:Text",
         "format": "text/plain",
-        "chars": "Karl XV, kung av Sverige och Norge (https://kulturnav.org/e4d4ab30-8bea-4b32-ac39-edff283cf8fa)"
+        "chars": "Karl XV, kung av Sverige och Norge"
       },
       "agent": {
         "@type": "Agent",
@@ -160,3 +160,4 @@
 
   ]
 }
+
