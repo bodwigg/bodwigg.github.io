@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMA.json",
+  "@type": "sc:Manifest",
+
+  "label": "IIIF manifest – EMS 019EBvjym1rMA",
+
+  "attribution": "Provided via eKultur / EMS",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.sv",
+
+  "metadata": [
+    {
+      "label": "EMS object",
+      "value": "<a href=\"https://ems.dimu.org/iiif/2/019EBvjym1rMA/full/full/0/default.jpg\">019EBvjym1rMA</a>"
+    }
+  ],
+
+  "sequences": [
+    {
+      "@id": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMA/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Normal sequence",
+
+      "canvases": [
+        {
+          "@id": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMA/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "Image",
+
+          "width": 3500,
+          "height": 3500,
+
+          "images": [
+            {
+              "@id": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMA/annotation/painting",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+
+              "on": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMA/canvas/1",
+
+              "resource": {
+                "@id": "https://ems.dimu.org/iiif/2/019EBvjym1rMA/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3500,
+                "height": 3500,
+
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ems.dimu.org/iiif/2/019EBvjym1rMA",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ],
+
+          "otherContent": [
+            {
+              "@id": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMA-annotations.json",
+              "@type": "sc:AnnotationList",
+              "label": "Annotations"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
