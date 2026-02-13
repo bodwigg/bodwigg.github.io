@@ -1,0 +1,66 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa.json",
+  "@type": "sc:Manifest",
+
+  "label": "Svenska konungahuset – porträtt",
+  "attribution": "Nordiska museet",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.sv",
+
+  "metadata": [
+    {
+      "label": "EMS-objekt",
+      "value": "<a href=\"https://ems.dimu.org/image/012s83tDpCWa?dimension=max\">https://ems.dimu.org/image/012s83tDpCWa</a>"
+    }
+  ],
+
+  "sequences": [
+    {
+      "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Normal",
+
+      "canvases": [
+        {
+          "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "Bild",
+
+          "width": 2356,
+          "height": 3000,
+
+          "images": [
+            {
+              "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/annotation/painting",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa/canvas/1",
+
+              "resource": {
+                "@id": "https://ems.dimu.org/iiif/2/012s83tDpCWa/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2356,
+                "height": 3000,
+
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ems.dimu.org/iiif/2/012s83tDpCWa",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ],
+
+          "otherContent": [
+            {
+              "@id": "https://ulfbodin.se/iiif-manifests/012s83tDpCWa-personer.json",
+              "@type": "sc:AnnotationList",
+              "label": "Personer i bilden"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
