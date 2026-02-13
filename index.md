@@ -11,7 +11,7 @@ Born 1964 in Södertälje, Sweden. Ex archaeologist. Information hugger. Databas
 
 I’m based in Uppsala, Sweden. I work with cultural heritage data and museums as a Product Manager at [KulturIT AS](https://kulturit.org/). I manage [KulturNav.org](https://kulturnav.org/), an open, cloud-based Software-as-a-Service platform where museums can create, manage, and publish name authorities and vocabularies for a linked open cultural heritage.
 
-At the moment, I’m also working on a new domain model (data, structures, and models) for [eKultur](https://kulturit.org/ekultur) — our technical ecosystem for collections management and museum dissemination. This includes, for example, a write API for [DigitaltMuseum](https://digitaltmuseum.org/), as well as a central service for annotations and AI connected to cultural heritage documents (OCR/HTR/APE).
+At the moment, I’m also working on a new domain model (data, structures, and models) for [eKultur](https://kulturit.org/ekultur) — our software ecosystem for collections management and museum mediation. This includes, for example, a write API for [DigitaltMuseum](https://digitaltmuseum.org/), as well as a centralized service for storing, handling and retreiving annotations and AI processing of museums archive information (OCR/HTR/APE).
 
 ## ID <a name="id"></a>
 - [ORCID](https://orcid.org/0000-0001-5194-4421)
