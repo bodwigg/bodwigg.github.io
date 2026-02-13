@@ -9,7 +9,7 @@ title: Projects
 
 In chronological order, newest first:
 
-#### <a href= "#p2025">2025/26</a> · <a href= "#p2023">2023/24</a> · <a href= "#p2021">2021/22</a>
+#### <a href= "#p2025">2025/26</a> · <a href= "#p2023">2023/24</a> · <a href= "#p2021">2021/22</a> · <a href= "#p2019">2019/20</a>
 
 ## 2025-2026 <a name="p2025"></a>
 
@@ -57,4 +57,7 @@ In chronological order, newest first:
 * [Museumsguiden](https://www.museumsguiden.no/), backend (concept; implementation)
 * [eKultur DAMS](https://kulturit.org/dams) project module (concept; specification)
 
- * [Nomenklatur för dräkt](https://kulturnav.org/5d01f05c-7a38-4f4a-b99d-dff052a78be5) - migration/data transformation project for The Norwegian Institute of Bunad and Folk Costume (NBF)
+* [Nomenklatur för dräkt](https://kulturnav.org/5d01f05c-7a38-4f4a-b99d-dff052a78be5) - migration/data transformation project for The Norwegian Institute of Bunad and Folk Costume (NBF)
+* [Undersøkelser/prosjekter NMM](https://data.arkeologi.org/6e7902b0-984e-4672-a752-165757860f79) - migration/data transformation project for Norwegian Maritime Museum (NMM)
+* [Undersøkelser/prosjekter SMM](https://data.arkeologi.org/3afbc7b4-e68e-48c6-aeb6-ebc3c2f61bd1) - migration/data transformation project for Stavanger maritime museum (SMM)
+* [Undersøkelser/prosjekter](https://data.arkeologi.org/2ee11644-dcc6-4a8d-8059-ef046581ccb8) - migration/data transformation project for Bergen Sjøfartsmuseum
