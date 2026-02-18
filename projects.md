@@ -94,7 +94,7 @@ Time flies... 40 years in business. In chronological order, newest first:
 * Primus Hembygd (concept, pilot study)
 * Investigation (report) of the Digital Infrastructure for Collection Management for archives, library and museum data (as Manager) for Nordiska museet
 * [Database of Photographers, Sweden](https://kulturnav.org/1f368832-7649-4386-97b6-ae40cce8752b) - migration/data transformation project (photograpers from Nationella fotografregistret) for Nordiska museet
-* [Arkitekter verksamma i Sverige](https://kulturnav.org/2b7670e1-b44e-4064-817d-27834b03067c) - migration/data transformation project (achitecs) for ArkDes
+* [Arkitekter verksamma i Sverige](https://kulturnav.org/2b7670e1-b44e-4064-817d-27834b03067c) - migration/data transformation project (architecs) for ArkDes
 
 ### 2011 - 2012 <a name="p2011"></a> @ KulturIT 
 
@@ -119,12 +119,12 @@ Time flies... 40 years in business. In chronological order, newest first:
 
 ### 1996 - 2000 <a name="p1996"></a>@ The Central Board of National Antiquities (RAÄ)
 
-* The Kaupang Project (as Concult)
+* The Kaupang Project (as Consult)
 * Åminnekarteringen, the first Intrasis project (private project)
 * The Aranäs project, 3D documentation and modelling, research project (as Consult)
 * Digital Archeological Documentation, DAD - ArcView 3 extension (as Developer)
 * Intrasis GIS - ArcView 3 extension for Intrasis databases (as Developer)
-* Intra Site Information System, Intrasis 1, concept (1997), specification (1998), release (2000) + implementation (as Manager). InstraSiS is used at thusands of excatvations, mostly in Sweden and Norway since 2000
+* Intra Site Information System, Intrasis 1, concept (1997), specification (1998), release (2000) + implementation (as Manager). Instrasis has been used at thusands of excavations, mostly in Sweden and Norway since 2000
 * The Landscape project, modelling GIS for historical maps
 
 ### 1991 - 1995 <a name="p1991"></a>@ The Central Board of National Antiquities (RAÄ)
