@@ -5,7 +5,7 @@ title: Projects
 
 [Home](index.md) · [Projects](projects.md) · [Photography](photography.md)
 
-# Projects and larger Data Migration Projects & Dataset Transformations
+## Projects and larger Data Migration Projects & Dataset Transformations
 
 Time flies... 40 years in business. In chronological order, newest first:
 
