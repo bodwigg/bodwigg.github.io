@@ -7,9 +7,9 @@ title: Projects
 
 # Projects and larger Data Migration Projects & Dataset Transformations
 
-Time goes... 40 years in the business. In chronological order, newest first:
+Time flies... 40 years in business. In chronological order, newest first:
 
-#### <a href= "#p2025">2025-26</a> · <a href= "#p2023">2023-24</a> · <a href= "#p2021">2021-22</a> · <a href= "#p2019">2019-20</a> · <a href= "#p2017">2017-18</a> · <a href= "#p2015">2015-16</a> · <a href= "#p2013">2013-14</a> · <a href= "#p2013">2011-12</a> · <a href= "#p2006">2006-10</a> · <a href= "#p2001">2001-05</a> · <a href= "#p1996">1996-2000</a> · <a href= "#p1991">1991-95</a> · <a href= "#p1986">1986-90</a>
+#### <a href= "#p2025">2025-2026</a> · <a href= "#p2023">2023-2024</a> · <a href= "#p2021">2021-2022</a> · <a href= "#p2019">2019-2020</a> · <a href= "#p2017">2017-2018</a> · <a href= "#p2015">2015-2016</a> · <a href= "#p2013">2013-2014</a> · <a href= "#p2013">2011-2012</a> · <a href= "#p2006">2006-2010</a> · <a href= "#p2001">2001-2005</a> · <a href= "#p1996">1996-2000</a> · <a href= "#p1991">1991-1995</a> · <a href= "#p1986">1986-1990</a>
 
 ### 2025-2026 <a name="p2025"></a> @ KulturIT
 
@@ -69,7 +69,7 @@ Time goes... 40 years in the business. In chronological order, newest first:
 * [Fataburen 1881–2017](https://dokument.nordiskamuseet.se/fataburen) - migration/data transformation project (37 000 scanned documents) for Nordiska museet
 * Card Catalogues - migration/data transformation project (700 000 scanned cards) for Nordiska museet
 
-## 2015 - 2016 <a name="p2015"></a> @ KulturIT
+### 2015 - 2016 <a name="p2015"></a> @ KulturIT
 
 * [KulturNav](https://kulturnav.org/), release (2015) + 25 releases: 1.0 - 1.5.3 (as Manager)
 * [Archeeology Server](https://data.arkeologi.org/), release (2015) + 10 releases: 1.1.20 - 1.4.8 (as Manager)
@@ -86,7 +86,7 @@ Time goes... 40 years in the business. In chronological order, newest first:
 * [Konstnärslistan](https://kulturnav.org/c6efd155-8433-4c58-adc9-72db80c6ce50) - migration/data transformation project (artists)
 * [Textile technical terminology](https://kulturnav.org/5a145f3c-6559-44f1-8f83-119734b3e23d) - migration/data transformation project (concepts) for Textilmuseet
 
-## 2013 - 2014 <a name="p2013"></a> @ KulturIT
+### 2013 - 2014 <a name="p2013"></a> @ KulturIT
 
 * KulturNav, beta release (2013) + 16 releases: 0.5 - 0.18.3 (as Manager)
 * Primus Arkeologi (concept)
@@ -96,28 +96,28 @@ Time goes... 40 years in the business. In chronological order, newest first:
 * [Database of Photographers, Sweden](https://kulturnav.org/1f368832-7649-4386-97b6-ae40cce8752b) - migration/data transformation project (photograpers from Nationella fotografregistret) for Nordiska museet
 * [Arkitekter verksamma i Sverige](https://kulturnav.org/2b7670e1-b44e-4064-817d-27834b03067c) - migration/data transformation project (achitecs) for ArkDes
 
-## 2011 - 2012 <a name="p2011"></a> @ KulturIT 
+### 2011 - 2012 <a name="p2011"></a> @ KulturIT 
 
 * Primus Web (Anastasia) collection management (as Manager)
 * KulturNav (concept)
 * A Digital Infrastructure for Collection Management for Nordiska museet (concept)
 
-## 2006- 2010 <a name="p2006"></a>@ National Historical Museums (SHMM)
+### 2006 - 2010 <a name="p2006"></a>@ National Historical Museums (SHMM)
 
 * [K-samsök / Swedish Open Cultural Heritage](https://www.raa.se/hitta-information/k-samsok) (concept, harvest protocol)
 * [Nordic Handscape](https://intarch.ac.uk/journal/issue18/4/5.html) (as Manager) for the Nordic Council of Ministers
 * The Access Digitizing project (as Manager)
 * Sök i Samlingarna/Search the Collections, release (as Developer & Manager)
 
-## 2001 - 2005 <a name="p2001"></a>@ National Historical Museums (SHMM)
+### 2001 - 2005 <a name="p2001"></a>@ National Historical Museums (SHMM)
 
 * Nordic Handscape (as Manager) for The Nordic Council of Ministers
-* Sök i Samlingarna/Search the Collections, release (concept, PoC)
+* Sök i Samlingarna/Search the Collections (concept, PoC)
 * Museum Information System - MIS, release (as Developer & Manager)
 * Museum Information System - MIS (concept, PoC)
 * Collection Management Systems, pilot study (as Manager)
 
-## 1996 - 2000 <a name="p1996"></a>@ The Central Board of National Antiquties (RAÄ)
+### 1996 - 2000 <a name="p1996"></a>@ The Central Board of National Antiquities (RAÄ)
 
 * The Kaupang Project (as Concult)
 * Åminnekarteringen, the first Intrasis project (private project)
@@ -127,7 +127,7 @@ Time goes... 40 years in the business. In chronological order, newest first:
 * Intra Site Information System, Intrasis 1, concept (1997), specification (1998), release (2000) + implementation (as Manager). InstraSiS is used at thusands of excatvations, mostly in Sweden and Norway since 2000
 * The Landscape project, modelling GIS for historical maps
 
-## 1991 - 1995 <a name="p1991"></a>@ The Central Board of National Antiquties (RAÄ)
+### 1991 - 1995 <a name="p1991"></a>@ The Central Board of National Antiquities (RAÄ)
 
 * Fältbaserad fynd- och dokumentationsregistrering, FFD, the "pilot" for Intrasis, concept, release and implementation (as Manager) @ RAÄ UV Hk. FFD was used at hundreds of excavations @ RAÄ UV 1991-2000
 * The Alsike project, a pilot/PoC for FFD @ RAÄ UV Uppsala
@@ -135,7 +135,7 @@ Time goes... 40 years in the business. In chronological order, newest first:
 * The Apalle project, report work, digitization, databases (as Archaeologist) @ RAÄ UV Mitt
 * The Nästa project, project reports (as Archaeologist and Author) @ Jönköpings länsmuseum
 
-## 1986 - 1990 <a name="p1986"></a> @ excavations
+### 1986 - 1990 <a name="p1986"></a> @ excavations
 
 * The Nästa excavation (as Archeologist and Manager; 1990) for Jönköpings läns museum
 * The Apalle excavation (as Achaeologist;  1989- 1990) for RAÄ UV Mitt
