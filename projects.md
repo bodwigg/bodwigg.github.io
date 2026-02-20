@@ -11,14 +11,14 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 
 #### <a href= "#p2025">2025-2026</a> · <a href= "#p2023">2023-2024</a> · <a href= "#p2021">2021-2022</a> · <a href= "#p2019">2019-2020</a> · <a href= "#p2017">2017-2018</a> · <a href= "#p2015">2015-2016</a> · <a href= "#p2013">2013-2014</a> · <a href= "#p2013">2011-2012</a> · <a href= "#p2006">2006-2010</a> · <a href= "#p2001">2001-2005</a> · <a href= "#p1996">1996-2000</a> · <a href= "#p1991">1991-1995</a> · <a href= "#p1986">1986-1990</a>
 
-### 2025-2026 <a name="p2025"></a> @ KulturIT
+### 2025 - 2026 <a name="p2025"></a> @ KulturIT
 
 * KulturNav 2 - the new version (as Manager/Project Lead)
-* KulturNav Releases: 1.12.10 - 1.12.15 (as Manager/Project Lead)
-* Document AI - OCR/HTR/APE (as Manager/Project Lead) [dokument.nordiskamuseet.se](https://dokument.nordiskamuseet.se/)
+* KulturNav, 4 Releases: 1.12.10 - 1.12.15 (as Manager/Project Lead)
+* Document AI - OCR/HTR/APE (as Manager/Project Lead) for Nordiska museet
 * eKultur Annotations - extending the domain model with annotation data (concept development and model)
 * Preparedness for crises and war in museums (concept development)
-* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project for the National Collections of Music, Theatre and Dance, Stockholm.
+* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project for The National Collections of Music, Theatre and Dance, Stockholm.
 * [Musical instruments from Musical instrument museums online (MIMO)](https://kulturnav.org/e0a3622b-74ab-423d-93b7-4be5815902d8) data transformation.
 * [NMM Skipsregister (med Fiske-registeret)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9 170 ships in the Fiske database) for the Norwegian Maritime Museum.
 * [Sällskapet för folkundervisningens befrämjande](https://dokument.nordiskamuseet.se/sallskapet) data transformation (43 000 scannded documents) for Nordiska museet.
@@ -29,8 +29,8 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * KulturNav, 9 Releases: - 1.12.1 - 1.12.9 (as Manager/Project Lead)
 * Tvättmaskinen/Datavask - app for cleaning/matching collection metadata (as Manager/Project Lead)
 * eRep - eKultur Repository Format, specification (as Manager/Project Lead)
-* Digitalisering av tradisjonsbåter ved norske museer (Norwegian Maritime Museum; consult)
-* Koordinert samlingsutvikling – kystkultur (Kulturdirektoratet/Arts Council Norway; consult) 
+* Digitalisering av tradisjonsbåter ved norske museer, The Norwegian Maritime Museum (consult)
+* Koordinert samlingsutvikling – kystkultur, Kulturdirektoratet/Arts Council Norway (consult) 
 * [Den glömda flottan/Vrakatlas](https://kulturnav.org/75eded19-8ed8-4b56-b83c-7c8a8e91796f) - the database behind the [Örloggen service](https://www.vrak.se/sv/sok-i-orloggen/) - migration/data transformation project (ships) for Swedish National Maritime and Transport Museums (SMTM)
 * [Byggnader i Sverige](https://kulturnav.org/1f23ddae-5579-4e3e-bf59-a29524e4f926) migration/data transformation project (buildings) for "Ett nätverk av platser" (ArkDes)
 * Churches in [Sweden](https://kulturnav.org/fcb4d6ed-2ca6-4edb-bb27-d4249ae5a47d) and [Norway](https://kulturnav.org/0a0fe47b-7007-4f05-9686-1197ad352929) - migration/data transformation project (buildings), the latter for [Hovedorganisasjon KA, Norway](https://www.ka.no/)
@@ -54,7 +54,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * KulturNav, 13 Releases: 1.9.1 - 1.9.12 (as Manager/Project Lead)
 * [Pagina document viewer](https://dokument.nordiskamuseet.se/) for archive resources/documents at Nordiska museet (concept development and specification; as Manager/Project Lead) 
 * Fra felt til fil til folk by the Norwegian Maritime Museum (consult, tech lead)
-* The FIOL project (audiovisual archive system for folk music and dance) - migration/data transformation project, workshops etc (consult)
+* The FIOL project (audiovisual archive system for folk music and dance) - migration/data transformation project, workshops, etc. (consult)
 * [Museumsguiden](https://www.museumsguiden.no/), backend (concept development; implementation)
 * [eKultur DAMS](https://kulturit.org/dams) project module (concept development; specification)
 * [Nomenklatur för dräkt](https://kulturnav.org/5d01f05c-7a38-4f4a-b99d-dff052a78be5) - migration/data transformation project for The Norwegian Institute of Bunad and Folk Costume (NBF)
@@ -91,7 +91,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 
 * KulturNav, beta release (2013) + 16 Releases: 0.5 - 0.18.3 (as Manager/Project Lead)
 * Primus Arkeologi (concept development)
-* Primis Import - Situla (concept development)
+* Primus Import - Situla (concept development)
 * Primus Hembygd (concept development, pilot study)
 * Investigation (report) of the Digital Infrastructure for Collection Management for archives, library and museum data (as Manager/Project Lead) for Nordiska museet
 * [Database of Photographers, Sweden](https://kulturnav.org/1f368832-7649-4386-97b6-ae40cce8752b) - migration/data transformation project (photograpers from Nationella fotografregistret) for Nordiska museet
