@@ -16,12 +16,12 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * KulturNav 2 - the new version (as Manager/Project Lead)
 * KulturNav, 4 Releases: 1.12.10 - 1.12.15 (as Manager/Project Lead)
 * Document AI - OCR/HTR/APE (as Manager/Project Lead) for Nordiska museet
-* eKultur Annotations - extending the domain model with annotation data (concept development and model)
+* eKultur Annotations - extending the eKultur domain model with annotation data (concept development and modelling)
 * Preparedness for crises and war in museums (concept development)
-* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project for The National Collections of Music, Theatre and Dance, Stockholm.
+* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project (34 500 scene preformaces, 19 500 works and 6 500 performers) for The National Collections of Music, Theatre and Dance, Stockholm.
 * [Musical instruments from Musical instrument museums online (MIMO)](https://kulturnav.org/e0a3622b-74ab-423d-93b7-4be5815902d8) data transformation.
-* [NMM Skipsregister (med Fiske-registeret)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9 170 ships in the Fiske database) for the Norwegian Maritime Museum.
-* [Sällskapet för folkundervisningens befrämjande](https://dokument.nordiskamuseet.se/sallskapet) data transformation (43 000 scannded documents) for Nordiska museet.
+* [NMM Skipsregister (med Fiske-registeret)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9 170 ships in the Fiske database) for The Norwegian Maritime Museum
+* [Sällskapet för folkundervisningens befrämjande](https://dokument.nordiskamuseet.se/sallskapet) data transformation (43 000 scanned documents) for Nordiska museet
 
 ### 2023 - 2024 <a name="p2023"></a> @ KulturIT
 
@@ -31,9 +31,9 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * eRep - eKultur Repository Format, specification (as Manager/Project Lead)
 * Digitalisering av tradisjonsbåter ved norske museer, The Norwegian Maritime Museum (consult)
 * Koordinert samlingsutvikling – kystkultur, Kulturdirektoratet/Arts Council Norway (consult) 
-* [Den glömda flottan/Vrakatlas](https://kulturnav.org/75eded19-8ed8-4b56-b83c-7c8a8e91796f) - the database behind the [Örloggen service](https://www.vrak.se/sv/sok-i-orloggen/) - migration/data transformation project (ships) for Swedish National Maritime and Transport Museums (SMTM)
+* [Den glömda flottan/Vrakatlas](https://kulturnav.org/75eded19-8ed8-4b56-b83c-7c8a8e91796f) - the database behind the [Örloggen service](https://www.vrak.se/sv/sok-i-orloggen/) - migration/data transformation project (ships) for The Swedish National Maritime and Transport Museums (SMTM)
 * [Byggnader i Sverige](https://kulturnav.org/1f23ddae-5579-4e3e-bf59-a29524e4f926) migration/data transformation project (buildings) for "Ett nätverk av platser" (ArkDes)
-* Churches in [Sweden](https://kulturnav.org/fcb4d6ed-2ca6-4edb-bb27-d4249ae5a47d) and [Norway](https://kulturnav.org/0a0fe47b-7007-4f05-9686-1197ad352929) - migration/data transformation project (buildings), the latter for [Hovedorganisasjon KA, Norway](https://www.ka.no/)
+* Churches in [Sweden](https://kulturnav.org/fcb4d6ed-2ca6-4edb-bb27-d4249ae5a47d) and [Norway](https://kulturnav.org/0a0fe47b-7007-4f05-9686-1197ad352929) - migration/data transformation project (buildings), the latter for Hovedorganisasjon KA, Norway
 * [Svenskt kvinnobiografiskt lexikon](https://skbl.se/en/about-skbl) - migration/data transformation project
 * [Undersökningar i Kronobergs län](https://data.arkeologi.org/6c3213cb-b642-4d7b-85b7-0a6b92e0edee) migration/data transformation project (excavations) for KulturParken Småland
 
@@ -53,13 +53,13 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 
 * KulturNav, 13 Releases: 1.9.1 - 1.9.12 (as Manager/Project Lead)
 * [Pagina document viewer](https://dokument.nordiskamuseet.se/) for archive resources/documents at Nordiska museet (concept development and specification; as Manager/Project Lead) 
-* Fra felt til fil til folk by the Norwegian Maritime Museum (consult, tech lead)
+* Fra felt til fil til folk by The Norwegian Maritime Museum (consult, tech lead)
 * The FIOL project (audiovisual archive system for folk music and dance) - migration/data transformation project, workshops, etc. (consult)
 * [Museumsguiden](https://www.museumsguiden.no/), backend (concept development; implementation)
 * [eKultur DAMS](https://kulturit.org/dams) project module (concept development; specification)
 * [Nomenklatur för dräkt](https://kulturnav.org/5d01f05c-7a38-4f4a-b99d-dff052a78be5) - migration/data transformation project for The Norwegian Institute of Bunad and Folk Costume (NBF)
-* [Undersøkelser/prosjekter NMM](https://data.arkeologi.org/6e7902b0-984e-4672-a752-165757860f79) - migration/data transformation project for the Norwegian Maritime Museum (NMM)
-* [Undersøkelser/prosjekter SMM](https://data.arkeologi.org/3afbc7b4-e68e-48c6-aeb6-ebc3c2f61bd1) - migration/data transformation project for the Stavanger maritime museum (SMM)
+* [Undersøkelser/prosjekter NMM](https://data.arkeologi.org/6e7902b0-984e-4672-a752-165757860f79) - migration/data transformation project for The Norwegian Maritime Museum (NMM)
+* [Undersøkelser/prosjekter SMM](https://data.arkeologi.org/3afbc7b4-e68e-48c6-aeb6-ebc3c2f61bd1) - migration/data transformation project for The Stavanger maritime museum (SMM)
 * [Undersøkelser/prosjekter](https://data.arkeologi.org/2ee11644-dcc6-4a8d-8059-ef046581ccb8) - migration/data transformation project for Bergen Sjøfartsmuseum
 
 ### 2017 - 2018 <a name="p2017"></a> @ KulturIT
@@ -95,18 +95,18 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * Primus Hembygd (concept development, pilot study)
 * Investigation (report) of the Digital Infrastructure for Collection Management for archives, library and museum data (as Manager/Project Lead) for Nordiska museet
 * [Database of Photographers, Sweden](https://kulturnav.org/1f368832-7649-4386-97b6-ae40cce8752b) - migration/data transformation project (photograpers from Nationella fotografregistret) for Nordiska museet
-* [Arkitekter verksamma i Sverige](https://kulturnav.org/2b7670e1-b44e-4064-817d-27834b03067c) - migration/data transformation project (architecs) for ArkDes
+* [Arkitekter verksamma i Sverige](https://kulturnav.org/2b7670e1-b44e-4064-817d-27834b03067c) - migration/data transformation project (architects) for ArkDes
 
 ### 2011 - 2012 <a name="p2011"></a> @ KulturIT 
 
-* Primus Web (Anastasia) collection management (as Manager/Project Lead)
+* Primus Web ("Anastasia") collection management database (as Manager/Project Lead)
 * KulturNav (concept development)
 * A Digital Infrastructure for Collection Management for Nordiska museet (concept development)
 
 ### 2006 - 2010 <a name="p2006"></a>@ National Historical Museums (SHMM)
 
 * [K-samsök / Swedish Open Cultural Heritage](https://www.raa.se/hitta-information/k-samsok) (concept development, harvest protocol)
-* [Nordic Handscape](https://intarch.ac.uk/journal/issue18/4/5.html) (as Manager/Project Lead) for the Nordic Council of Ministers
+* [Nordic Handscape](https://intarch.ac.uk/journal/issue18/4/5.html) (as Manager/Project Lead) for The Nordic Council of Ministers
 * The Access Digitizing project (as Manager/Project Lead)
 * Sök i Samlingarna/Search the Collections, release (as Developer & Manager/Project Lead)
 
@@ -120,7 +120,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 
 ### 1996 - 2000 <a name="p1996"></a>@ The Central Board of National Antiquities (RAÄ)
 
-* The Kaupang Project (consult)
+* The Kaupang Project, introducing Intrasis (consult)
 * Åminnekarteringen, the first Intrasis project (private project)
 * The Aranäs project, 3D documentation and modelling, research project (consult)
 * Digital Archeological Documentation, DAD - ArcView 3 extension (as Developer)
@@ -142,4 +142,4 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * The Apalle excavation (as Achaeologist;  1989- 1990) for RAÄ UV Mitt
 * The Arlandastad excavation (as Archeologist; 1988) for RAÄ UV Mitt
 * The Glasrutan excavation, Linköping, (as Intern Archeologist; 1988) for RAÄ UV Mitt
-* The E18 excavations (as unskilled worker) at Bålsta and Pollista (1986 - 1987) for RAÄ UV Mitt
+* The E18 excavations (as unskilled worker; "grovis") at Bålsta and Pollista (1986 - 1987) for RAÄ UV Mitt
