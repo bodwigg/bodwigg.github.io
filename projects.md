@@ -13,19 +13,19 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 
 ### 2025 - 2026 <a name="p2025"></a> @ KulturIT
 
-* KulturNav 2 - the new version (as Manager/Project Lead)
+* KulturNav 2. The new version (as Manager/Project Lead)
 * KulturNav, 4 Releases: 1.12.10 - 1.12.15 (as Manager/Project Lead)
-* Document AI - OCR/HTR/APE (as Manager/Project Lead) for Nordiska museet
+* Document AI - OCR/HTR/APE in Dokumentlagret (as Manager/Project Lead) for Nordiska museet
 * eKultur Annotations - extending the eKultur domain model with annotation data (concept development and modelling)
 * Preparedness for crises and war in museums (concept development)
-* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project (34 500 scene preformaces, 19 500 works and 6 500 performers) for The National Collections of Music, Theatre and Dance, Stockholm.
+* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project (34 500 scene performaces, 19 500 works and 6 500 performers) for The National Collections of Music, Theatre and Dance, Stockholm.
 * [Musical instruments from Musical instrument museums online (MIMO)](https://kulturnav.org/e0a3622b-74ab-423d-93b7-4be5815902d8) data transformation.
 * [NMM Skipsregister (med Fiske-registeret)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9 170 ships in the Fiske database) for The Norwegian Maritime Museum
 * [Sällskapet för folkundervisningens befrämjande](https://dokument.nordiskamuseet.se/sallskapet) data transformation (43 000 scanned documents) for Nordiska museet
 
 ### 2023 - 2024 <a name="p2023"></a> @ KulturIT
 
-* KulturNav 2 - the new version (concept development)
+* KulturNav 2. The new version (concept development)
 * KulturNav, 9 Releases: - 1.12.1 - 1.12.9 (as Manager/Project Lead)
 * Tvättmaskinen/Datavask - app for cleaning/matching collection metadata (as Manager/Project Lead)
 * eRep - eKultur Repository Format, specification (as Manager/Project Lead)
