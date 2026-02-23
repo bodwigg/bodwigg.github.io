@@ -1,3 +1,8 @@
+---
+layout: page
+title: Photography Portfolio — Ulf Bodin
+---
+
 # Portfolio
 
 A curated selection of my favourite photographs, grouped into eight themes:
