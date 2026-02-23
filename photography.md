@@ -11,7 +11,7 @@ I’m in love with dark, high-contrast, colourful, clean, and sharp images. I of
 
 ## Portfolio
 
-A selection of som of my [favourite photographs](portfolio.md).
+A selection of some of my [favourite photographs](portfolio.md).
 
 ## Flickr
 
