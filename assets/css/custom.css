@@ -46,7 +46,6 @@ a:focus {
   }
 }
 
-
 /* =========================================================
    PHOTO CARD
    ========================================================= */
@@ -56,7 +55,7 @@ a:focus {
   height: 210px;
   object-fit: cover;
   margin: 0;
-  padding: 14px;
+  padding: 0px;
   border-radius: 16px;
 
   background: rgba(255, 255, 255, 0.035);
@@ -67,14 +66,12 @@ a:focus {
     inset 0 1px 0 rgba(255, 255, 255, 0.04);
 }
 
-
 /* Hover / focus */
 .photo-card a:hover img,
 .photo-card a:focus img {
   transform: translateY(-2px);
   opacity: 0.96;
 }
-
 
 /* =========================================================
    CAPTION (single block, visual hierarchy)
@@ -94,7 +91,6 @@ a:focus {
   font-weight: 600;
   color: rgba(255, 255, 255, 0.92);
 }
-
 
 .portfolio-page {
   width: min(1600px, 96vw);
