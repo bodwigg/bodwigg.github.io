@@ -14,78 +14,13 @@ a:focus {
   text-decoration: underline; /* optional: only underline on hover */
   text-underline-offset: 0.15em;
 }
-/*
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 12px;
-  border: 1px solid rgba(255,255,255,0.12);
-}
-
-.project-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 12px;
-  border: 1px solid rgba(255,255,255,0.12);
-  box-shadow: 0 8px 30px rgba(0,0,0,0.35);
-}
-
-.photo-figure {
-  margin: 18px 0 26px;
-}
-
-.photo-figure img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 12px;
-  border: 1px solid rgba(255,255,255,0.12);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
-}
-
-.photo-figure figcaption {
-  margin-top: 10px;
-  font-size: 0.95rem;
-  line-height: 1.4;
-  color: rgba(255,255,255,0.72);
-}
-/*
 
 /* =========================================================
-   PHOTO GROUPS (2 x 2)
+   PHOTO GROUPS (4 x 2)
    ========================================================= */
 .photo-group-wrapper {
-  width: min(1600px, 96vw);
-  margin-left: 50%;
-  transform: translateX(-50%);
+  width: min(1800px, 98vw);
 }
-
-/*
-.photo-group-wrapper {
-  width: min(1500px, 94vw);
-  margin-left: 50%;
-  transform: translateX(-50%);
-}
-
-.photo-group {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 26px;
-}
-
-@media (min-width: 900px) {
-  .photo-group {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media (min-width: 1300px) {
-  .photo-group {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-*/
-
 
 .photo-group {
   display: grid;
@@ -111,12 +46,6 @@ img {
   }
 }
 
-/* Mobile only 
-@media (max-width: 600px) {
-  .photo-group {
-    grid-template-columns: 1fr;
-  }
-}*/
 
 /* =========================================================
    PHOTO CARD
@@ -138,43 +67,6 @@ img {
     inset 0 1px 0 rgba(255, 255, 255, 0.04);
 }
 
-/*
-.photo-card {
-  margin: 0;
-  padding: 14px;
-  border-radius: 16px;
-
-  background: rgba(255, 255, 255, 0.035);
-  border: 1px solid rgba(255, 255, 255, 0.12);
-
-  box-shadow:
-    0 10px 28px rgba(0, 0, 0, 0.35),
-    inset 0 1px 0 rgba(255, 255, 255, 0.04);
-}
-*/
-
-/* Remove link styling */
-/*
-.photo-card a {
-  text-decoration: none;
-  color: inherit;
-}
-*/
-
-/* =========================================================
-   IMAGE
-   ========================================================= */
-
-.photo-card img {
-  display: block;
-  width: 100%;
-  height: auto;
-
-  border-radius: 12px;
-  border: 1px solid rgba(255, 255, 255, 0.10);
-
-  transition: transform 0.15s ease, opacity 0.15s ease;
-}
 
 /* Hover / focus */
 .photo-card a:hover img,
@@ -183,13 +75,6 @@ img {
   opacity: 0.96;
 }
 
-/* Optional: enforce consistent card heights */
-/*
-.photo-card img {
-  height: 260px;
-  object-fit: cover;
-}
-*/
 
 /* =========================================================
    CAPTION (single block, visual hierarchy)
