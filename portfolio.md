@@ -12,7 +12,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
 
 ### [Golden](#golden) · [Blue](#blue) · [Street](#street) · [Urban](#urban) · [Panorama](#panorama) · [Black & White](#black-white) · [Model](#model) · [Portrait](#portrait)
 
-### {#golden}
+<a name="golden"></a>
 
 <div class="photo-group-wrapper">
 <div class="photo-group">
