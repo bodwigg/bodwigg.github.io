@@ -208,12 +208,11 @@ img {
   color: rgba(255, 255, 255, 0.92);
 }
 
-/* full width page */
-.portfolio-page .container,
-.portfolio-page .wrapper,
-.portfolio-page main {
-  max-width: 1600px;
-  width: 96vw;
+/* portfolio page full width */
+body.portfolio-page .page-content {
+  max-width: none;
+  width: 94vw;
+  margin: 0 auto;
 }
 
 
