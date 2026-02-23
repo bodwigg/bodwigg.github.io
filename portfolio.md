@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Photography Portfolio — Ulf Bodin
+body_class: portfolio-page
 ---
+
+[Home](index.md) · [Projects](projects.md) · [Photography](photography.md)
 
 # Portfolio
 
