@@ -154,10 +154,12 @@ img {
 */
 
 /* Remove link styling */
+/*
 .photo-card a {
   text-decoration: none;
   color: inherit;
 }
+*/
 
 /* =========================================================
    IMAGE
@@ -208,7 +210,8 @@ img {
   color: rgba(255, 255, 255, 0.92);
 }
 
-body.page-portfolio .page-content {
-  max-width: 1600px;
-  width: 96vw;
+
+.portfolio-page {
+  width: min(1600px, 96vw);
+  margin: 0 auto;
 }
