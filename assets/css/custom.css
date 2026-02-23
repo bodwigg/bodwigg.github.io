@@ -87,6 +87,11 @@ a:focus {
   color: rgba(255, 255, 255, 0.92);
 }
 
+.photo-group-wrapper + h3,
+h3 + .photo-group-wrapper {
+  margin-left: 0;
+}
+
 .portfolio-page {
   width: min(1600px, 96vw);
   margin: 0 auto;
