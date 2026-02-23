@@ -54,8 +54,12 @@ img {
 /* =========================================================
    PHOTO GROUPS (2 x 2)
    ========================================================= */
-.photo-group-wrapper {
+/*.photo-group-wrapper {
   display: block;
+}*/
+.photo-group-wrapper {
+  width: min(1500px, 95vw);
+  margin: 40px auto;
 }
 
 .photo-group {
