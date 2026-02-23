@@ -59,21 +59,15 @@ img {
   display: block;
 }*/
 
-.photo-group-wrapper {
-  width: min(92vw, 1500px);
-  margin: 40px auto;
-}
-
 .photo-group {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 20px;
 }
 
-/* Mobile only */
-@media (max-width: 600px) {
+@media (min-width: 1100px) {
   .photo-group {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
