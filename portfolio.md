@@ -7,9 +7,9 @@ title: Photography Portfolio — Ulf Bodin
 
 A curated selection of my favourite photographs, grouped into eight themes:
 
-### <a href="#golden">Golden</a> · <a href="#blue">Blue</a> · <a href="#street">Street</a> · <a href="#urban">Urban</a> · <a href="#panorama">Panorama</a> · <a href="#black_white">Black & White</a> · <a href="#model">Model</a> · <a href="#portrait">Portrait</a>
+### [Golden](#golden) · [Blue](#blue) · [Street](#street) · [Urban](#urban) · [Panorama](#panorama) · [Black & White](#black-white) · [Model](#model) · [Portrait](#portrait)
 
-### Golden <a name="golden"></a>
+### Golden {#golden}
 
 <div class="photo-group-wrapper">
 <div class="photo-group">
@@ -54,7 +54,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
 </div>
 </div>
 
-### Blue <a name="blue"></a>
+### Blue {#blue}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -109,7 +109,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Street <a name="street"></a>
+### Street {#street}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -164,7 +164,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Urban <a name="urban"></a>
+### Urban {#urban}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -219,7 +219,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Panorama <a name="panorama"></a>
+### Panorama {#panorama}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -274,7 +274,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Black & White <a name="black_white"></a>
+### Black & White {#black-white}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -329,7 +329,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Model <a name="model"></a>
+### Model {#model}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -384,7 +384,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Portrait <a name="portrait"></a>
+### Portrait {#portrait}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
