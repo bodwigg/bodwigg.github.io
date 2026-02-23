@@ -55,7 +55,9 @@ img {
    PHOTO GROUPS (2 x 2)
    ========================================================= */
 .photo-group-wrapper {
-  display: block;
+  width: min(1600px, 96vw);
+  margin-left: 50%;
+  transform: translateX(-50%);
 }
 
 /*
@@ -87,22 +89,46 @@ img {
 
 .photo-group {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 28px;
 }
-*/
 
-/* Mobile only */
+@media (max-width: 1200px) {
+  .photo-group {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 900px) {
+  .photo-group {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media (max-width: 600px) {
   .photo-group {
     grid-template-columns: 1fr;
   }
 }
 
+/* Mobile only 
+@media (max-width: 600px) {
+  .photo-group {
+    grid-template-columns: 1fr;
+  }
+}*/
+
 /* =========================================================
    PHOTO CARD
    ========================================================= */
 
+.photo-card img {
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
+}
+
+/*
 .photo-card {
   margin: 0;
   padding: 14px;
@@ -115,6 +141,7 @@ img {
     0 10px 28px rgba(0, 0, 0, 0.35),
     inset 0 1px 0 rgba(255, 255, 255, 0.04);
 }
+*/
 
 /* Remove link styling */
 .photo-card a {
