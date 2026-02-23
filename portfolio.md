@@ -12,7 +12,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
 
 ### [Golden](#golden) · [Blue](#blue) · [Street](#street) · [Urban](#urban) · [Panorama](#panorama) · [Black & White](#black-white) · [Model](#model) · [Portrait](#portrait)
 
-### Golden {#golden}
+### {#golden}
 
 <div class="photo-group-wrapper">
 <div class="photo-group">
@@ -57,7 +57,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
 </div>
 </div>
 
-### Blue {#blue}
+### {#blue}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -112,7 +112,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Street {#street}
+### {#street}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -167,7 +167,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Urban {#urban}
+### {#urban}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -222,7 +222,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Panorama {#panorama}
+### {#panorama}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -277,7 +277,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Black & White {#black-white}
+### {#black-white}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -332,7 +332,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Model {#model}
+### {#model}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -387,7 +387,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-### Portrait {#portrait}
+### {#portrait}
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
