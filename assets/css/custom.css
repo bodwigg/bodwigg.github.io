@@ -54,10 +54,11 @@ img {
 /* =========================================================
    PHOTO GROUPS (2 x 2)
    ========================================================= */
-/*.photo-group-wrapper {
+.photo-group-wrapper {
   display: block;
-}*/
+}
 
+/*
 .photo-group-wrapper {
   width: min(1500px, 94vw);
   margin-left: 50%;
@@ -81,8 +82,9 @@ img {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+*/
 
-/*
+
 .photo-group {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -91,13 +93,11 @@ img {
 */
 
 /* Mobile only */
-/*
 @media (max-width: 600px) {
   .photo-group {
     grid-template-columns: 1fr;
   }
 }
-*/&
 
 /* =========================================================
    PHOTO CARD
