@@ -30,4 +30,4 @@ I currently use a Canon EOS R5 and a selection of Canon RF lenses. Body swapping
 
 ## Portfolio
 
-A curated selection of my [favourite photographs](#portfolio).
+A curated selection of my [favourite photographs](portfolio.md).
