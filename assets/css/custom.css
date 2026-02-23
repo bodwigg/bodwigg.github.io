@@ -57,9 +57,11 @@ img {
 /*.photo-group-wrapper {
   display: block;
 }*/
+
 .photo-group-wrapper {
-  width: min(1500px, 95vw);
-  margin: 40px auto;
+  width: min(1500px, 94vw);
+  margin-left: 50%;
+  transform: translateX(-50%);
 }
 
 .photo-group {
