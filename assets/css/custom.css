@@ -91,3 +91,12 @@ a:focus {
   width: min(1600px, 96vw);
   margin: 0 auto;
 }
+
+.portfolio-page h3 {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.portfolio-page .page-content h3 {
+  margin-left: 0;
+}
