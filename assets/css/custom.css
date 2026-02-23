@@ -59,6 +59,12 @@ img {
   display: block;
 }*/
 
+.photo-group-wrapper {
+  width: min(1400px, 92vw);
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .photo-group {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
