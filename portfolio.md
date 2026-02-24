@@ -4,7 +4,7 @@ title: Photography Portfolio — Ulf Bodin
 body_class: portfolio-page
 ---
 
-[Home](index.md) · [Projects](projects.md) · [Photography](photography.md) > Portfolio
+[Home](index.md) · [Projects](projects.md) · [Photography](photography.md) > [Portfolio](portfolio.md)
 
 # Portfolio
 
