@@ -19,7 +19,7 @@ a:focus {
    PHOTO GROUPS (4 x 2)
    ========================================================= */
 .photo-group-wrapper {
-  width: min(1700px, 100vw);
+  width: 100vw;
   margin-left: calc(50% - 50vw);
 }
 
