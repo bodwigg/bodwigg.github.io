@@ -4,13 +4,13 @@ title: Photography Portfolio — Ulf Bodin
 body_class: portfolio-page
 ---
 
-[Home](index.md) · [Projects](projects.md) · [Photography](photography.md)
+[Home](index.md) · [Projects](projects.md) · [Photography](photography.md) > Portfolio
 
 # Portfolio
 
-A curated selection of my favourite photographs, grouped into eight themes:
+A selection of my favourite photographs, grouped into eight themes:
 
-### [Golden](#golden) · [Blue](#blue) · [Street](#street) · [Urban](#urban) · [Panorama](#panorama) · [Black & White](#black-white) · [Model](#model) · [Portrait](#portrait)
+#### [Golden](#golden) · [Blue](#blue) · [Street](#street) · [Urban](#urban) · [Panorama](#panorama) · [Black & White](#black-white) · [Model](#model) · [Portrait](#portrait)
 
 ### Golden<a name="golden"></a>
 
@@ -57,7 +57,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
 </div>
 </div>
 
-<a name="blue"></a>
+### Blue<a name="blue"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -112,7 +112,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-<a name="street"></a>
+### Street<a name="street"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -167,7 +167,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-<a name="urban"></a>
+### Urban<a name="urban"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -222,7 +222,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-<a name="panorama"></a>
+### Panorama<a name="panorama"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -277,7 +277,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-<a name="black-white"></a>
+### Black & White<a name="black-white"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -332,7 +332,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-<a name="model"></a>
+### Model<a name="model"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
@@ -387,7 +387,7 @@ A curated selection of my favourite photographs, grouped into eight themes:
   </div>
 </div>
 
-<a name="portrait"></a>
+### Portrait<a name="portrait"></a>
 
 <div class="photo-group-wrapper">
   <div class="photo-group">
