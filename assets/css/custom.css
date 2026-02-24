@@ -86,3 +86,8 @@ a:focus {
   font-weight: 600;
   color: rgba(255, 255, 255, 0.92);
 }
+
+.photo-group-wrapper + h3,
+h3:has(+ .photo-group-wrapper) {
+  text-align: center;
+}
