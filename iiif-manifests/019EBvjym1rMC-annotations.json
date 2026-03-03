@@ -1,37 +1,20 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://dev.gdmrdigital.com/annotation/anno/1770912704079",
-  "@type": "oa:Annotation",
-
-  "motivation": [ "oa:commenting" ],
-
-  "resource": {
-    "@type": "dctypes:Text",
-    "format": "text/html",
-    "chars": "1419"
-  },
-
-  "dcterms:creator": "https://dev.gdmrdigital.com/user/1240244679/101245585131616683208",
-  "dcterms:created": "2026-02-12T16:11:44Z",
-  "dcterms:modified": "2026-02-12T16:11:44Z",
-
-  "on": [
-    {
-      "@type": "oa:SpecificResource",
-      "full": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMC/canvas/1",
-      "selector": {
-        "@type": "oa:Choice",
-
-        "default": {
-          "@type": "oa:FragmentSelector",
-          "value": "xywh=1498,1247,893,447"
-        },
-
-        "item": {
-          "@type": "oa:SvgSelector",
-          "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns='http://www.w3.org/2000/svg' d=\"M1498.20404,1246.9798h446.39091v0h446.39091v223.69545v223.69545h-446.39091h-446.39091v-223.69545z\" fill-opacity=\"0\" stroke=\"#00bfff\" stroke-width=\"1\"/></svg>"
-        }
-      }
-    }
-  ]
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://dev.gdmrdigital.com/annotation/anno/1770912704079",
+	"@type": "oa:Annotation",
+	"label": "Inskription - påförd text",
+	"resources": [
+		{
+			"@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/anno/1419",
+			"@type": "oa:Annotation",
+			"motivation": "oa:commenting",
+			"resource": {
+				"@type": "dctypes:Text",
+				"format": "text/plain",
+				"chars": "1419"
+			},
+			"on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1#xywh=1498,1247,893,447"
+		}
+	]
 }
+
