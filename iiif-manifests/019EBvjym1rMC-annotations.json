@@ -1,11 +1,12 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://dev.gdmrdigital.com/annotation/anno/1770912704079",
+	"@id": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMC-annotations.json",
 	"@type": "oa:Annotation",
 	"label": "Inskription - påförd text",
+	
 	"resources": [
 		{
-			"@id": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/anno/1419",
+			"@id": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMC/anno/1419",
 			"@type": "oa:Annotation",
 			"motivation": "oa:commenting",
 			"resource": {
@@ -13,7 +14,7 @@
 				"format": "text/plain",
 				"chars": "1419"
 			},
-			"on": "https://ulfbodin.se/iiif-manifests/032s9Y5bPLjz/canvas/1#xywh=1443,1649,234,123"
+			"on": "https://ulfbodin.se/iiif-manifests/019EBvjym1rMC/canvas/1#xywh=1498,1247,893,447"
 		}
 	]
 }
