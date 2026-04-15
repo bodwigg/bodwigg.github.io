@@ -22,6 +22,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * [Musical instruments from Musical instrument museums online (MIMO)](https://kulturnav.org/e0a3622b-74ab-423d-93b7-4be5815902d8) data transformation.
 * [NMM Skipsregister (med Fiske-registeret)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9 170 ships in the Fiske database) for The Norwegian Maritime Museum
 * [Sällskapet för folkundervisningens befrämjande](https://dokument.nordiskamuseet.se/sallskapet) data transformation (43 000 scanned documents) for Nordiska museet
+* [Undersökningar på Gotland](https://data.arkeologi.org/5a64e442-728e-404d-a219-6b482796ec56) data aggregation project (excavations) for Gotlands Museum
 
 ### 2023 - 2024 <a name="p2023"></a> @ KulturIT
 
