@@ -306,15 +306,15 @@ A selection of my favourite photographs, grouped into eight themes:
 	  </figcaption>
 	</figure>
 	<figure class="photo-card">
-	  <a href="https://www.flickr.com/photos/ulfbodin/55054142323/" target="_blank" rel="noopener">
+	  <a href="https://www.flickr.com/photos/ulfbodin/55283045818/" target="_blank" rel="noopener">
 		<img class="photo"
-			 src="https://live.staticflickr.com/65535/55054142323_5c9eb73cb8_z.jpg"
-			 alt="Black and white flowers, Uppsala, June 21, 2020"
+			 src="https://live.staticflickr.com/65535/55283045818_4978a0e1d5_c.jpg"
+			 alt="Black and white photo with peaole waqlking in the rain at Slussen, Stockholm, May 13, 2026"
 			 loading="lazy">
 	  </a>
 	  <figcaption class="caption">
-		Uppsala, June 21, 2020<br>
-		Canon EOS R · ISO 100 · 1/8000s · RF 85mm F1.2 L USM · f/2.2
+		Slussen, Stockholm, May 13, 2026<br>
+		Canon EOS R5 · ISO 100 · 1/1600s · RF 85mm F1.2 L USM · f/1.2
 	  </figcaption>
 	</figure>
 	<figure class="photo-card">
