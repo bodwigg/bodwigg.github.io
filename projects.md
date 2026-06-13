@@ -14,7 +14,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 ### 2025 - 2026 <a name="p2025"></a> @ KulturIT
 
 * KulturNav 2. The new version (as Manager/Project Lead)
-* KulturNav, 4 Releases: 1.12.10 - 1.12.15 (as Manager/Project Lead)
+* KulturNav, 4 Releases: 1.12.10 - 1.12.16 (as Manager/Project Lead)
 * Document AI - OCR/HTR/APE in Dokumentlagret (as Manager/Project Lead) for Nordiska museet
 * eKultur Annotations - extending the eKultur domain model with annotation data (concept development and modelling)
 * Preparedness for crises and war in museums (concept development)
@@ -30,13 +30,13 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * KulturNav, 9 Releases: - 1.12.1 - 1.12.9 (as Manager/Project Lead)
 * Tvättmaskinen/Datavask - app for cleaning/matching collection metadata (as Manager/Project Lead)
 * eRep - eKultur Repository Format, specification (as Manager/Project Lead)
-* Digitalisering av tradisjonsbåter ved norske museer, The Norwegian Maritime Museum (consult)
-* Koordinert samlingsutvikling – kystkultur, Kulturdirektoratet/Arts Council Norway (consult) 
+* *Digitalisering av tradisjonsbåter ved norske museer*, The Norwegian Maritime Museum (consult)
+* *Koordinert samlingsutvikling – kystkultur*, Kulturdirektoratet/Arts Council Norway (consult) 
 * [Den glömda flottan/Vrakatlas](https://kulturnav.org/75eded19-8ed8-4b56-b83c-7c8a8e91796f) - the database behind the [Örloggen service](https://www.vrak.se/sv/sok-i-orloggen/) - migration/data transformation project (ships) for The Swedish National Maritime and Transport Museums (SMTM)
 * [Byggnader i Sverige](https://kulturnav.org/1f23ddae-5579-4e3e-bf59-a29524e4f926) migration/data transformation project (buildings) for "Ett nätverk av platser" (ArkDes)
 * Churches in [Sweden](https://kulturnav.org/fcb4d6ed-2ca6-4edb-bb27-d4249ae5a47d) and [Norway](https://kulturnav.org/0a0fe47b-7007-4f05-9686-1197ad352929) - migration/data transformation project (buildings), the latter for Hovedorganisasjon KA, Norway
 * [Svenskt kvinnobiografiskt lexikon](https://skbl.se/en/about-skbl) - migration/data transformation project
-* [Undersökningar i Kronobergs län](https://data.arkeologi.org/6c3213cb-b642-4d7b-85b7-0a6b92e0edee) migration/data transformation project (excavations) for KulturParken Småland
+* [Excavations in Kronobergs län](https://data.arkeologi.org/6c3213cb-b642-4d7b-85b7-0a6b92e0edee) migration/data transformation project (excavations) for KulturParken Småland
 
 ### 2021 - 2022 <a name="p2021"></a> @ KulturIT
 
@@ -44,7 +44,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * Tvättmaskinen - cleaning/matching of collection metadata (concept development)
 * eRep - eKultur Repository Format (concept development and model)
 * A new domain model for DigitaltMuseum (concept development)
-* Koordinert samlingsutvikling – kunst (Kulturdirektoratet/Arts Council Norway; consult)
+* *Koordinert samlingsutvikling – kunst* (Kulturdirektoratet/Arts Council Norway; consult)
 * [Matrikkelgard](https://kulturnav.org/f0644507-fc11-456d-8988-83439630b906) - Norwegian cadastral units from 1880 - migration/data transformation project for the University of Bergen
 * Authorities: [Persons](https://kulturnav.org/e0c682f9-a594-4fe1-8c01-f208f52d79ac) and [Organizations](https://kulturnav.org/334dbe13-d1c0-4149-a0ba-c82e061e21a7) for the [SAMLA Digitizing Norwegian Tradition Archives](https://samla.w.uib.no/about-samla/) project - migration/data transformation project for University of Bergen
 * [Personer med kulturhistorisk tilknytning til Agder](https://kulturnav.org/a9115932-e511-40e2-bff0-85cab5d048d3) - migration/data transformation project for Aust-Agder museum og arkiv IKS
@@ -54,7 +54,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 
 * KulturNav, 13 Releases: 1.9.1 - 1.9.12 (as Manager/Project Lead)
 * [Pagina document viewer](https://dokument.nordiskamuseet.se/) for archive resources/documents at Nordiska museet (concept development and specification; as Manager/Project Lead) 
-* Fra felt til fil til folk by The Norwegian Maritime Museum (consult, tech lead)
+* *Fra felt til fil til folk* by The Norwegian Maritime Museum (consult, tech lead)
 * The FIOL project (audiovisual archive system for folk music and dance) - migration/data transformation project, workshops, etc. (consult)
 * [Museumsguiden](https://www.museumsguiden.no/), backend (concept development; implementation)
 * [eKultur DAMS](https://kulturit.org/dams) project module (concept development; specification)
@@ -100,7 +100,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 
 ### 2011 - 2012 <a name="p2011"></a> @ KulturIT 
 
-* Primus Web ("Anastasia") collection management database (as Manager/Project Lead)
+* Primus Web ("Anastasia") collection management database concept (as Manager/Project Lead)
 * KulturNav (concept development)
 * A Digital Infrastructure for Collection Management for Nordiska museet (concept development)
 
