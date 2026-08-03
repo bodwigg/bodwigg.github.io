@@ -13,10 +13,14 @@ I’m in love with dark, high-contrast, colourful, clean, and sharp images. I of
 
 A selection of some of my [favourite photographs](portfolio.md).
 
+## Map
+
+About 6 000 of my georeferenced photos on a [map](map.html) (via Flickr API). 
+
 ## Flickr
 
 I’ve been using Flickr since 2007 and love the platform.
-* [My Flickr Map](map.html) 
+
 * [My Flickr Page](https://www.flickr.com/photos/ulfbodin/)
 * [My Flickr Data Lifeboat Showcase](https://datalifeboat.flickr.org/showcase) with some images captured around my home: [Uppsala at Home – A Neighbourhood Archive](https://datalifeboat.flickr.org/dl-showcase/Ulf_Bodin-Upsala/README.html)
 * A [Flickr blog post](https://blog.flickr.net/en/2025/12/16/building-flickr-archives-with-data-lifeboat/) about the Data Lifeboat
