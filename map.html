@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Flickr Map</title>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+	<style>
+		html, body, #map { height: 100%; margin: 0; }
+
+		.marker-cluster-small,
+		.marker-cluster-medium,
+		.marker-cluster-large {
+			background-color: rgba(255, 0, 132, 0.3);
+		}
+
+		.marker-cluster-small div,
+		.marker-cluster-medium div,
+		.marker-cluster-large div {
+			background-color: rgba(255, 0, 132, 0.8);
+			color: #fff;
+		}
+	</style>
+</head>
+<body>
+	<div id="map"></div>
+	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+	<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+	<script>
+		const map = L.map('map', { preferCanvas: true }).setView([59.85, 17.63], 5);
+
+		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; OpenStreetMap contributors'
+		}).addTo(map);
+
+		const markers = L.markerClusterGroup({
+			chunkedLoading: true,
+			chunkInterval: 200,
+			chunkDelay: 50,
+			spiderfyOnMaxZoom: true,
+			disableClusteringAtZoom: 16
+		});
+
+		function getRadiusForZoom(zoom) {
+			if (zoom >= 16) return 10;
+			if (zoom >= 12) return 8;
+			if (zoom >= 8) return 6;
+			return 4;
+		}
+
+		let currentRadius = getRadiusForZoom(map.getZoom());
+
+		fetch('flickr.geojson')
+			.then(res => res.json())
+			.then(data => {
+				const geoLayer = L.geoJSON(data, {
+					pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
+						radius: currentRadius,
+						fillColor: "#ff0084",
+						color: "#fff",
+						weight: 1,
+						fillOpacity: 0.85
+					}),
+					onEachFeature: (feature, layer) => {
+						const props = feature.properties;
+						layer.bindPopup(() => {
+							const thumb = props.thumbnail
+								? `<img src="${props.thumbnail}" width="150"><br>`
+								: '';
+							return `${thumb}${props.title || ''}`;
+						});
+					}
+				});
+
+				markers.addLayer(geoLayer);
+				map.addLayer(markers);
+
+				if (data.bbox) {
+					map.fitBounds([
+						[data.bbox[1], data.bbox[0]],
+						[data.bbox[3], data.bbox[2]]
+					]);
+				} else {
+					map.fitBounds(markers.getBounds());
+				}
+
+				map.on('zoomend', () => {
+					currentRadius = getRadiusForZoom(map.getZoom());
+					markers.eachLayer(layer => {
+						if (layer.getAllChildMarkers) {
+							layer.getAllChildMarkers().forEach(m => m.setRadius && m.setRadius(currentRadius));
+						} else if (layer.setRadius) {
+							layer.setRadius(currentRadius);
+						}
+					});
+				});
+			});
+	</script>
+</body>
+</html>
