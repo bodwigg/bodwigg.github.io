@@ -37,6 +37,9 @@
 			box-shadow: 0 1px 4px rgba(0,0,0,0.3);
 			font-family: sans-serif;
 			font-size: 14px;
+			display: flex;
+			flex-direction: column;
+			gap: 6px;
 		}
 
 		.layer-toggle label {
@@ -66,6 +69,10 @@
 	<div id="map"></div>
 	<div class="layer-toggle">
 		<label>
+			<input type="checkbox" id="toggleBasemap" checked>
+			Baskarta
+		</label>
+		<label>
 			<input type="checkbox" id="toggleParish" checked>
 			Sockengränser
 		</label>
@@ -75,12 +82,30 @@
 	<script>
 		const GEOJSON_URL = 'https://data.arkeologi.org/5a64e442-728e-404d-a219-6b482796ec56.geojson';
 		const PARISH_GEOJSON_URL = 'gotland_socken.geojson';
+		const SHOW_BASEMAP = true; // styr startläget för baskarte-checkboxen
 
 		const map = L.map('map', { preferCanvas: true }).setView([59.85, 17.63], 5);
 
-		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		const basemapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 			attribution: '&copy; OpenStreetMap contributors'
-		}).addTo(map);
+		});
+
+		if (SHOW_BASEMAP) {
+			basemapLayer.addTo(map);
+		} else {
+			map.getContainer().style.background = '#fff';
+		}
+
+		document.getElementById('toggleBasemap').checked = SHOW_BASEMAP;
+
+		document.getElementById('toggleBasemap').addEventListener('change', (e) => {
+			if (e.target.checked) {
+				basemapLayer.addTo(map);
+			} else {
+				map.removeLayer(basemapLayer);
+				map.getContainer().style.background = '#fff';
+			}
+		});
 
 		function slugifyParishName(name) {
 			return (name || '')
