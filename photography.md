@@ -7,7 +7,7 @@ title: Photography — Ulf Bodin
 
 # Photography
 
-I’m in love with dark, high-contrast, colourful, clean, and sharp images. I often use image stitching to achieve wider angles or square compositions. I post-process my images to recreate the mood and feeling of the moment. I never add elements to my pictures, though I sometimes merge multiple captures into one. Occasionally I use AI-assisted features in Adobe Lightroom Classic to create masks and make selective edits. I use them with caution.
+I’m in love with dark, high-contrast, colourful, clean, and sharp images. I often use image stitching to achieve wider angles or square compositions. I post-process my images to recreate the mood and feeling of the moment. I never add elements to my pictures, though I sometimes merge multiple captures into one. Occasionally I use AI-assisted features in Adobe Lightroom Classic to create masks and make selective edits.
 
 ## Portfolio
 
@@ -15,7 +15,7 @@ A selection of some of my [favourite photographs](portfolio.md).
 
 ## Map
 
-About 6 000 of my georeferenced photos on a [map](map.html) (via Flickr API). 
+View about 6 000 of my georeferenced photos on a [map](map.html) (data from Flickr API). 
 
 ## Flickr
 
