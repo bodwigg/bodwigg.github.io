@@ -25,20 +25,118 @@
 		.popup-content a {
 			color: #3446eb;
 		}
+
+		.layer-toggle {
+			position: absolute;
+			top: 10px;
+			right: 10px;
+			z-index: 1000;
+			background: white;
+			padding: 8px 12px;
+			border-radius: 4px;
+			box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+			font-family: sans-serif;
+			font-size: 14px;
+		}
+
+		.layer-toggle label {
+			display: flex;
+			align-items: center;
+			gap: 6px;
+			cursor: pointer;
+			user-select: none;
+		}
+
+		.leaflet-interactive {
+			cursor: pointer;
+		}
+
+		.leaflet-popup-content,
+		.leaflet-tooltip {
+			font-size: 15px;
+			line-height: 1.4;
+		}
+
+		.leaflet-popup-content strong {
+			font-size: 16px;
+		}
 	</style>
 </head>
 <body>
 	<div id="map"></div>
+	<div class="layer-toggle">
+		<label>
+			<input type="checkbox" id="toggleParish" checked>
+			Sockengränser
+		</label>
+	</div>
 	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 	<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 	<script>
 		const GEOJSON_URL = 'https://data.arkeologi.org/5a64e442-728e-404d-a219-6b482796ec56.geojson';
+		const PARISH_GEOJSON_URL = 'gotland_socken.geojson';
 
 		const map = L.map('map', { preferCanvas: true }).setView([59.85, 17.63], 5);
 
 		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 			attribution: '&copy; OpenStreetMap contributors'
 		}).addTo(map);
+
+		function slugifyParishName(name) {
+			return (name || '')
+				.toString()
+				.toLowerCase()
+				.replace(/å/g, 'a')
+				.replace(/ä/g, 'a')
+				.replace(/ö/g, 'o')
+				.replace(/\s+/g, '-')
+				.trim();
+		}
+
+		function styleParish(feature) {
+			return {
+				color: "#000",
+				weight: 1,
+				fillColor: "#d5d399",
+				fillOpacity: 0.5
+			};
+		}
+
+		let parishLayer = null;
+
+		fetch(PARISH_GEOJSON_URL)
+			.then(res => res.json())
+			.then(data => {
+				parishLayer = L.geoJSON(data, {
+					style: styleParish,
+					onEachFeature: (feature, layer) => {
+						const name = feature.properties?.NAMN || feature.properties?.NAME || feature.properties?.name || feature.properties?.socken || '';
+						if (name) layer.bindTooltip(name, { sticky: true });
+
+						layer.on('mouseover', () => layer.setStyle({ fillOpacity: 0.7 }));
+						layer.on('mouseout', () => layer.setStyle({ fillOpacity: 0.5 }));
+
+						if (name) {
+							layer.on('click', () => {
+								const slug = slugifyParishName(name);
+								window.open(`https://utforska.gotlandsmuseum.se/${slug}/`, '_blank', 'noopener,noreferrer');
+							});
+						}
+					}
+				});
+
+				parishLayer.addTo(map);
+				parishLayer.bringToBack();
+
+				document.getElementById('toggleParish').addEventListener('change', (e) => {
+					if (e.target.checked) {
+						parishLayer.addTo(map);
+						parishLayer.bringToBack();
+					} else {
+						map.removeLayer(parishLayer);
+					}
+				});
+			});
 
 		const isTouch = L.Browser.touch;
 
