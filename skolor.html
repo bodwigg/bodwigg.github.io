@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>School Map</title>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+	<style>
+		html, body, #map { height: 100%; margin: 0; }
+
+		.marker-cluster-small,
+		.marker-cluster-medium,
+		.marker-cluster-large {
+			background-color: rgba(52, 70, 235, 0.3);
+		}
+
+		.marker-cluster-small div,
+		.marker-cluster-medium div,
+		.marker-cluster-large div {
+			background-color: rgba(52, 70, 235, 0.5);
+			color: #fff;
+		}
+
+		.popup-content a {
+			color: #3446eb;
+		}
+	</style>
+</head>
+<body>
+	<div id="map"></div>
+	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+	<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+	<script>
+		const GEOJSON_URL = 'https://kulturnav.org/566244ce-12e7-430c-a00c-005edda27564.geojson';
+
+		const map = L.map('map', { preferCanvas: true }).setView([59.85, 17.63], 5);
+
+		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; OpenStreetMap contributors'
+		}).addTo(map);
+
+		const isTouch = L.Browser.touch;
+
+		// Less aggressive clustering: smaller radius so more individual
+		// markers stay visible even when zoomed out.
+		const markers = L.markerClusterGroup({
+			chunkedLoading: true,
+			chunkInterval: 200,
+			chunkDelay: 50,
+			spiderfyOnMaxZoom: true,
+			showCoverageOnHover: false,
+			disableClusteringAtZoom: isTouch ? 15 : 16,
+			maxClusterRadius: isTouch ? 35 : 40
+		});
+
+		function getRadiusForZoom(zoom) {
+			const bump = isTouch ? 4 : 0;
+			if (zoom >= 16) return 10 + bump;
+			if (zoom >= 12) return 8 + bump;
+			if (zoom >= 8) return 6 + bump;
+			return 4 + bump;
+		}
+
+		let currentRadius = getRadiusForZoom(map.getZoom());
+
+		function buildPopup(props, uuid) {
+			const caption = props.caption || '';
+			const id = props['investigation.id'] || '';
+			const detailedType = Array.isArray(props.detailedType)
+				? props.detailedType.join(', ')
+				: (props.detailedType || '');
+			const containerCaption = props.containerCaption || '';
+			const infoUrl = 'https://data.arkeologi.org/' + uuid;
+
+			let html = '<div class="popup-content">';
+			if (caption) html += `<strong>${caption}</strong><br>`;
+			if (id) html += `Id: ${id}<br>`;
+			if (detailedType) html += `Type: ${detailedType}<br>`;
+			if (containerCaption) html += `In dataset: ${containerCaption}<br>`;
+			html += `<a href="${infoUrl}" target="_blank" rel="noopener noreferrer">View</a>`;
+			html += '</div>';
+
+			return html;
+		}
+
+		fetch(GEOJSON_URL)
+			.then(res => res.json())
+			.then(data => {
+				const geoLayer = L.geoJSON(data, {
+					pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
+						radius: currentRadius,
+						fillColor: "#3446eb",
+						color: "#fff",
+						weight: 1,
+						fillOpacity: 0.85
+					}),
+					onEachFeature: (feature, layer) => {
+						const props = feature.properties || {};
+						const uuid = props.uuid || '';
+						layer.bindPopup(() => buildPopup(props, uuid));
+					}
+				});
+
+				markers.addLayer(geoLayer);
+				map.addLayer(markers);
+
+				if (data.bbox) {
+					map.fitBounds([
+						[data.bbox[1], data.bbox[0]],
+						[data.bbox[3], data.bbox[2]]
+					]);
+				} else {
+					map.fitBounds(markers.getBounds());
+				}
+
+				map.on('zoomend', () => {
+					currentRadius = getRadiusForZoom(map.getZoom());
+					markers.eachLayer(layer => {
+						if (layer.getAllChildMarkers) {
+							layer.getAllChildMarkers().forEach(m => m.setRadius && m.setRadius(currentRadius));
+						} else if (layer.setRadius) {
+							layer.setRadius(currentRadius);
+						}
+					});
+				});
+			});
+	</script>
+</body>
+</html>
