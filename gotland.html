@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Arkeologiska undersökningar på Gotland</title>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+	<style>
+		html, body, #map { height: 100%; margin: 0; }
+
+		.marker-cluster-small,
+		.marker-cluster-medium,
+		.marker-cluster-large {
+			background-color: rgba(52, 70, 235, 0.3);
+		}
+
+		.marker-cluster-small div,
+		.marker-cluster-medium div,
+		.marker-cluster-large div {
+			background-color: rgba(52, 70, 235, 0.5);
+			color: #fff;
+		}
+
+		.popup-content a {
+			color: #3446eb;
+		}
+
+		.layer-toggle {
+			position: absolute;
+			top: 10px;
+			right: 10px;
+			z-index: 1000;
+			background: white;
+			padding: 8px 12px;
+			border-radius: 4px;
+			box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+			font-family: sans-serif;
+			font-size: 14px;
+			display: flex;
+			flex-direction: column;
+			gap: 6px;
+		}
+
+		.layer-toggle label {
+			display: flex;
+			align-items: center;
+			gap: 6px;
+			cursor: pointer;
+			user-select: none;
+		}
+
+		.basemap-group {
+			display: flex;
+			flex-direction: column;
+			gap: 4px;
+			padding-bottom: 6px;
+			margin-bottom: 6px;
+			border-bottom: 1px solid #ddd;
+		}
+
+		.leaflet-interactive {
+			cursor: pointer;
+		}
+
+		.leaflet-popup-content,
+		.leaflet-tooltip {
+			font-size: 15px;
+			line-height: 1.4;
+		}
+
+		.leaflet-popup-content strong {
+			font-size: 16px;
+		}
+	</style>
+</head>
+<body>
+	<div id="map"></div>
+	<div class="layer-toggle">
+		<div class="basemap-group">
+			<label>
+				<input type="radio" name="basemap" id="basemapOsm" value="osm" checked>
+				Karta
+			</label>
+			<label>
+				<input type="radio" name="basemap" id="basemapSatellite" value="satellite">
+				Satellit
+			</label>
+			<label>
+				<input type="radio" name="basemap" id="basemapNone" value="none">
+				Ingen
+			</label>
+		</div>
+		<label>
+			<input type="checkbox" id="toggleParish" checked>
+			Sockengränser
+		</label>
+	</div>
+	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+	<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+	<script>
+		const GEOJSON_URL = 'https://data.arkeologi.org/5a64e442-728e-404d-a219-6b482796ec56.geojson';
+		const PARISH_GEOJSON_URL = 'gotland_socken.geojson';
+		const INITIAL_BASEMAP = 'osm'; // styr startläget för baskarte-valet: 'osm' | 'satellite' | 'none'
+
+		const map = L.map('map', { preferCanvas: true }).setView([59.85, 17.63], 5);
+
+		const basemapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; OpenStreetMap contributors'
+		});
+
+		const satelliteLayer = L.tileLayer(
+			'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+			{ attribution: 'Tiles &copy; Esri &mdash; Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community' }
+		);
+
+		function setBasemap(mode) {
+			map.removeLayer(basemapLayer);
+			map.removeLayer(satelliteLayer);
+			if (mode === 'osm') {
+				basemapLayer.addTo(map);
+				map.getContainer().style.background = '';
+			} else if (mode === 'satellite') {
+				satelliteLayer.addTo(map);
+				map.getContainer().style.background = '';
+			} else {
+				map.getContainer().style.background = '#fff';
+			}
+		}
+
+		setBasemap(INITIAL_BASEMAP);
+		document.getElementById(
+			INITIAL_BASEMAP === 'osm' ? 'basemapOsm' : INITIAL_BASEMAP === 'satellite' ? 'basemapSatellite' : 'basemapNone'
+		).checked = true;
+
+		document.querySelectorAll('input[name="basemap"]').forEach((radio) => {
+			radio.addEventListener('change', (e) => {
+				if (e.target.checked) setBasemap(e.target.value);
+			});
+		});
+
+		function slugifyParishName(name) {
+			return (name || '')
+				.toString()
+				.toLowerCase()
+				.replace(/å/g, 'a')
+				.replace(/ä/g, 'a')
+				.replace(/ö/g, 'o')
+				.replace(/\s+/g, '-')
+				.trim();
+		}
+
+		function styleParish(feature) {
+			return {
+				color: "#000",
+				weight: 1,
+				fillColor: "#d5d399",
+				fillOpacity: 0.5
+			};
+		}
+
+		let parishLayer = null;
+
+		fetch(PARISH_GEOJSON_URL)
+			.then(res => res.json())
+			.then(data => {
+				parishLayer = L.geoJSON(data, {
+					style: styleParish,
+					onEachFeature: (feature, layer) => {
+						const name = feature.properties?.NAMN || feature.properties?.NAME || feature.properties?.name || feature.properties?.socken || '';
+						if (name) layer.bindTooltip(name, { sticky: true });
+
+						layer.on('mouseover', () => layer.setStyle({ fillOpacity: 0.7 }));
+						layer.on('mouseout', () => layer.setStyle({ fillOpacity: 0.5 }));
+
+						if (name) {
+							layer.on('click', () => {
+								const slug = slugifyParishName(name);
+								window.open(`https://utforska.gotlandsmuseum.se/${slug}/`, '_blank', 'noopener,noreferrer');
+							});
+						}
+					}
+				});
+
+				parishLayer.addTo(map);
+				parishLayer.bringToBack();
+
+				document.getElementById('toggleParish').addEventListener('change', (e) => {
+					if (e.target.checked) {
+						parishLayer.addTo(map);
+						parishLayer.bringToBack();
+					} else {
+						map.removeLayer(parishLayer);
+					}
+				});
+			});
+
+		const isTouch = L.Browser.touch;
+
+		// Less aggressive clustering: smaller radius so more individual
+		// markers stay visible even when zoomed out.
+		const markers = L.markerClusterGroup({
+			chunkedLoading: true,
+			chunkInterval: 200,
+			chunkDelay: 50,
+			spiderfyOnMaxZoom: true,
+			showCoverageOnHover: false,
+			disableClusteringAtZoom: isTouch ? 15 : 16,
+			maxClusterRadius: isTouch ? 45 : 50
+		});
+
+		function getRadiusForZoom(zoom) {
+			const bump = isTouch ? 4 : 0;
+			if (zoom >= 16) return 10 + bump;
+			if (zoom >= 12) return 8 + bump;
+			if (zoom >= 8) return 6 + bump;
+			return 4 + bump;
+		}
+
+		let currentRadius = getRadiusForZoom(map.getZoom());
+
+		function buildPopup(props, uuid) {
+			const caption = props.caption || '';
+			const id = props['investigation.id'] || '';
+			const detailedType = Array.isArray(props.detailedType)
+				? props.detailedType.join(', ')
+				: (props.detailedType || '');
+			const containerCaption = props.containerCaption || '';
+			const infoUrl = 'https://data.arkeologi.org/' + uuid;
+
+			let html = '<div class="popup-content">';
+			if (caption) html += `<strong>${caption}</strong><br>`;
+			if (id) html += `Id: ${id}<br>`;
+			if (detailedType) html += `Typ: ${detailedType}<br>`;
+			html += `<a href="${infoUrl}" target="_blank" rel="noopener noreferrer">Mer information</a>`;
+			html += '</div>';
+
+			return html;
+		}
+
+		fetch(GEOJSON_URL)
+			.then(res => res.json())
+			.then(data => {
+				const geoLayer = L.geoJSON(data, {
+					pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
+						radius: currentRadius,
+						fillColor: "#3446eb",
+						color: "#fff",
+						weight: 1,
+						fillOpacity: 0.85
+					}),
+					onEachFeature: (feature, layer) => {
+						const props = feature.properties || {};
+						const uuid = props.uuid || '';
+						layer.bindPopup(() => buildPopup(props, uuid));
+					}
+				});
+
+				markers.addLayer(geoLayer);
+				map.addLayer(markers);
+
+				if (data.bbox) {
+					map.fitBounds([
+						[data.bbox[1], data.bbox[0]],
+						[data.bbox[3], data.bbox[2]]
+					]);
+				} else {
+					map.fitBounds(markers.getBounds());
+				}
+
+				map.on('zoomend', () => {
+					currentRadius = getRadiusForZoom(map.getZoom());
+					markers.eachLayer(layer => {
+						if (layer.getAllChildMarkers) {
+							layer.getAllChildMarkers().forEach(m => m.setRadius && m.setRadius(currentRadius));
+						} else if (layer.setRadius) {
+							layer.setRadius(currentRadius);
+						}
+					});
+				});
+			});
+	</script>
+</body>
+</html>
