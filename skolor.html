@@ -36,9 +36,20 @@
 
 		const map = L.map('map', { preferCanvas: true }).setView([59.85, 17.63], 5);
 
-		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		const streetsLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 			attribution: '&copy; OpenStreetMap contributors'
 		}).addTo(map);
+
+		const satelliteLayer = L.tileLayer(
+			'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+			{ attribution: 'Tiles &copy; Esri &mdash; Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community' }
+		);
+
+		L.control.layers(
+			{ 'Karta': streetsLayer, 'Satellit': satelliteLayer },
+			{},
+			{ collapsed: false }
+		).addTo(map);
 
 		const isTouch = L.Browser.touch;
 
