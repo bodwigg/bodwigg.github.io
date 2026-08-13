@@ -7,7 +7,7 @@ title: Projects
 
 ## Projects and larger Data Migration Projects & Dataset Transformations
 
-Time flies... 40 years in business. Listed below in chronological order (newest first) are selected projects and major data migration and dataset transformation projects:
+Time flies - 40 years in business. Listed below in chronological order (newest first) are selected projects and major data migration and dataset transformation projects:
 
 #### <a href= "#p2025">2026-2025</a> · <a href= "#p2023">2024-2023</a> · <a href= "#p2021">2022-2021</a> · <a href= "#p2019">2010-2019</a> · <a href= "#p2017">2018-2017</a> · <a href= "#p2015">2016-2015</a> · <a href= "#p2013">2014-2013</a> · <a href= "#p2011">2012-2011</a> · <a href= "#p2006">2010-2006</a> · <a href= "#p2001">2005-2001</a> · <a href= "#p1996">2000-1996</a> · <a href= "#p1991">1995-1991</a> · <a href= "#p1986">1990-1986</a>
 
@@ -18,11 +18,11 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * Document AI - OCR/HTR/APE in Dokumentlagret (as Manager/Project Lead) for Nordiska museet
 * eKultur Annotations - extending the eKultur domain model with annotation data (concept development and modelling)
 * Preparedness for crises and war in museums (concept development)
-* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project (34 500 scene performaces, 19 500 works and 6 500 performers) for The National Collections of Music, Theatre and Dance, Stockholm.
+* [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project (34 500 scene performances, 19 500 works and 6 500 performers) for The National Collections of Music, Theatre and Dance, Stockholm.
 * [Musical instruments from Musical instrument museums online (MIMO)](https://kulturnav.org/e0a3622b-74ab-423d-93b7-4be5815902d8) data transformation.
 * [NMM Skipsregister (med Fiske-registeret)](https://kulturnav.org/880d21f5-3317-450e-b8d8-c71d96851f6b) dataset expansion (9 170 ships in the Fiske database) for The Norwegian Maritime Museum
 * [Sällskapet för folkundervisningens befrämjande](https://dokument.nordiskamuseet.se/sallskapet) data transformation (43 000 scanned documents) for Nordiska museet
-* Archeeology on Gotland for Gotlands Museum: [Excavations on Gotland](https://data.arkeologi.org/5a64e442-728e-404d-a219-6b482796ec56) data aggregation project (about 1 350 excavations) and data-washing and quality assurance of a finds database (approx. 206,000 records) prior to data import into a collections management system
+* Archaeology on Gotland for Gotlands Museum: [Excavations on Gotland](https://data.arkeologi.org/5a64e442-728e-404d-a219-6b482796ec56) data aggregation project (about 1 350 excavations) and data-washing and quality assurance of a finds database (approx. 206,000 records) prior to data import into a collections management system
 
 ### 2024 - 2023 <a name="p2023"></a> @ KulturIT
 
@@ -74,7 +74,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 ### 2016 - 2015 <a name="p2015"></a> @ KulturIT
 
 * [KulturNav](https://kulturnav.org/), release (2015) + 25 Releases: 1.0 - 1.5.3 (as Manager/Project Lead)
-* [Archeeology Server](https://data.arkeologi.org/), release (2015) + 10 Releases: 1.1.20 - 1.4.8 (as Manager/Project Lead)
+* [Archaeology Server](https://data.arkeologi.org/), release (2015) + 10 Releases: 1.1.20 - 1.4.8 (as Manager/Project Lead)
 * Situla - archaeological data importer (PoC; as Manager/Project Lead)
 * Dokumentlagret - infrastructure for archive resources/documents - release (2016)  + 4 Releases (as Manager/Project Lead)
 * Radius - mediation platform for KulturNav data (concept development)
@@ -95,7 +95,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * Primus Import - Situla (concept development)
 * Primus Hembygd (concept development, pilot study)
 * Investigation (report) of the Digital Infrastructure for Collection Management for archives, library and museum data (as Manager/Project Lead) for Nordiska museet
-* [Database of Photographers, Sweden](https://kulturnav.org/1f368832-7649-4386-97b6-ae40cce8752b) - migration/data transformation project (photograpers from Nationella fotografregistret) for Nordiska museet
+* [Database of Photographers, Sweden](https://kulturnav.org/1f368832-7649-4386-97b6-ae40cce8752b) - migration/data transformation project (photographers from Nationella fotografregistret) for Nordiska museet
 * [Arkitekter verksamma i Sverige](https://kulturnav.org/2b7670e1-b44e-4064-817d-27834b03067c) - migration/data transformation project (architects) for ArkDes
 
 ### 2012 - 2011 <a name="p2011"></a> @ KulturIT 
@@ -126,7 +126,7 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 * The Aranäs project, 3D documentation and modelling, research project (consult)
 * Digital Archeological Documentation, DAD - ArcView 3 extension (as Developer)
 * Intrasis GIS - ArcView 3 extension for Intrasis databases (as Developer)
-* Intra Site Information System, Intrasis 1, concept development (1997), specification (1998), release (2000) + implementation (as Manager/Project Lead). Instrasis has been used at thousands of excavations, mostly in Sweden and Norway since 2000
+* Intra Site Information System, Intrasis 1, concept development (1997), specification (1998), release (2000) + implementation (as Manager/Project Lead). Intrasis has been used at thousands of excavations, mostly in Sweden and Norway since 2000
 * The Landscape project, modelling GIS for historical maps
 
 ### 1995 - 1991 <a name="p1991"></a>@ The Central Board of National Antiquities (RAÄ)
@@ -139,8 +139,8 @@ Time flies... 40 years in business. Listed below in chronological order (newest 
 
 ### 1990 - 1986 <a name="p1986"></a> @ excavations
 
-* The Nästa excavation (as Archeologist and Manager/Project Lead; 1990) for Jönköpings läns museum
-* The Apalle excavation (as Achaeologist;  1989- 1990) for RAÄ UV Mitt
-* The Arlandastad excavation (as Archeologist; 1988) for RAÄ UV Mitt
-* The Glasrutan excavation, Linköping, (as Intern Archeologist; 1988) for RAÄ UV Mitt
+* The Nästa excavation (as Archaeologist and Manager/Project Lead; 1990) for Jönköpings läns museum
+* The Apalle excavation (as Archaeologist;  1989- 1990) for RAÄ UV Mitt
+* The Arlandastad excavation (as Archaeologist; 1988) for RAÄ UV Mitt
+* The Glasrutan excavation, Linköping, (as Intern Archaeologist; 1988) for RAÄ UV Mitt
 * The E18 excavations (as unskilled worker; "grovis") at Bålsta and Pollista (1986 - 1987) for RAÄ UV Mitt
