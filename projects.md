@@ -27,7 +27,7 @@ Time flies - 40 years in business. Listed below in chronological order (newest f
 ### 2024 - 2023 <a name="p2023"></a> @ KulturIT
 
 * KulturNav 2. The new version (concept development)
-* KulturNav, 9 Releases: - 1.12.1 - 1.12.9 (as Manager/Project Lead)
+* KulturNav, 9 Releases: 1.12.1 - 1.12.9 (as Manager/Project Lead)
 * Tvättmaskinen/Datavask - app for cleaning/matching collection metadata (as Manager/Project Lead)
 * eRep - eKultur Repository Format, specification (as Manager/Project Lead)
 * *Digitalisering av tradisjonsbåter ved norske museer*, The Norwegian Maritime Museum (consult)
@@ -140,7 +140,7 @@ Time flies - 40 years in business. Listed below in chronological order (newest f
 ### 1990 - 1986 <a name="p1986"></a> @ excavations
 
 * The Nästa excavation (as Archaeologist and Manager/Project Lead; 1990) for Jönköpings läns museum
-* The Apalle excavation (as Archaeologist;  1989- 1990) for RAÄ UV Mitt
+* The Apalle excavation (as Archaeologist;  1989 - 1990) for RAÄ UV Mitt
 * The Arlandastad excavation (as Archaeologist; 1988) for RAÄ UV Mitt
 * The Glasrutan excavation, Linköping, (as Intern Archaeologist; 1988) for RAÄ UV Mitt
 * The E18 excavations (as unskilled worker; "grovis") at Bålsta and Pollista (1986 - 1987) for RAÄ UV Mitt
