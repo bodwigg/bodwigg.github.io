@@ -7,14 +7,14 @@ title: Projects
 
 ## Projects and larger Data Migration Projects & Dataset Transformations
 
-Time flies - 40 years in business. Listed below in chronological order (newest first) are selected projects and major data migration and dataset transformation projects:
+Time flies - 40 years in business. Listed below in chronological order are selected projects and major data migration and dataset transformation projects:
 
 #### <a href= "#p2025">2026-2025</a> · <a href= "#p2023">2024-2023</a> · <a href= "#p2021">2022-2021</a> · <a href= "#p2019">2010-2019</a> · <a href= "#p2017">2018-2017</a> · <a href= "#p2015">2016-2015</a> · <a href= "#p2013">2014-2013</a> · <a href= "#p2011">2012-2011</a> · <a href= "#p2006">2010-2006</a> · <a href= "#p2001">2005-2001</a> · <a href= "#p1996">2000-1996</a> · <a href= "#p1991">1995-1991</a> · <a href= "#p1986">1990-1986</a>
 
 ### 2026 - 2025 <a name="p2025"></a> @ KulturIT
 
 * KulturNav 2. The new version (as Manager/Project Lead)
-* KulturNav, 4 Releases: 1.12.10 - 1.12.16 (as Manager/Project Lead)
+* KulturNav, 4 Releases: 1.12.10 - 1.12.17 (as Manager/Project Lead)
 * Document AI - OCR/HTR/APE in Dokumentlagret (as Manager/Project Lead) for Nordiska museet
 * eKultur Annotations - extending the eKultur domain model with annotation data (concept development and modelling)
 * Preparedness for crises and war in museums (concept development)
