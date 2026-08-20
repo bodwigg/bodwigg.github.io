@@ -15,7 +15,7 @@ At the moment, I’m also working on a new domain model (data, structures, and m
 
 ## ID <a name="id"></a>
 
-- ![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) [ORCID](https://orcid.org/0000-0001-5194-4421)
+- [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5194-4421) [ORCID](https://orcid.org/0000-0001-5194-4421)
 
 ## Contact <a name="contact"></a>
 
