@@ -14,7 +14,8 @@ I’m based in Uppsala, Sweden. I work with cultural heritage data and museums a
 At the moment, I’m also working on a new domain model (data, structures, and models) for [eKultur](https://kulturit.org/ekultur) — our software ecosystem for collections management and museum mediation. This includes, for example, a write API for [DigitaltMuseum](https://digitaltmuseum.org/), as well as a centralized service for storing, handling and retreiving annotations and AI processing of museums archive information (OCR/HTR/APE).
 
 ## ID <a name="id"></a>
-- [ORCID](https://orcid.org/0000-0001-5194-4421)
+
+- ![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) [ORCID](https://orcid.org/0000-0001-5194-4421)
 
 ## Contact <a name="contact"></a>
 
