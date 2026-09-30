@@ -15,7 +15,8 @@ Time flies - 40 years in business. Listed below in chronological order are selec
 
 * KulturNav 2. The new version (as Manager/Project Lead)
 * KulturNav, 4 Releases: 1.12.10 - 1.12.17 (as Manager/Project Lead)
-* Document AI - OCR/HTR/APE in Dokumentlagret (as Manager/Project Lead) for Nordiska museet
+* eKultur Documents - scanned historical documents in a museum context (concept development)
+* AI - OCR/HTR/APE in Dokumentlagret (as Manager/Project Lead) for Nordiska museet
 * eKultur Annotations - extending the eKultur domain model with annotation data (concept development and modelling)
 * Preparedness for crises and war in museums (concept development)
 * [Performing Arts Repertoire Database](https://kulturnav.org/project/repertoardatabasen), migration/data transformation project (34 500 scene performances, 19 500 works and 6 500 performers) for The National Collections of Music, Theatre and Dance, Stockholm.
