@@ -13,9 +13,13 @@ I’m in love with dark, high-contrast, colourful, clean, and sharp images. I of
 
 A selection of some of my [favourite photographs](portfolio.md).
 
+## Archive
+
+All my public Flickr photos – more than 6 700 – in [one archive](/flickr-archive/): year by year, by theme and album, and by camera, lens and focal length – with filters for when, where, what, why and how. Updated from Flickr every night.
+
 ## Map
 
-View about 6 000 of my georeferenced photos on a [map](map.html) (data from Flickr API). 
+View more than 6 000 of my georeferenced photos on a [map](/flickr-archive/?geo=1) in the archive.
 
 ## Flickr
 

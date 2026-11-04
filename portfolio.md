@@ -373,7 +373,7 @@ A selection of my favourite photographs, grouped into eight themes:
 	  </figcaption>
 	</figure>
 	<figure class="photo-card">
-	  <a href="https://www.flickr.com/photos/ulfbodin/54795581298/" target="_blank" rel="noopener">
+	  <a href="https://www.flickr.com/photos/ulfbodin/14721489097/" target="_blank" rel="noopener">
 		<img class="photo"
 			 src="https://live.staticflickr.com/3887/14721489097_2740023325_z.jpg"
 			 alt="Model photo, Assi, June 8, 2014"
