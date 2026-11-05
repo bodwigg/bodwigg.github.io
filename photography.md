@@ -15,7 +15,7 @@ A selection of some of my [favourite photographs](portfolio.md).
 
 ## Archive
 
-All my public Flickr photos – more than 6 700 – in [one archive](/flickr-archive/): year by year, by theme and album, and by camera, lens and focal length – with filters for when, where, what, why and how. Updated from Flickr every night.
+All my public Flickr photos – more than 6 700 – in [one interactive archive](/flickr-archive/). Updated from Flickr every night.
 
 ## Map
 
