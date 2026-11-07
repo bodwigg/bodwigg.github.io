@@ -9,6 +9,35 @@ title: Photography — Ulf Bodin
 
 I’m in love with dark, high-contrast, colourful, clean, and sharp images. I often use image stitching to achieve wider angles or square compositions. I post-process my images to recreate the mood and feeling of the moment. I never add elements to my pictures, though I sometimes merge multiple captures into one. Occasionally I use AI-assisted features in Adobe Lightroom Classic to create masks and make selective edits.
 
+## Latest photo
+
+<div class="photo-card">
+  <a id="latest-photo" href="/flickr-last/"><img id="latest-photo-img" alt="My latest photo on Flickr" style="width: auto; max-width: 100%"></a>
+  <div class="caption" id="latest-photo-caption">My latest photo on Flickr</div>
+</div>
+<script>
+  /* The latest photo on Flickr – from the archive's data, updated every night (see /flickr-last/). */
+  fetch('/flickr-archive/data/last.json', { cache: 'no-cache' })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (p) {
+      var img = document.getElementById('latest-photo-img');
+      /* The text column's width (up to 1000 px): 800 px (_c), 1024 px (_b) or 2048 px (_k) after the screen.
+         As wide as the column, but never taller than 80 % of the window - the width follows the photo's proportions. */
+      var c = p.medium.replace(/_b\.jpg$/, '_c.jpg');
+      img.srcset = c + ' 800w, ' + p.medium + ' 1024w, ' + p.src + ' 2048w';
+      img.sizes = '(max-width: 1050px) 95vw, 1000px';
+      img.src = c;
+      img.style.width = 'min(100%, ' + Math.round(80 * (p.ratio || 1.5)) + 'vh)';
+      img.style.height = 'auto';
+      img.alt = p.title || 'My latest photo on Flickr';
+      var caption = document.getElementById('latest-photo-caption');
+      caption.textContent = p.title || 'Untitled';
+      caption.appendChild(document.createElement('br'));
+      caption.appendChild(document.createTextNode('Latest on Flickr'));
+    })
+    .catch(function () { document.getElementById('latest-photo-img').hidden = true; });
+</script>
+
 ## Portfolio
 
 A selection of some of my [favourite photographs](portfolio.md).
