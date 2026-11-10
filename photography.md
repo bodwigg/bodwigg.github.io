@@ -43,10 +43,7 @@ A selection of some of my [favourite photographs](portfolio.md).
     .catch(function () { document.getElementById('latest-photo-img').hidden = true; });
 </script>
 
-All my public Flickr photos – more than 6 700 – in [one interactive archive](/flickr-archive/). Updated from Flickr every night.
-
-## Map
-
+All my public Flickr photos – more than 6 700 – in [one interactive archive](/flickr-archive/). Updated from Flickr every night. 
 View more than 6 000 of my georeferenced photos on a [map](/flickr-archive/?geo=1) in the archive.
 
 ## Flickr
