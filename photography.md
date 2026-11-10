@@ -45,8 +45,6 @@ A selection of some of my [favourite photographs](portfolio.md).
 
 All my public Flickr photos – more than 6 700 – in [one interactive archive](/flickr-archive/). Updated from Flickr every night.
 
-<div style="clear: both"></div>
-
 ## Map
 
 View more than 6 000 of my georeferenced photos on a [map](/flickr-archive/?geo=1) in the archive.
