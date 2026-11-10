@@ -13,7 +13,7 @@ I’m in love with dark, high-contrast, colourful, clean, and sharp images. I of
 
 A selection of some of my [favourite photographs](portfolio.md).
 
-## Archive
+## Photo archive
 
 <div class="photo-card" style="float: right; width: auto; margin: 0 0 1em 1.5em; text-align: center">
   <a id="latest-photo" href="/flickr-last/"><img id="latest-photo-img" alt="My latest photo on Flickr" style="width: 200px; max-width: 100%"></a>
@@ -63,7 +63,7 @@ If you are interested to use my images in commercial work or hire me for a photo
 
 ## Gear
 
-I currently use a [Canon EOS R5](/flickr-archive/?camera=Canon+EOS+R5) and a selection of Canon RF lenses – see them all, with the photos taken with each, under [Gear in the archive](/flickr-archive/#gear). Body swapping history (linked cameras open their photos in the archive):
+I currently use a [Canon EOS R5](/flickr-archive/?camera=Canon+EOS+R5) and a selection of Canon RF lenses – see them all under [Gear in the archive](/flickr-archive/#gear). Body swapping history:
 
 * 1978 - 2000: Olympus OM 1 -> Olympus OM 2n -> Leica M6 ->
 * 2000 - 2009: Olympus C-2040 Zoom -> [Sigma Dp 1](/flickr-archive/?camera=SIGMA+DP1) -> [Canon EOS 500D](/flickr-archive/?camera=Canon+EOS+500D) ->
