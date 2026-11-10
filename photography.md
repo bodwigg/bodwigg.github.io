@@ -12,7 +12,7 @@ I’m in love with dark, high-contrast, colourful, clean, and sharp images. I of
 ## Latest photo
 
 <div class="photo-card">
-  <a id="latest-photo" href="/flickr-last/"><img id="latest-photo-img" alt="My latest photo on Flickr" style="width: auto; max-width: 100%"></a>
+  <a id="latest-photo" href="/flickr-last/"><img id="latest-photo-img" alt="My latest photo on Flickr" style="width: 200px; max-width: 100%"></a>
   <div class="caption" id="latest-photo-caption">My latest photo on Flickr</div>
 </div>
 <script>
@@ -21,13 +21,14 @@ I’m in love with dark, high-contrast, colourful, clean, and sharp images. I of
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (p) {
       var img = document.getElementById('latest-photo-img');
-      /* The text column's width (up to 1000 px): 800 px (_c), 1024 px (_b) or 2048 px (_k) after the screen.
-         As wide as the column, but never taller than 80 % of the window - the width follows the photo's proportions. */
+      /* A thumbnail: at most 200 px on the long side. 320 px (_n) or, on sharp screens, 800 px (_c). */
       var c = p.medium.replace(/_b\.jpg$/, '_c.jpg');
-      img.srcset = c + ' 800w, ' + p.medium + ' 1024w, ' + p.src + ' 2048w';
-      img.sizes = '(max-width: 1050px) 95vw, 1000px';
-      img.src = c;
-      img.style.width = 'min(100%, ' + Math.round(80 * (p.ratio || 1.5)) + 'vh)';
+      var ratio = p.ratio || 1.5;
+      var w = Math.round(ratio >= 1 ? 200 : 200 * ratio);
+      img.srcset = p.small + ' 320w, ' + c + ' 800w';
+      img.sizes = w + 'px';
+      img.src = p.small;
+      img.style.width = w + 'px';
       img.style.height = 'auto';
       img.alt = p.title || 'My latest photo on Flickr';
       var caption = document.getElementById('latest-photo-caption');
