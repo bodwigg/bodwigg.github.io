@@ -55,7 +55,7 @@ If you are interested to use my images in commercial work or hire me for a photo
 
 ## Gear
 
-I currently use a [Canon EOS R5](/flickr-archive/?camera=Canon+EOS+R5) and a selection of Canon RF lenses – see them all under [Gear in the archive](/flickr-archive/#gear). Body swapping history:
+I currently use a [Canon EOS R5](/flickr-archive/?camera=Canon+EOS+R5) and a selection of [Canon RF lenses](/flickr-archive/#gear). Body swapping history:
 
 * 1978 - 2000: Olympus OM 1 -> Olympus OM 2n -> Leica M6 ->
 * 2000 - 2009: Olympus C-2040 Zoom -> [Sigma Dp 1](/flickr-archive/?camera=SIGMA+DP1) -> [Canon EOS 500D](/flickr-archive/?camera=Canon+EOS+500D) ->
