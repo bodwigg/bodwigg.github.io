@@ -37,7 +37,7 @@ title: Photography — Ulf Bodin
 
 I’m in love with dark, high-contrast, colourful, clean, and sharp images. I often use image stitching to achieve wider angles or square compositions. I post-process my images to recreate the mood and feeling of the moment. I never add elements to my pictures, though I sometimes merge multiple captures into one. Occasionally I use AI-assisted features in Adobe Lightroom Classic to create masks and make selective edits.
 
-## Portfolio and archive
+## Portfolio
 
 A selection of some of my [favourite photographs](portfolio.md).
 
