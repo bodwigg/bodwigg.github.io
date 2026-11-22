@@ -7,12 +7,6 @@ title: Photography — Ulf Bodin
 
 # Photography
 
-I’m in love with dark, high-contrast, colourful, clean, and sharp images. I often use image stitching to achieve wider angles or square compositions. I post-process my images to recreate the mood and feeling of the moment. I never add elements to my pictures, though I sometimes merge multiple captures into one. Occasionally I use AI-assisted features in Adobe Lightroom Classic to create masks and make selective edits.
-
-## Portfolio and archive
-
-A selection of some of my [favourite photographs](portfolio.md).
-
 <div class="photo-card" style="float: right; width: auto; margin: 0 0 1em 1.5em; text-align: center">
   <a id="latest-photo" href="/flickr-last/"><img id="latest-photo-img" alt="My latest photo on Flickr" style="width: 200px; max-width: 100%"></a>
   <div class="caption" id="latest-photo-caption" style="max-width: 200px">My latest photo on Flickr</div>
@@ -41,7 +35,11 @@ A selection of some of my [favourite photographs](portfolio.md).
     .catch(function () { document.getElementById('latest-photo-img').hidden = true; });
 </script>
 
-All my public Flickr photos in [one archive](/flickr-archive/). View my georeferenced photos on a [map](/flickr-archive/?geo=1) in the archive.
+I’m in love with dark, high-contrast, colourful, clean, and sharp images. I often use image stitching to achieve wider angles or square compositions. I post-process my images to recreate the mood and feeling of the moment. I never add elements to my pictures, though I sometimes merge multiple captures into one. Occasionally I use AI-assisted features in Adobe Lightroom Classic to create masks and make selective edits.
+
+## Portfolio and archive
+
+A selection of some of my [favourite photographs](portfolio.md). All my public Flickr photos in [one archive](/flickr-archive/). View my georeferenced photos on a [map](/flickr-archive/?geo=1) in the archive.
 
 ## Flickr
 
