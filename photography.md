@@ -39,11 +39,11 @@ I’m in love with dark, high-contrast, colourful, clean, and sharp images. I of
 
 ## Portfolio and archive
 
-A selection of some of my [favourite photographs](portfolio.md). All my public Flickr photos in [one archive](/flickr-archive/). View my georeferenced photos on a [map](/flickr-archive/?geo=1) in the archive.
+A selection of some of my [favourite photographs](portfolio.md).
 
 ## Flickr
 
-I’ve been using Flickr since 2007 and love the site.
+I’ve been using Flickr since 2007 and love the site. All my public Flickr photos in [one archive](/flickr-archive/). View my georeferenced photos on a [map](/flickr-archive/?geo=1) in the archive.
 
 * [My Flickr Page](https://www.flickr.com/photos/ulfbodin/)
 * [My Flickr Data Lifeboat Showcase](https://datalifeboat.flickr.org/showcase) with some images captured around my home: [Uppsala at Home – A Neighbourhood Archive](https://datalifeboat.flickr.org/dl-showcase/Ulf_Bodin-Upsala/README.html)
